@@ -1,0 +1,3039 @@
+Product Name,Category,Purchase Date,Quantity,Price,CustomerID,zipcode,discountApplied,Cluster
+Lamp,Home & Living,2023-02-11,3,855.71,7599,13672,False,2
+Bed,Home & Living,2023-04-28,5,652.67,7599,13672,True,1
+Body Lotion,Beauty & Health,2023-05-07,4,318.05,6816,99342,True,1
+Cycling Helmet,Sports & Outdoors,2023-07-11,5,885.25,7343,5123,True,1
+Laptop,Electronics,2022-11-05,4,883.85,4816,34018,True,2
+Shampoo,Beauty & Health,2023-04-02,2,960.12,4816,34018,False,2
+Laptop,Electronics,2022-11-06,1,705.96,4816,34018,False,2
+Laptop,Electronics,2023-01-07,3,921.08,4816,34018,False,2
+Cookware,Home & Living,2023-06-01,2,328.65,4816,34018,False,0
+Smartphone,Electronics,2023-05-23,2,720.98,2748,62381,False,2
+Shirt,Fashion,2023-08-02,2,385.88,2748,62381,False,0
+Basketball,Sports & Outdoors,2023-05-25,3,730.64,2748,62381,False,2
+Tennis Racket,Sports & Outdoors,2023-09-06,2,733.2,3983,75125,True,2
+Romance Novel,Books,2023-10-07,2,209.22,3983,75125,False,0
+Cookware,Home & Living,2023-06-17,4,303.58,3983,75125,False,1
+Biography,Books,2023-07-01,5,541.66,3983,75125,False,1
+Perfume,Beauty & Health,2023-01-15,3,579.9,7881,52323,True,2
+History,Books,2023-07-31,2,978.59,7881,52323,False,2
+Camera,Electronics,2023-02-20,4,32.94,7881,52323,True,1
+Shoes,Fashion,2023-09-16,3,804.95,2603,47416,False,2
+Body Lotion,Beauty & Health,2023-03-17,3,109.41,2603,47416,True,0
+Perfume,Beauty & Health,2023-02-03,2,466.61,2603,47416,False,0
+Camera,Electronics,2023-01-17,5,68.56,1882,96694,True,1
+Basketball,Sports & Outdoors,2023-05-30,1,782.63,1882,96694,True,2
+Perfume,Beauty & Health,2023-09-30,5,674.01,1882,96694,False,1
+Tennis Racket,Sports & Outdoors,2022-12-03,2,935.65,1882,96694,True,2
+History,Books,2023-01-28,1,93.72,7192,96686,True,0
+Cookware,Home & Living,2023-04-18,2,53.04,7192,96686,True,0
+Laptop,Electronics,2023-04-07,5,833.82,7192,96686,True,1
+Yoga Mat,Sports & Outdoors,2023-10-08,4,135.65,7192,96686,True,1
+Biography,Books,2023-09-23,1,299.66,7192,96686,False,0
+Shampoo,Beauty & Health,2022-12-18,5,275.88,4809,81687,True,1
+Bed,Home & Living,2023-10-21,3,804.92,4809,81687,False,2
+Handbag,Fashion,2023-04-16,3,878.38,4809,81687,True,2
+Nail Polish,Beauty & Health,2022-11-11,1,702.41,4809,81687,False,2
+History,Books,2023-05-09,5,441.64,4809,81687,False,1
+Lamp,Home & Living,2023-09-22,3,994.92,4682,59120,True,2
+Nail Polish,Beauty & Health,2023-10-08,4,317.64,9328,66001,False,1
+Smartwatch,Electronics,2022-11-07,1,704.6,9328,66001,False,2
+History,Books,2023-06-28,5,206.76,9328,66001,False,1
+Camera,Electronics,2023-07-02,2,421.99,9328,66001,False,0
+Lamp,Home & Living,2023-09-28,2,450.92,9328,66001,True,0
+Cycling Helmet,Sports & Outdoors,2023-06-29,5,107.08,4952,31778,True,1
+Yoga Mat,Sports & Outdoors,2023-08-16,1,688.73,4952,31778,True,2
+Headphones,Electronics,2023-08-21,2,446.69,4952,31778,True,0
+Dining Table,Home & Living,2023-10-20,1,721.92,4952,31778,False,2
+Nail Polish,Beauty & Health,2023-08-20,3,201.02,4952,31778,False,0
+Sofa,Home & Living,2023-08-16,5,938.32,7099,18038,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-11,1,585.46,4982,1019,False,2
+Cookware,Home & Living,2023-05-25,3,893.59,4982,1019,False,2
+Headphones,Electronics,2023-07-30,5,377.21,6474,27528,False,1
+Yoga Mat,Sports & Outdoors,2023-10-25,1,541.59,6474,27528,True,0
+Headphones,Electronics,2022-12-16,5,727.01,6474,27528,False,1
+Camera,Electronics,2023-09-06,3,784.23,6474,27528,False,2
+Mystery Novel,Books,2023-05-13,1,562.25,7811,44837,False,0
+Lipstick,Beauty & Health,2023-09-27,1,577.66,2140,89136,False,2
+Yoga Mat,Sports & Outdoors,2023-06-03,2,664.4,2140,89136,False,2
+Dining Table,Home & Living,2023-03-07,2,51.25,2140,89136,False,0
+Tennis Racket,Sports & Outdoors,2022-12-27,1,486.31,9040,62598,False,0
+Smartwatch,Electronics,2023-02-22,5,811.39,9040,62598,True,1
+Smartwatch,Electronics,2023-06-04,3,433.04,9040,62598,True,0
+Handbag,Fashion,2023-08-06,4,447.3,9040,62598,True,1
+Lipstick,Beauty & Health,2022-11-17,5,449.13,9040,62598,True,1
+Dining Table,Home & Living,2023-09-04,1,372.06,2483,54141,True,0
+Sofa,Home & Living,2023-04-19,5,363.57,6929,84412,True,1
+Lipstick,Beauty & Health,2023-05-14,5,465.2,6929,84412,False,1
+Shampoo,Beauty & Health,2023-05-11,2,813.13,6929,84412,False,2
+Yoga Mat,Sports & Outdoors,2023-01-19,1,690.57,5091,17482,True,2
+Nail Polish,Beauty & Health,2023-06-03,4,827.1,5091,17482,True,2
+Camera,Electronics,2023-09-22,2,762.62,5007,32120,True,2
+Sofa,Home & Living,2023-01-14,4,587.85,5007,32120,True,1
+Cookware,Home & Living,2023-02-18,2,286.86,5007,32120,True,0
+Shampoo,Beauty & Health,2023-06-05,3,539.99,5007,32120,False,2
+Body Lotion,Beauty & Health,2023-01-14,2,596.61,1141,19839,True,2
+Handbag,Fashion,2023-08-21,2,834.0,1141,19839,False,2
+Yoga Mat,Sports & Outdoors,2023-06-24,1,64.02,1141,19839,True,0
+Basketball,Sports & Outdoors,2023-02-02,1,169.02,7321,17103,True,0
+Smartwatch,Electronics,2023-10-07,2,246.19,7321,17103,True,0
+Perfume,Beauty & Health,2023-05-05,3,260.65,7321,17103,True,0
+Smartwatch,Electronics,2022-11-12,1,783.79,7321,17103,True,2
+Sunglasses,Fashion,2022-12-20,4,397.8,7321,17103,True,1
+Biography,Books,2022-12-26,3,117.51,6642,4130,True,0
+Sofa,Home & Living,2023-08-28,3,661.8,6642,4130,False,2
+History,Books,2023-01-11,1,901.22,5093,98693,True,2
+Dining Table,Home & Living,2023-10-17,1,802.49,1397,69696,False,2
+Science Fiction,Books,2023-05-21,5,218.66,1397,69696,False,1
+Romance Novel,Books,2023-10-11,5,592.13,1397,69696,True,1
+Sunglasses,Fashion,2023-01-17,1,925.16,6429,73644,True,2
+Romance Novel,Books,2023-05-17,4,164.91,6429,73644,False,1
+History,Books,2023-09-30,1,741.26,6429,73644,False,2
+Cycling Helmet,Sports & Outdoors,2023-10-07,3,387.17,7169,50627,False,0
+Tennis Racket,Sports & Outdoors,2023-04-08,4,837.97,7169,50627,False,2
+Dining Table,Home & Living,2023-09-15,2,249.13,7169,50627,True,0
+Shampoo,Beauty & Health,2023-01-11,2,794.55,7169,50627,True,2
+Mystery Novel,Books,2023-03-17,4,372.68,6511,22082,True,1
+Laptop,Electronics,2023-05-02,1,656.53,6511,22082,True,2
+Lipstick,Beauty & Health,2023-05-30,4,226.28,6511,22082,True,1
+Camera,Electronics,2023-10-27,5,868.58,3559,95751,False,1
+Mystery Novel,Books,2023-09-11,3,893.25,6885,22457,False,2
+Perfume,Beauty & Health,2023-04-28,3,198.08,6885,22457,True,0
+Smartwatch,Electronics,2023-08-09,4,473.34,6885,22457,True,1
+Biography,Books,2023-05-18,1,827.36,3385,42671,False,2
+Camping Tent,Sports & Outdoors,2022-12-05,4,990.45,3385,42671,False,2
+Cookware,Home & Living,2023-07-17,1,329.77,3385,42671,True,0
+Dress,Fashion,2023-01-31,2,783.8,3385,42671,True,2
+Tennis Racket,Sports & Outdoors,2023-02-13,1,685.76,2885,96439,False,2
+Cycling Helmet,Sports & Outdoors,2023-02-22,1,876.74,2885,96439,False,2
+Yoga Mat,Sports & Outdoors,2023-09-21,5,873.09,2885,96439,True,1
+Shoes,Fashion,2023-03-23,5,279.84,3807,40360,True,1
+Tennis Racket,Sports & Outdoors,2023-07-15,4,954.25,3807,40360,False,2
+Shirt,Fashion,2023-05-12,2,713.18,3807,40360,False,2
+Shoes,Fashion,2023-04-30,4,537.42,3807,40360,False,1
+Sunglasses,Fashion,2022-12-11,5,843.32,6248,21328,True,1
+Dress,Fashion,2022-11-03,5,453.3,6248,21328,True,1
+Biography,Books,2023-03-16,2,306.43,6248,21328,True,0
+Cycling Helmet,Sports & Outdoors,2023-01-17,1,873.28,9274,61044,True,2
+Nail Polish,Beauty & Health,2023-06-21,5,719.74,9274,61044,False,1
+Yoga Mat,Sports & Outdoors,2023-06-21,4,21.23,9274,61044,True,1
+Shampoo,Beauty & Health,2023-03-25,4,818.95,9274,61044,False,2
+Dining Table,Home & Living,2023-09-28,1,291.6,9274,61044,False,0
+Lipstick,Beauty & Health,2022-11-19,1,116.57,9562,69254,False,0
+Sunglasses,Fashion,2023-01-03,2,302.01,9562,69254,False,0
+Biography,Books,2022-12-28,3,451.91,9562,69254,False,0
+Shirt,Fashion,2023-04-23,4,600.35,6817,47778,False,1
+Laptop,Electronics,2023-10-25,1,103.5,6817,47778,False,0
+Laptop,Electronics,2022-12-25,2,364.14,6817,47778,True,0
+Dress,Fashion,2023-07-17,2,93.94,6817,47778,True,0
+Perfume,Beauty & Health,2023-06-17,1,323.86,9771,90229,False,0
+History,Books,2023-08-29,1,793.49,9771,90229,False,2
+Dining Table,Home & Living,2023-01-01,4,760.39,9771,90229,False,1
+Nail Polish,Beauty & Health,2023-07-22,5,529.94,8545,85502,False,1
+Body Lotion,Beauty & Health,2022-12-24,4,792.84,8545,85502,False,2
+Sofa,Home & Living,2023-09-03,2,101.84,8545,85502,False,0
+Camping Tent,Sports & Outdoors,2023-06-24,1,812.98,8545,85502,True,2
+Camera,Electronics,2023-04-30,1,495.09,5301,3146,False,0
+Shoes,Fashion,2023-04-02,3,661.09,5301,3146,True,2
+Yoga Mat,Sports & Outdoors,2023-09-29,5,548.58,5301,3146,True,1
+Dress,Fashion,2023-07-07,4,74.34,5301,3146,False,1
+Shampoo,Beauty & Health,2023-04-18,1,341.84,5301,3146,True,0
+Smartphone,Electronics,2023-04-11,5,143.98,9925,40346,True,1
+Mystery Novel,Books,2023-02-09,2,973.72,9925,40346,False,2
+Headphones,Electronics,2023-04-11,3,315.77,2220,85338,True,0
+Bed,Home & Living,2023-03-22,4,533.69,2220,85338,True,1
+Dress,Fashion,2023-07-20,3,102.75,2220,85338,True,0
+Romance Novel,Books,2022-12-14,3,504.58,2220,85338,False,0
+Headphones,Electronics,2023-09-09,5,479.64,2220,85338,True,1
+Bed,Home & Living,2023-05-16,2,762.58,5153,42846,True,2
+Shirt,Fashion,2023-04-13,1,13.38,1541,98672,True,0
+Camping Tent,Sports & Outdoors,2023-07-23,3,579.73,1541,98672,True,2
+Dress,Fashion,2023-02-27,5,268.37,5577,28971,True,1
+Biography,Books,2023-02-25,4,832.68,5577,28971,False,2
+Lamp,Home & Living,2023-02-23,5,919.56,5577,28971,False,1
+Laptop,Electronics,2023-04-29,4,246.28,5577,28971,False,1
+Tennis Racket,Sports & Outdoors,2023-09-20,2,52.81,8031,59735,True,0
+Shoes,Fashion,2023-08-07,2,187.02,4390,10380,True,0
+History,Books,2022-12-24,1,492.28,2602,37138,False,0
+Mystery Novel,Books,2023-04-27,2,905.27,1717,27622,True,2
+Nail Polish,Beauty & Health,2022-11-12,3,909.88,1717,27622,False,2
+Smartphone,Electronics,2023-08-02,2,715.75,9134,46625,False,2
+Sunglasses,Fashion,2023-03-27,2,768.21,9450,51181,False,2
+Dining Table,Home & Living,2023-01-03,1,732.56,9450,51181,True,2
+Sunglasses,Fashion,2023-01-05,1,882.13,9450,51181,False,2
+Shampoo,Beauty & Health,2023-01-29,1,726.45,9450,51181,True,2
+Yoga Mat,Sports & Outdoors,2023-03-30,3,932.27,9450,51181,True,2
+Dress,Fashion,2023-01-08,2,61.58,6790,57875,False,0
+Dress,Fashion,2023-06-19,1,933.91,6790,57875,True,2
+Yoga Mat,Sports & Outdoors,2023-08-06,3,791.05,6790,57875,True,2
+Romance Novel,Books,2023-09-09,1,688.95,6790,57875,False,2
+History,Books,2023-02-01,1,530.57,6790,57875,True,0
+History,Books,2022-12-17,5,586.46,3287,21334,True,1
+Laptop,Electronics,2023-01-30,3,221.61,3287,21334,True,0
+Shirt,Fashion,2023-04-12,3,635.22,3247,20827,True,2
+Biography,Books,2023-02-25,4,281.58,3247,20827,True,1
+Smartphone,Electronics,2022-12-21,4,402.35,3247,20827,False,1
+Yoga Mat,Sports & Outdoors,2023-05-23,4,744.2,1971,34300,True,1
+Tennis Racket,Sports & Outdoors,2023-01-30,1,469.13,1971,34300,False,0
+Shoes,Fashion,2023-04-08,3,655.97,5971,39562,True,2
+Romance Novel,Books,2022-11-01,4,751.0,5971,39562,True,1
+Dress,Fashion,2023-05-21,4,537.86,6182,5944,True,1
+Body Lotion,Beauty & Health,2023-06-11,3,533.69,6182,5944,True,2
+Lamp,Home & Living,2023-01-11,5,944.52,8449,71598,False,1
+Basketball,Sports & Outdoors,2023-08-16,2,888.29,8449,71598,False,2
+Cookware,Home & Living,2023-07-15,4,964.33,8122,16367,False,2
+Shampoo,Beauty & Health,2023-03-08,5,900.25,1352,8431,True,1
+Body Lotion,Beauty & Health,2023-10-04,5,646.83,1352,8431,True,1
+Sunglasses,Fashion,2023-09-15,3,816.11,1352,8431,True,2
+Basketball,Sports & Outdoors,2023-10-10,5,426.96,1352,8431,False,1
+Dress,Fashion,2023-10-14,1,281.9,5082,42404,True,0
+Cookware,Home & Living,2022-11-04,1,175.4,5082,42404,False,0
+Bed,Home & Living,2023-05-31,1,580.47,5082,42404,True,2
+Body Lotion,Beauty & Health,2023-02-19,5,127.86,5082,42404,True,1
+Dining Table,Home & Living,2022-12-15,5,854.67,6406,67139,True,1
+Laptop,Electronics,2023-01-08,5,174.28,2922,88264,False,1
+Biography,Books,2022-12-24,4,728.07,2928,90214,False,1
+Bed,Home & Living,2022-12-07,4,49.64,2928,90214,False,1
+Laptop,Electronics,2023-08-03,5,566.05,2928,90214,False,1
+Cycling Helmet,Sports & Outdoors,2023-06-30,2,513.27,2928,90214,True,0
+Headphones,Electronics,2023-07-19,5,291.31,2928,90214,True,1
+Shampoo,Beauty & Health,2023-05-12,4,408.97,7411,72928,False,1
+History,Books,2023-06-29,1,969.73,7411,72928,False,2
+Yoga Mat,Sports & Outdoors,2023-07-11,1,865.51,7411,72928,True,2
+Laptop,Electronics,2023-03-14,1,465.02,7411,72928,True,0
+Basketball,Sports & Outdoors,2023-09-08,4,587.62,7411,72928,False,1
+Sofa,Home & Living,2023-02-22,5,120.26,8834,21981,True,1
+Headphones,Electronics,2023-02-15,5,250.83,8834,21981,True,1
+Lamp,Home & Living,2023-06-26,5,432.39,8834,21981,False,1
+Body Lotion,Beauty & Health,2023-03-13,4,430.08,8834,21981,False,1
+Science Fiction,Books,2023-05-21,4,612.81,7732,47209,True,1
+Dress,Fashion,2023-05-13,3,637.59,7732,47209,True,2
+Dining Table,Home & Living,2023-06-05,4,962.81,7732,47209,True,2
+Camera,Electronics,2023-07-06,3,526.84,5153,87110,True,2
+Dress,Fashion,2023-04-05,1,131.07,5153,87110,True,0
+Cookware,Home & Living,2022-11-20,3,847.6,5153,87110,False,2
+Nail Polish,Beauty & Health,2022-11-24,4,504.92,5153,87110,False,1
+Smartwatch,Electronics,2023-03-14,1,22.71,5153,87110,False,0
+Perfume,Beauty & Health,2023-02-19,4,889.61,7110,9389,True,2
+Biography,Books,2023-05-18,5,460.94,7110,9389,False,1
+Shirt,Fashion,2023-09-20,3,924.63,5510,66212,False,2
+Dress,Fashion,2022-12-03,4,935.89,5510,66212,True,2
+Cookware,Home & Living,2022-12-05,5,576.2,5510,66212,False,1
+Tennis Racket,Sports & Outdoors,2023-08-28,3,524.39,5510,66212,False,2
+Romance Novel,Books,2023-10-02,3,184.35,1399,12227,True,0
+Biography,Books,2023-06-09,5,585.27,1399,12227,True,1
+Cycling Helmet,Sports & Outdoors,2023-10-22,5,616.0,9102,17406,False,1
+Shampoo,Beauty & Health,2023-07-04,1,659.37,9102,17406,True,2
+Sofa,Home & Living,2022-11-01,2,524.06,9102,17406,True,0
+Laptop,Electronics,2022-12-01,5,10.56,9102,17406,False,1
+Romance Novel,Books,2022-11-29,5,855.46,7306,4104,True,1
+Headphones,Electronics,2023-01-24,2,966.64,4239,32374,False,2
+Smartwatch,Electronics,2023-07-25,3,313.28,4240,49388,True,0
+Cycling Helmet,Sports & Outdoors,2023-06-25,5,589.49,4240,49388,False,1
+Cookware,Home & Living,2023-08-30,2,120.47,4240,49388,True,0
+Nail Polish,Beauty & Health,2023-01-14,2,880.7,5122,33455,True,2
+Shirt,Fashion,2022-11-19,2,235.57,5122,33455,True,0
+Smartphone,Electronics,2023-10-04,1,479.17,7526,82698,True,0
+Shampoo,Beauty & Health,2022-10-30,4,577.34,7526,82698,True,1
+Sunglasses,Fashion,2023-10-22,1,434.91,7526,82698,True,0
+Body Lotion,Beauty & Health,2023-04-12,2,281.02,7526,82698,False,0
+Sunglasses,Fashion,2023-05-13,1,420.6,7526,82698,True,0
+Shirt,Fashion,2022-11-17,4,908.05,1407,21980,True,2
+Bed,Home & Living,2023-07-08,2,966.98,1407,21980,False,2
+Lipstick,Beauty & Health,2022-12-10,4,619.1,1851,15678,False,1
+Sofa,Home & Living,2023-03-28,1,283.33,1851,15678,False,0
+Handbag,Fashion,2022-11-03,3,766.03,1851,15678,True,2
+Body Lotion,Beauty & Health,2023-04-13,2,714.0,1851,15678,True,2
+Headphones,Electronics,2023-05-31,4,455.28,4821,32084,True,1
+Yoga Mat,Sports & Outdoors,2023-01-21,1,304.19,4821,32084,True,0
+Shoes,Fashion,2023-10-08,5,109.62,4821,32084,False,1
+Biography,Books,2023-05-24,2,695.25,4821,32084,True,2
+Perfume,Beauty & Health,2023-10-12,4,59.13,9076,34234,False,1
+Sunglasses,Fashion,2023-10-18,1,123.41,1510,56350,False,0
+Shoes,Fashion,2023-09-15,4,142.32,2039,52942,False,1
+Headphones,Electronics,2023-01-29,3,916.45,2039,52942,False,2
+Shoes,Fashion,2022-11-15,4,367.69,2039,52942,True,1
+Nail Polish,Beauty & Health,2022-12-05,1,741.66,2039,52942,True,2
+History,Books,2023-03-28,2,861.74,2039,52942,False,2
+Dining Table,Home & Living,2023-03-11,2,482.81,1217,19794,False,0
+Handbag,Fashion,2023-01-04,4,644.56,1217,19794,False,1
+Mystery Novel,Books,2023-07-13,3,801.38,6800,61899,True,2
+Nail Polish,Beauty & Health,2023-02-20,5,455.61,3034,77553,False,1
+Smartphone,Electronics,2023-09-29,4,739.58,3034,77553,False,1
+History,Books,2023-09-01,2,943.19,3034,77553,True,2
+Cycling Helmet,Sports & Outdoors,2023-10-29,4,16.34,3034,77553,True,1
+Shirt,Fashion,2023-08-10,4,645.61,4269,99388,True,1
+Biography,Books,2023-02-16,4,428.26,4269,99388,True,1
+Dress,Fashion,2023-07-12,3,332.75,5375,2775,False,0
+Shirt,Fashion,2023-01-31,3,277.61,7321,61508,True,0
+Dining Table,Home & Living,2023-08-03,1,327.57,8136,12892,False,0
+Tennis Racket,Sports & Outdoors,2023-08-21,4,218.68,8136,12892,True,1
+Nail Polish,Beauty & Health,2023-07-11,2,306.21,8136,12892,False,0
+Handbag,Fashion,2023-05-04,2,86.21,8136,12892,True,0
+Dining Table,Home & Living,2023-09-20,2,392.36,7637,1272,True,0
+Headphones,Electronics,2023-02-23,2,290.57,1629,48912,True,0
+History,Books,2023-09-01,4,51.18,1629,48912,True,1
+Shampoo,Beauty & Health,2023-04-08,3,561.48,1629,48912,True,2
+Dress,Fashion,2022-12-27,5,638.82,8994,27825,True,1
+History,Books,2023-01-11,5,114.52,8994,27825,False,1
+Body Lotion,Beauty & Health,2022-11-01,2,561.21,6232,29434,False,2
+Dress,Fashion,2022-11-19,2,777.95,6232,29434,False,2
+Perfume,Beauty & Health,2023-06-24,2,57.96,6232,29434,True,0
+Body Lotion,Beauty & Health,2023-02-02,4,528.07,6232,29434,True,1
+History,Books,2023-04-05,2,468.55,8728,6498,False,0
+Nail Polish,Beauty & Health,2023-02-02,1,982.48,8728,6498,False,2
+Romance Novel,Books,2022-11-22,5,602.41,5671,2638,True,1
+Mystery Novel,Books,2023-08-08,2,907.39,5671,2638,True,2
+Camera,Electronics,2022-11-06,2,615.13,9401,5800,False,2
+Lipstick,Beauty & Health,2022-11-17,4,374.3,9401,5800,False,1
+Smartphone,Electronics,2022-11-23,4,358.52,9401,5800,True,1
+Shampoo,Beauty & Health,2023-04-21,5,885.05,9064,97320,False,1
+Shirt,Fashion,2023-08-30,3,247.8,9064,97320,False,0
+Camping Tent,Sports & Outdoors,2023-03-22,5,403.55,1526,58622,True,1
+Lipstick,Beauty & Health,2023-01-10,4,66.61,1526,58622,True,1
+Smartphone,Electronics,2022-11-26,2,726.04,1350,78278,True,2
+Nail Polish,Beauty & Health,2023-01-18,4,61.53,1350,78278,True,1
+Shoes,Fashion,2023-03-06,3,626.3,1350,78278,False,2
+Sofa,Home & Living,2022-11-28,1,136.58,1350,78278,True,0
+Mystery Novel,Books,2023-02-10,3,652.19,2230,45658,True,2
+Romance Novel,Books,2022-11-25,1,932.09,2230,45658,False,2
+Dining Table,Home & Living,2023-03-04,1,653.19,2230,45658,False,2
+Perfume,Beauty & Health,2023-09-30,4,71.41,2230,45658,False,1
+Smartphone,Electronics,2022-12-23,3,526.51,2230,45658,False,2
+Headphones,Electronics,2023-09-12,4,43.38,9073,62758,False,1
+Perfume,Beauty & Health,2023-08-02,3,341.08,4551,68094,True,0
+Lipstick,Beauty & Health,2022-11-15,3,303.79,1015,8114,True,0
+Tennis Racket,Sports & Outdoors,2022-12-14,4,495.24,1015,8114,False,1
+Camping Tent,Sports & Outdoors,2023-09-06,2,995.48,7632,1363,False,2
+Handbag,Fashion,2022-12-13,1,777.82,7632,1363,True,2
+Tennis Racket,Sports & Outdoors,2023-10-11,3,507.33,7632,1363,False,0
+Lamp,Home & Living,2023-02-25,5,894.09,7632,1363,True,1
+Smartwatch,Electronics,2023-07-20,5,37.02,4148,8827,False,1
+Shoes,Fashion,2023-07-20,2,847.27,8360,19231,True,2
+Laptop,Electronics,2023-04-16,3,302.63,8360,19231,False,0
+Biography,Books,2023-01-20,1,272.47,4793,54419,False,0
+Cycling Helmet,Sports & Outdoors,2023-08-07,5,791.89,4793,54419,False,1
+Cycling Helmet,Sports & Outdoors,2023-01-06,2,453.8,4793,54419,True,0
+Shampoo,Beauty & Health,2022-12-05,3,585.94,4793,54419,False,2
+Sofa,Home & Living,2023-09-19,3,665.07,2055,49578,False,2
+Yoga Mat,Sports & Outdoors,2023-10-10,5,378.19,2055,49578,True,1
+Shampoo,Beauty & Health,2022-11-06,3,327.49,2055,49578,True,0
+Cycling Helmet,Sports & Outdoors,2022-11-19,3,296.08,2055,49578,True,0
+History,Books,2022-12-11,4,471.51,2055,49578,True,1
+Nail Polish,Beauty & Health,2023-06-29,4,120.18,9054,31564,True,1
+Science Fiction,Books,2023-03-29,5,839.44,9054,31564,False,1
+Yoga Mat,Sports & Outdoors,2023-04-17,3,422.56,4141,50413,False,0
+Nail Polish,Beauty & Health,2022-11-23,5,120.06,4141,50413,True,1
+Tennis Racket,Sports & Outdoors,2023-01-05,2,481.71,4141,50413,True,0
+Dress,Fashion,2023-01-07,5,674.25,7011,34272,True,1
+Romance Novel,Books,2022-12-22,4,129.03,7011,34272,True,1
+Cycling Helmet,Sports & Outdoors,2023-01-05,4,35.61,7011,34272,False,1
+Sofa,Home & Living,2023-07-12,3,919.97,7011,34272,True,2
+Romance Novel,Books,2023-09-04,4,917.8,1481,27703,True,2
+Lamp,Home & Living,2023-01-01,3,902.11,1481,27703,False,2
+Sunglasses,Fashion,2023-04-19,3,783.11,5433,61346,False,2
+Sunglasses,Fashion,2023-10-01,1,963.23,5433,61346,True,2
+History,Books,2022-11-14,1,793.37,5433,61346,True,2
+Camping Tent,Sports & Outdoors,2023-07-13,4,381.91,4513,79609,True,1
+Shampoo,Beauty & Health,2023-07-26,2,689.0,3464,90759,False,2
+Smartphone,Electronics,2022-12-16,1,58.67,4313,31883,True,0
+Camping Tent,Sports & Outdoors,2022-10-30,4,489.34,4313,31883,True,1
+Body Lotion,Beauty & Health,2023-08-01,3,399.54,8399,40932,True,0
+Romance Novel,Books,2023-06-28,2,400.47,8399,40932,False,0
+Romance Novel,Books,2023-09-22,2,928.27,8399,40932,False,2
+Perfume,Beauty & Health,2023-03-02,5,855.69,8399,40932,False,1
+Shirt,Fashion,2023-03-15,5,823.66,6765,62192,False,1
+Basketball,Sports & Outdoors,2023-09-01,1,752.77,6765,62192,False,2
+Smartphone,Electronics,2023-01-23,2,839.09,6765,62192,False,2
+Laptop,Electronics,2023-10-04,1,337.52,5070,24930,True,0
+Camera,Electronics,2023-09-17,2,998.78,5070,24930,False,2
+Bed,Home & Living,2023-03-03,2,892.84,5070,24930,False,2
+Lipstick,Beauty & Health,2023-06-18,3,195.19,5070,24930,True,0
+Shoes,Fashion,2023-06-04,5,162.13,8302,53761,True,1
+Nail Polish,Beauty & Health,2023-09-21,5,679.52,8302,53761,False,1
+Science Fiction,Books,2023-04-08,4,314.04,8302,53761,False,1
+Mystery Novel,Books,2022-12-22,3,413.08,8302,53761,False,0
+Laptop,Electronics,2023-10-10,3,79.43,9382,5190,True,0
+Body Lotion,Beauty & Health,2023-05-06,1,61.42,9382,5190,True,0
+Dining Table,Home & Living,2023-04-05,3,637.63,9382,5190,True,2
+Body Lotion,Beauty & Health,2022-12-31,2,244.78,9382,5190,False,0
+Handbag,Fashion,2023-10-05,5,876.36,4652,53731,False,1
+Body Lotion,Beauty & Health,2022-12-18,4,32.34,4652,53731,False,1
+Biography,Books,2023-05-24,2,152.44,4652,53731,True,0
+Camera,Electronics,2022-11-13,3,689.31,4652,53731,False,2
+Basketball,Sports & Outdoors,2023-10-21,4,739.04,4652,53731,False,1
+Body Lotion,Beauty & Health,2023-04-26,4,542.38,4552,53676,True,1
+Handbag,Fashion,2023-06-04,4,201.38,5402,51901,False,1
+Sofa,Home & Living,2023-09-02,2,548.02,4244,24688,False,2
+Shoes,Fashion,2023-02-04,4,250.39,4244,24688,False,1
+Basketball,Sports & Outdoors,2022-11-29,5,314.29,2314,16799,True,1
+Smartwatch,Electronics,2023-06-15,4,311.59,2314,16799,True,1
+Headphones,Electronics,2023-05-18,2,99.77,2314,16799,True,0
+Handbag,Fashion,2023-09-25,2,849.09,8486,63036,True,2
+Dining Table,Home & Living,2023-03-04,5,317.87,8486,63036,True,1
+History,Books,2023-08-24,2,269.43,8486,63036,True,0
+Basketball,Sports & Outdoors,2022-11-12,3,929.06,8486,63036,True,2
+Science Fiction,Books,2022-12-14,3,867.29,8486,63036,False,2
+Basketball,Sports & Outdoors,2023-03-10,3,566.46,8334,98455,False,2
+Dining Table,Home & Living,2022-12-25,2,144.79,2875,23171,False,0
+Smartphone,Electronics,2023-05-02,5,215.24,2875,23171,True,1
+Cookware,Home & Living,2023-01-21,1,453.34,2875,23171,True,0
+Laptop,Electronics,2023-09-29,5,948.36,7322,36577,False,1
+Camping Tent,Sports & Outdoors,2023-05-05,5,842.64,7322,36577,True,1
+Smartphone,Electronics,2023-07-09,4,751.71,7322,36577,True,1
+Smartwatch,Electronics,2023-10-25,3,844.86,7322,36577,True,2
+Nail Polish,Beauty & Health,2023-08-03,5,617.63,7964,83230,True,1
+Camera,Electronics,2023-06-26,5,949.99,7964,83230,True,1
+Mystery Novel,Books,2023-05-15,4,820.99,7964,83230,True,2
+Science Fiction,Books,2023-05-04,1,65.85,4404,42767,False,0
+Biography,Books,2023-09-20,2,900.84,4404,42767,True,2
+Yoga Mat,Sports & Outdoors,2023-09-05,1,170.32,6985,28038,False,0
+Nail Polish,Beauty & Health,2023-04-20,1,772.25,6985,28038,True,2
+Handbag,Fashion,2023-10-03,4,355.23,6985,28038,False,1
+Dining Table,Home & Living,2023-03-25,5,80.75,6985,28038,False,1
+Sunglasses,Fashion,2023-06-29,3,720.29,6985,28038,False,2
+Science Fiction,Books,2022-11-20,4,587.69,9060,54448,False,1
+Dining Table,Home & Living,2023-04-22,4,379.02,9060,54448,True,1
+Yoga Mat,Sports & Outdoors,2023-08-31,3,875.58,9060,54448,True,2
+Shoes,Fashion,2023-01-01,4,750.68,9060,54448,False,1
+Smartphone,Electronics,2023-07-05,4,258.7,1797,14300,False,1
+Lipstick,Beauty & Health,2023-08-11,4,535.25,1345,6439,True,1
+Bed,Home & Living,2023-08-31,4,12.84,1345,6439,False,1
+Lamp,Home & Living,2023-03-18,2,153.84,1345,6439,False,0
+Handbag,Fashion,2023-07-10,1,68.54,2042,14336,True,0
+Smartwatch,Electronics,2022-11-16,3,950.41,2042,14336,False,2
+Lamp,Home & Living,2022-12-09,1,167.3,2042,14336,False,0
+Basketball,Sports & Outdoors,2023-06-19,2,476.01,8247,2812,False,0
+Shirt,Fashion,2023-08-05,4,811.93,8247,2812,False,2
+Cycling Helmet,Sports & Outdoors,2023-02-26,2,330.14,8247,2812,True,0
+Mystery Novel,Books,2023-02-02,2,697.48,8247,2812,True,2
+Shirt,Fashion,2023-08-01,4,813.8,6051,76271,False,2
+Sofa,Home & Living,2023-07-16,4,772.73,6051,76271,True,1
+Shampoo,Beauty & Health,2023-10-23,5,326.91,6051,76271,False,1
+Lipstick,Beauty & Health,2023-04-29,4,538.0,6706,50733,False,1
+Laptop,Electronics,2023-07-13,3,552.35,6706,50733,True,2
+Mystery Novel,Books,2023-05-24,2,521.63,6706,50733,True,0
+Bed,Home & Living,2023-08-25,3,548.34,6706,50733,False,2
+Laptop,Electronics,2023-08-02,4,18.03,1948,38703,False,1
+Mystery Novel,Books,2022-11-07,3,154.97,1948,38703,True,0
+Camera,Electronics,2023-05-17,3,221.5,1948,38703,False,0
+Biography,Books,2023-01-18,3,808.56,1948,38703,True,2
+Headphones,Electronics,2023-05-19,5,63.24,9841,52356,True,1
+Tennis Racket,Sports & Outdoors,2023-04-12,1,430.89,9841,52356,True,0
+Cookware,Home & Living,2022-11-07,4,928.78,9841,52356,False,2
+History,Books,2023-09-28,1,999.02,9841,52356,True,2
+Nail Polish,Beauty & Health,2023-09-29,2,907.59,9841,52356,True,2
+Bed,Home & Living,2023-01-31,1,530.32,9053,8944,True,0
+Sunglasses,Fashion,2023-03-29,5,560.09,9053,8944,True,1
+Dress,Fashion,2023-03-16,2,12.4,9053,8944,True,0
+Sunglasses,Fashion,2022-12-13,2,263.5,9053,8944,False,0
+Yoga Mat,Sports & Outdoors,2023-07-18,3,402.34,9053,8944,False,0
+Sunglasses,Fashion,2023-09-10,3,611.39,9982,24808,False,2
+Smartwatch,Electronics,2023-01-31,3,733.8,9982,24808,False,2
+Bed,Home & Living,2023-10-13,3,720.9,9982,24808,True,2
+Shampoo,Beauty & Health,2023-04-27,1,802.23,9982,24808,False,2
+Basketball,Sports & Outdoors,2023-03-28,1,167.57,9982,24808,False,0
+Basketball,Sports & Outdoors,2023-03-11,1,997.58,7475,82665,True,2
+Yoga Mat,Sports & Outdoors,2023-09-18,4,92.54,7475,82665,False,1
+Romance Novel,Books,2023-07-25,3,996.45,7475,82665,False,2
+Biography,Books,2023-09-13,5,726.76,7475,82665,False,1
+Shampoo,Beauty & Health,2023-05-21,4,455.37,7475,82665,True,1
+Laptop,Electronics,2023-08-01,4,417.48,8767,13590,True,1
+Sunglasses,Fashion,2023-06-23,1,356.97,3200,75427,True,0
+Laptop,Electronics,2023-05-30,3,272.68,4950,94716,False,0
+Yoga Mat,Sports & Outdoors,2023-02-23,3,491.24,4950,94716,True,0
+Mystery Novel,Books,2023-07-27,2,364.13,5691,5487,True,0
+Shampoo,Beauty & Health,2023-08-16,2,886.5,5691,5487,False,2
+Cycling Helmet,Sports & Outdoors,2022-12-17,2,707.81,3566,77212,False,2
+Laptop,Electronics,2023-08-25,5,517.38,3566,77212,True,1
+Yoga Mat,Sports & Outdoors,2023-10-09,1,187.37,3566,77212,True,0
+Tennis Racket,Sports & Outdoors,2022-11-01,4,519.09,2842,1316,False,1
+Yoga Mat,Sports & Outdoors,2023-06-29,4,212.42,2842,1316,False,1
+Romance Novel,Books,2023-04-07,2,60.88,2842,1316,False,0
+Camping Tent,Sports & Outdoors,2023-09-14,3,107.6,3146,21281,True,0
+Cookware,Home & Living,2022-11-07,1,480.38,3146,21281,True,0
+Basketball,Sports & Outdoors,2023-09-02,3,151.17,3146,21281,False,0
+Shoes,Fashion,2023-05-23,3,242.73,3146,21281,True,0
+Camping Tent,Sports & Outdoors,2023-02-28,4,644.8,5035,63888,False,1
+Cycling Helmet,Sports & Outdoors,2023-04-06,4,841.43,5035,63888,False,2
+Camera,Electronics,2023-01-06,2,981.61,5035,63888,True,2
+Camping Tent,Sports & Outdoors,2023-06-30,3,879.28,5035,63888,True,2
+Sofa,Home & Living,2023-10-04,2,256.84,5035,63888,True,0
+Body Lotion,Beauty & Health,2022-12-13,2,698.08,4753,93584,False,2
+Nail Polish,Beauty & Health,2023-02-22,2,809.95,4753,93584,True,2
+Headphones,Electronics,2023-07-19,4,741.83,4753,93584,True,1
+History,Books,2023-06-27,1,724.34,9417,98891,False,2
+Lipstick,Beauty & Health,2023-02-02,5,636.05,9417,98891,True,1
+Lamp,Home & Living,2022-11-04,1,781.57,9417,98891,False,2
+Nail Polish,Beauty & Health,2023-03-18,3,228.9,7764,88097,True,0
+Body Lotion,Beauty & Health,2023-01-22,4,688.06,7764,88097,False,1
+Mystery Novel,Books,2023-06-26,5,373.08,7764,88097,True,1
+Sofa,Home & Living,2023-02-05,3,436.61,7764,88097,True,0
+Cookware,Home & Living,2022-12-23,2,319.87,9982,54518,False,0
+Cookware,Home & Living,2023-06-08,2,228.02,9982,54518,True,0
+Nail Polish,Beauty & Health,2023-01-10,4,207.24,9982,54518,True,1
+Shampoo,Beauty & Health,2023-02-22,4,248.83,9982,54518,False,1
+Lipstick,Beauty & Health,2023-02-16,2,866.07,9982,54518,True,2
+Handbag,Fashion,2022-12-26,3,386.2,3321,50020,False,0
+Smartwatch,Electronics,2023-08-21,1,625.32,3321,50020,True,2
+Perfume,Beauty & Health,2022-11-15,4,718.47,5238,86580,False,1
+Shirt,Fashion,2023-03-16,2,174.12,5238,86580,True,0
+Shirt,Fashion,2023-06-13,2,946.69,5238,86580,True,2
+Shampoo,Beauty & Health,2023-06-06,4,701.12,5238,86580,False,1
+Yoga Mat,Sports & Outdoors,2023-10-09,2,741.63,7778,24315,False,2
+Handbag,Fashion,2023-05-14,1,14.05,7778,24315,True,0
+Cookware,Home & Living,2023-02-15,1,466.58,7778,24315,True,0
+Nail Polish,Beauty & Health,2023-05-02,2,879.89,7778,24315,False,2
+Lipstick,Beauty & Health,2023-05-09,4,575.15,3662,11793,True,1
+Shampoo,Beauty & Health,2023-05-16,3,350.97,3662,11793,False,0
+Tennis Racket,Sports & Outdoors,2023-05-14,4,704.92,8782,37583,True,1
+Camera,Electronics,2023-06-04,3,999.26,8782,37583,True,2
+Perfume,Beauty & Health,2023-06-09,2,122.96,8782,37583,False,0
+Romance Novel,Books,2023-05-15,3,367.64,1594,95124,False,0
+Nail Polish,Beauty & Health,2023-10-12,1,607.5,1594,95124,True,2
+Cookware,Home & Living,2022-11-10,2,469.58,1594,95124,False,0
+Mystery Novel,Books,2023-02-06,5,972.75,1594,95124,True,1
+Body Lotion,Beauty & Health,2023-04-11,2,687.79,1594,95124,False,2
+Lamp,Home & Living,2023-10-12,5,111.05,6574,91181,False,1
+Dress,Fashion,2022-11-20,5,54.15,6574,91181,True,1
+Laptop,Electronics,2023-03-26,5,154.68,6574,91181,True,1
+Camping Tent,Sports & Outdoors,2023-01-02,1,175.8,3194,33668,True,0
+Yoga Mat,Sports & Outdoors,2023-09-14,5,329.01,3194,33668,True,1
+Cycling Helmet,Sports & Outdoors,2023-02-17,3,23.89,3194,33668,True,0
+Biography,Books,2023-06-02,3,753.21,3194,33668,False,2
+Cycling Helmet,Sports & Outdoors,2023-01-08,5,593.81,3194,33668,False,1
+Romance Novel,Books,2023-04-12,3,900.67,6199,88865,False,2
+Shirt,Fashion,2023-07-15,5,575.57,6199,88865,False,1
+Biography,Books,2023-07-28,3,406.34,6199,88865,True,0
+Biography,Books,2023-08-12,1,444.62,6199,88865,True,0
+Lipstick,Beauty & Health,2022-11-09,2,860.81,6199,88865,False,2
+Lipstick,Beauty & Health,2023-07-16,1,498.53,7151,81876,True,0
+Bed,Home & Living,2023-02-01,1,972.46,7151,81876,True,2
+Perfume,Beauty & Health,2023-09-24,3,30.36,7151,81876,True,0
+Science Fiction,Books,2022-11-14,4,661.35,7151,81876,False,1
+Science Fiction,Books,2022-12-07,2,213.31,7151,81876,False,0
+Cycling Helmet,Sports & Outdoors,2023-04-15,1,591.07,5736,77592,False,2
+Shampoo,Beauty & Health,2023-02-08,5,91.93,5736,77592,False,1
+Perfume,Beauty & Health,2023-03-12,5,469.96,6495,17815,False,1
+Cycling Helmet,Sports & Outdoors,2023-04-16,2,62.99,6495,17815,False,0
+Shampoo,Beauty & Health,2023-01-06,4,370.27,6495,17815,True,1
+Smartwatch,Electronics,2023-07-20,1,523.89,6495,17815,True,0
+Smartphone,Electronics,2023-07-15,5,308.55,6495,17815,True,1
+Smartphone,Electronics,2023-06-08,1,609.53,2870,9361,False,2
+Smartwatch,Electronics,2023-09-08,4,443.8,7537,63348,False,1
+Lipstick,Beauty & Health,2023-06-18,4,381.19,7537,63348,True,1
+Smartwatch,Electronics,2023-08-13,3,491.68,6741,77277,False,0
+Shoes,Fashion,2023-05-25,4,162.33,6741,77277,False,1
+Sofa,Home & Living,2023-01-12,3,445.33,6741,77277,True,0
+Science Fiction,Books,2023-04-08,2,742.44,6741,77277,True,2
+Bed,Home & Living,2023-06-17,2,776.82,3072,47003,True,2
+Nail Polish,Beauty & Health,2023-09-29,1,172.12,3072,47003,True,0
+Yoga Mat,Sports & Outdoors,2022-11-17,5,253.27,1985,44083,False,1
+Laptop,Electronics,2023-10-08,1,653.87,7055,58665,False,2
+Smartphone,Electronics,2023-03-25,3,280.27,7055,58665,False,0
+Body Lotion,Beauty & Health,2022-12-11,2,159.31,7055,58665,True,0
+Body Lotion,Beauty & Health,2023-09-23,5,613.42,7055,58665,False,1
+Camera,Electronics,2023-01-29,5,20.31,7055,58665,True,1
+Handbag,Fashion,2023-02-05,4,464.55,1535,29455,True,1
+Shirt,Fashion,2023-01-08,1,714.4,1535,29455,True,2
+Yoga Mat,Sports & Outdoors,2023-02-23,2,43.95,1535,29455,True,0
+Handbag,Fashion,2023-09-22,5,759.8,1535,29455,False,1
+Biography,Books,2023-02-21,2,577.62,8765,98727,True,2
+Shampoo,Beauty & Health,2022-12-21,2,387.16,8765,98727,False,0
+Shirt,Fashion,2023-10-14,4,699.56,8765,98727,True,1
+Bed,Home & Living,2023-03-12,2,70.04,8203,96483,True,0
+Sofa,Home & Living,2023-04-12,2,816.2,8203,96483,False,2
+Camera,Electronics,2023-05-22,5,317.93,1347,40283,False,1
+History,Books,2023-02-10,4,459.5,1347,40283,False,1
+Dining Table,Home & Living,2023-05-02,4,985.43,3759,89888,False,2
+Body Lotion,Beauty & Health,2023-07-06,1,946.58,3759,89888,False,2
+Dining Table,Home & Living,2022-12-19,5,424.71,3759,89888,True,1
+Handbag,Fashion,2023-07-20,4,758.95,3759,89888,False,1
+Headphones,Electronics,2023-08-06,4,373.54,3759,89888,False,1
+Sofa,Home & Living,2023-05-27,2,91.35,6873,60238,True,0
+Lamp,Home & Living,2023-06-11,1,64.65,5634,31154,False,0
+Handbag,Fashion,2023-07-19,5,80.31,5634,31154,True,1
+Handbag,Fashion,2022-12-12,3,138.43,1854,67259,True,0
+Laptop,Electronics,2023-01-05,4,890.46,1854,67259,True,2
+Perfume,Beauty & Health,2023-01-30,4,384.38,1854,67259,False,1
+Perfume,Beauty & Health,2023-06-07,3,26.71,1854,67259,False,0
+Sunglasses,Fashion,2023-02-03,4,386.18,1854,67259,True,1
+Sofa,Home & Living,2022-11-08,2,402.14,7777,38145,False,0
+Tennis Racket,Sports & Outdoors,2023-10-07,5,914.73,7777,38145,False,1
+Lipstick,Beauty & Health,2023-04-23,2,911.7,7777,38145,False,2
+Lamp,Home & Living,2023-02-17,2,929.34,7777,38145,False,2
+Basketball,Sports & Outdoors,2023-04-14,1,859.67,7777,38145,True,2
+Science Fiction,Books,2023-02-06,2,660.15,5372,60791,False,2
+Dress,Fashion,2023-08-17,4,791.6,5372,60791,False,2
+Dress,Fashion,2023-06-09,2,109.7,5372,60791,True,0
+Dress,Fashion,2022-12-04,4,831.42,5372,60791,False,2
+Sunglasses,Fashion,2023-01-10,2,458.23,3484,86062,False,0
+Camera,Electronics,2023-10-18,4,319.36,3484,86062,False,1
+Perfume,Beauty & Health,2023-04-22,5,154.88,3484,86062,False,1
+Headphones,Electronics,2023-08-02,1,440.56,3484,86062,True,0
+Perfume,Beauty & Health,2023-03-03,2,77.36,7804,41483,False,0
+Dress,Fashion,2023-09-11,4,722.41,7804,41483,False,1
+Shampoo,Beauty & Health,2022-11-05,3,233.69,7804,41483,False,0
+Yoga Mat,Sports & Outdoors,2022-11-19,4,408.53,7804,41483,False,1
+Nail Polish,Beauty & Health,2023-06-17,5,284.94,4873,50411,False,1
+Body Lotion,Beauty & Health,2023-02-04,2,669.82,4873,50411,True,2
+Camera,Electronics,2023-04-04,2,912.62,4873,50411,True,2
+Basketball,Sports & Outdoors,2023-05-08,2,916.91,5691,68067,True,2
+Science Fiction,Books,2023-01-12,4,917.55,8862,88183,False,2
+Dining Table,Home & Living,2023-09-04,4,790.53,8862,88183,True,2
+Camera,Electronics,2023-01-14,3,119.33,8862,88183,False,0
+Handbag,Fashion,2023-06-15,5,508.86,8862,88183,False,1
+Smartwatch,Electronics,2022-12-02,1,320.49,8862,88183,True,0
+Biography,Books,2023-10-16,3,489.81,8381,30913,False,0
+Camping Tent,Sports & Outdoors,2023-05-11,1,605.32,8381,30913,True,2
+Biography,Books,2023-05-18,5,279.26,8381,30913,False,1
+Body Lotion,Beauty & Health,2023-09-26,2,26.11,8381,30913,False,0
+Camping Tent,Sports & Outdoors,2023-04-30,3,95.18,8381,30913,True,0
+Lipstick,Beauty & Health,2022-11-21,5,211.33,6845,76338,False,1
+Smartwatch,Electronics,2023-01-20,2,979.37,6845,76338,True,2
+Bed,Home & Living,2023-09-13,5,168.44,6845,76338,False,1
+Romance Novel,Books,2023-06-07,5,684.25,6845,76338,True,1
+Romance Novel,Books,2023-05-10,1,467.26,7372,76788,True,0
+Sunglasses,Fashion,2023-06-12,2,320.01,2521,45386,False,0
+Yoga Mat,Sports & Outdoors,2023-03-22,4,478.49,6996,81524,False,1
+History,Books,2023-10-13,4,864.92,6996,81524,True,2
+Smartphone,Electronics,2023-02-09,4,524.35,6996,81524,True,1
+Sunglasses,Fashion,2023-05-27,3,91.17,6152,7207,True,0
+Body Lotion,Beauty & Health,2023-07-20,3,941.09,6152,7207,True,2
+Nail Polish,Beauty & Health,2023-05-13,2,692.31,8260,32205,True,2
+Shoes,Fashion,2023-07-04,3,982.87,8260,32205,True,2
+Smartphone,Electronics,2022-12-23,1,312.36,8260,32205,True,0
+Camping Tent,Sports & Outdoors,2022-12-21,5,223.57,8260,32205,False,1
+Dress,Fashion,2022-12-22,3,929.76,8260,32205,False,2
+Shirt,Fashion,2022-11-15,1,383.74,5019,28360,True,0
+Science Fiction,Books,2023-02-20,4,340.13,8473,75286,True,1
+Lamp,Home & Living,2023-01-09,5,766.35,8473,75286,True,1
+Shoes,Fashion,2022-11-05,1,321.39,8473,75286,True,0
+Science Fiction,Books,2022-12-30,4,28.11,8473,75286,True,1
+Camera,Electronics,2023-08-12,3,15.82,6665,4980,False,0
+Bed,Home & Living,2023-06-30,2,332.32,6665,4980,True,0
+History,Books,2023-10-13,1,80.46,6665,4980,False,0
+Tennis Racket,Sports & Outdoors,2023-10-28,5,107.47,5812,33532,True,1
+Shampoo,Beauty & Health,2023-03-05,1,363.64,5812,33532,True,0
+Handbag,Fashion,2023-07-28,2,679.13,5812,33532,False,2
+Lipstick,Beauty & Health,2023-04-13,4,663.01,7230,22659,False,1
+Mystery Novel,Books,2023-04-25,3,810.69,7230,22659,True,2
+Shoes,Fashion,2023-02-23,4,252.18,7230,22659,True,1
+Shoes,Fashion,2023-09-24,1,838.68,7230,22659,True,2
+Mystery Novel,Books,2023-06-02,5,308.35,9812,73153,False,1
+Yoga Mat,Sports & Outdoors,2023-02-09,4,676.75,9812,73153,True,1
+Dress,Fashion,2023-02-05,3,621.81,9812,73153,True,2
+Cycling Helmet,Sports & Outdoors,2022-12-06,4,450.74,9812,73153,True,1
+Nail Polish,Beauty & Health,2023-06-13,2,526.75,9812,73153,True,0
+Mystery Novel,Books,2023-10-08,5,254.16,4150,16938,False,1
+Romance Novel,Books,2023-09-12,1,710.6,9626,68449,False,2
+Camera,Electronics,2022-11-08,2,221.5,9626,68449,False,0
+Biography,Books,2023-08-31,2,195.86,9626,68449,False,0
+History,Books,2023-07-17,2,607.8,9626,68449,True,2
+Lamp,Home & Living,2023-02-13,1,181.46,9626,68449,False,0
+Dining Table,Home & Living,2023-10-20,3,222.51,9939,35769,False,0
+Camping Tent,Sports & Outdoors,2023-04-21,1,661.65,9939,35769,False,2
+Smartwatch,Electronics,2023-09-03,2,779.1,9939,35769,True,2
+Smartwatch,Electronics,2023-07-06,4,568.92,9939,35769,True,1
+Basketball,Sports & Outdoors,2022-11-19,1,877.13,1957,47228,True,2
+Camera,Electronics,2022-12-27,3,307.59,8847,30299,False,0
+Headphones,Electronics,2022-11-17,2,192.07,8847,30299,True,0
+Cookware,Home & Living,2023-08-14,1,343.8,8847,30299,False,0
+Nail Polish,Beauty & Health,2023-07-01,1,587.23,8847,30299,True,2
+Body Lotion,Beauty & Health,2023-02-09,2,711.01,8847,30299,True,2
+Camera,Electronics,2023-08-29,3,683.94,7969,78310,False,2
+Lipstick,Beauty & Health,2023-05-07,3,424.1,7969,78310,True,0
+Camping Tent,Sports & Outdoors,2023-01-13,4,408.75,7969,78310,False,1
+Body Lotion,Beauty & Health,2023-04-17,1,461.0,4790,87575,True,0
+Camera,Electronics,2023-10-10,5,998.06,4790,87575,True,1
+Shoes,Fashion,2023-05-19,3,143.51,4790,87575,True,0
+Sofa,Home & Living,2023-08-12,1,696.11,8745,89373,True,2
+History,Books,2023-08-31,2,378.7,8745,89373,True,0
+Camera,Electronics,2023-07-29,4,15.74,8745,89373,True,1
+Biography,Books,2023-03-09,3,96.24,8745,89373,False,0
+Shampoo,Beauty & Health,2023-04-16,5,472.36,8745,89373,True,1
+Lipstick,Beauty & Health,2023-02-07,4,386.59,2912,95371,False,1
+Shirt,Fashion,2023-01-16,5,790.22,6658,31799,False,1
+Shoes,Fashion,2023-09-06,5,979.32,6658,31799,False,1
+Basketball,Sports & Outdoors,2022-12-11,4,398.91,8638,21767,True,1
+Sofa,Home & Living,2022-11-30,5,753.07,8638,21767,False,1
+Camera,Electronics,2022-12-28,5,834.96,7526,3328,True,1
+History,Books,2023-05-15,5,344.02,7526,3328,False,1
+History,Books,2023-02-14,2,74.07,7526,3328,False,0
+Cookware,Home & Living,2022-11-28,5,497.5,7526,3328,False,1
+Cookware,Home & Living,2023-09-11,2,376.83,7526,3328,False,0
+Laptop,Electronics,2023-08-08,3,899.71,9652,68054,True,2
+Basketball,Sports & Outdoors,2023-01-11,2,825.0,6613,84733,False,2
+Mystery Novel,Books,2023-04-10,4,557.79,6613,84733,True,1
+Lipstick,Beauty & Health,2023-01-17,2,481.29,6613,84733,False,0
+Camera,Electronics,2023-04-18,4,797.03,6613,84733,False,2
+Shampoo,Beauty & Health,2023-04-18,4,320.03,6589,14726,True,1
+Bed,Home & Living,2022-11-02,3,564.47,7361,10015,True,2
+Lipstick,Beauty & Health,2022-11-01,3,629.85,7361,10015,False,2
+Body Lotion,Beauty & Health,2023-01-31,4,77.24,7361,10015,False,1
+Shoes,Fashion,2023-10-18,1,420.24,1487,79745,True,0
+Camping Tent,Sports & Outdoors,2023-04-17,5,493.85,1487,79745,False,1
+Tennis Racket,Sports & Outdoors,2023-03-26,2,368.38,1487,79745,False,0
+Science Fiction,Books,2023-04-28,2,316.62,5346,39428,False,0
+Shampoo,Beauty & Health,2023-03-28,5,902.06,5346,39428,False,1
+Cookware,Home & Living,2023-04-13,3,639.13,7033,62810,False,2
+Cookware,Home & Living,2023-01-03,4,853.62,7033,62810,True,2
+Nail Polish,Beauty & Health,2023-06-12,2,391.01,7033,62810,True,0
+Dress,Fashion,2022-12-14,5,610.57,7033,62810,False,1
+Perfume,Beauty & Health,2023-06-02,4,435.71,7033,62810,True,1
+Body Lotion,Beauty & Health,2023-05-20,5,979.42,9090,12017,True,1
+Smartwatch,Electronics,2023-04-05,1,691.68,9090,12017,True,2
+History,Books,2023-01-06,2,910.48,9874,99898,False,2
+Camera,Electronics,2023-09-02,1,435.11,9874,99898,True,0
+Headphones,Electronics,2023-08-15,3,971.26,9874,99898,False,2
+Cookware,Home & Living,2023-01-29,2,747.88,9744,17084,True,2
+Nail Polish,Beauty & Health,2022-11-24,5,893.19,9744,17084,True,1
+Yoga Mat,Sports & Outdoors,2023-07-14,5,678.4,9744,17084,False,1
+Perfume,Beauty & Health,2022-11-26,1,442.64,6245,78562,True,0
+Sunglasses,Fashion,2023-10-11,2,149.04,6245,78562,True,0
+Sofa,Home & Living,2022-11-19,4,374.73,3972,40689,True,1
+History,Books,2023-07-29,4,367.04,3972,40689,False,1
+Body Lotion,Beauty & Health,2022-11-04,1,981.94,3972,40689,False,2
+Headphones,Electronics,2023-05-15,1,648.83,3972,40689,True,2
+Headphones,Electronics,2023-08-16,3,24.17,4734,53290,True,0
+Cookware,Home & Living,2023-09-26,3,41.83,4734,53290,False,0
+Yoga Mat,Sports & Outdoors,2023-08-08,1,658.23,4734,53290,False,2
+Basketball,Sports & Outdoors,2023-07-14,2,114.73,4734,53290,False,0
+Basketball,Sports & Outdoors,2022-11-18,4,668.46,5768,21088,False,1
+Shoes,Fashion,2023-03-03,2,190.86,5768,21088,False,0
+Cycling Helmet,Sports & Outdoors,2023-04-20,3,738.76,1035,40797,True,2
+Basketball,Sports & Outdoors,2023-05-08,5,534.81,1035,40797,True,1
+Camera,Electronics,2023-10-17,3,214.42,1035,40797,False,0
+Romance Novel,Books,2023-04-18,2,491.18,5755,48441,False,0
+Sofa,Home & Living,2023-06-12,2,126.55,5755,48441,True,0
+Science Fiction,Books,2023-02-01,1,235.93,5755,48441,False,0
+Lipstick,Beauty & Health,2023-03-25,1,997.22,6111,72727,False,2
+Lamp,Home & Living,2023-01-21,2,461.83,6111,72727,True,0
+Dining Table,Home & Living,2023-01-17,1,993.92,6111,72727,True,2
+Basketball,Sports & Outdoors,2023-02-09,2,397.34,7014,63908,False,0
+Dress,Fashion,2023-01-17,1,779.84,5097,69874,False,2
+Camping Tent,Sports & Outdoors,2023-08-15,5,682.5,5097,69874,True,1
+Smartwatch,Electronics,2023-07-10,5,325.4,5097,69874,True,1
+Dining Table,Home & Living,2023-09-24,3,679.59,5097,69874,True,2
+Body Lotion,Beauty & Health,2023-01-01,4,828.19,5097,69874,False,2
+Science Fiction,Books,2023-07-05,1,822.22,6573,1652,True,2
+Basketball,Sports & Outdoors,2023-09-26,3,139.3,9056,60199,False,0
+Headphones,Electronics,2023-02-13,2,722.8,9056,60199,False,2
+Tennis Racket,Sports & Outdoors,2023-03-02,5,377.3,9849,31642,False,1
+Shoes,Fashion,2023-01-06,5,843.93,4888,20892,False,1
+Handbag,Fashion,2023-07-30,1,637.66,4888,20892,False,2
+Cycling Helmet,Sports & Outdoors,2023-06-16,3,18.17,4888,20892,False,0
+Science Fiction,Books,2023-08-05,4,706.01,4888,20892,False,1
+Camping Tent,Sports & Outdoors,2022-11-14,5,407.76,4888,20892,True,1
+Lipstick,Beauty & Health,2023-06-02,4,87.17,1732,62465,False,1
+Science Fiction,Books,2023-01-18,4,604.43,1732,62465,False,1
+Shampoo,Beauty & Health,2023-07-30,1,34.97,1732,62465,False,0
+Dress,Fashion,2023-10-18,3,557.42,1732,62465,False,2
+Shirt,Fashion,2022-12-31,4,155.77,1732,62465,True,1
+Basketball,Sports & Outdoors,2022-11-27,4,853.52,2160,46235,False,2
+Sofa,Home & Living,2023-02-19,1,772.6,2160,46235,True,2
+Shampoo,Beauty & Health,2023-02-14,4,819.28,3682,94780,False,2
+Body Lotion,Beauty & Health,2023-03-28,2,505.8,9985,32394,True,0
+Dining Table,Home & Living,2023-04-21,1,382.21,9985,32394,True,0
+Cookware,Home & Living,2023-08-09,5,366.2,8359,39851,True,1
+Perfume,Beauty & Health,2023-07-29,2,279.71,8359,39851,False,0
+History,Books,2023-01-23,3,454.5,8951,53006,True,0
+Biography,Books,2023-06-10,3,985.98,8951,53006,True,2
+Lamp,Home & Living,2023-10-29,3,440.21,3581,42544,True,0
+Shirt,Fashion,2023-03-09,4,48.76,3581,42544,True,1
+Biography,Books,2023-07-16,4,612.05,3581,42544,True,1
+Camera,Electronics,2023-10-26,1,123.56,3581,42544,True,0
+Cycling Helmet,Sports & Outdoors,2023-10-10,5,745.72,2671,22890,True,1
+Perfume,Beauty & Health,2022-11-23,1,672.52,2671,22890,False,2
+Dress,Fashion,2023-06-19,1,440.53,2671,22890,False,0
+Romance Novel,Books,2022-12-20,1,715.92,2671,22890,True,2
+Basketball,Sports & Outdoors,2022-11-03,4,334.47,2671,22890,False,1
+Sunglasses,Fashion,2023-07-23,4,40.19,4368,23649,True,1
+Camera,Electronics,2023-01-07,2,696.19,4368,23649,False,2
+Sunglasses,Fashion,2023-01-16,4,172.32,4368,23649,True,1
+Shampoo,Beauty & Health,2023-10-11,3,376.84,4368,23649,True,0
+Sunglasses,Fashion,2023-02-28,1,349.98,4368,23649,False,0
+Science Fiction,Books,2023-04-27,1,971.91,6271,8140,False,2
+Mystery Novel,Books,2023-03-30,1,926.63,6271,8140,False,2
+Nail Polish,Beauty & Health,2022-10-30,3,859.13,8760,48376,False,2
+Lamp,Home & Living,2023-08-23,5,713.19,8760,48376,False,1
+Biography,Books,2023-01-24,5,39.58,8760,48376,False,1
+Nail Polish,Beauty & Health,2023-06-14,4,59.07,8570,47027,False,1
+Tennis Racket,Sports & Outdoors,2023-01-31,5,778.27,8570,47027,False,1
+Headphones,Electronics,2023-04-12,5,394.74,3957,38546,False,1
+Tennis Racket,Sports & Outdoors,2023-04-05,5,493.98,3957,38546,True,1
+Science Fiction,Books,2023-05-23,1,939.8,1080,97526,True,2
+Camping Tent,Sports & Outdoors,2023-10-29,4,266.3,1080,97526,True,1
+Biography,Books,2023-06-15,2,989.88,1080,97526,True,2
+History,Books,2023-05-13,3,874.76,2154,60224,True,2
+Laptop,Electronics,2023-03-24,4,693.78,2154,60224,False,1
+Smartwatch,Electronics,2022-12-18,1,103.53,2154,60224,False,0
+Dining Table,Home & Living,2023-06-12,1,271.07,7145,75929,False,0
+History,Books,2023-02-16,3,939.25,7145,75929,True,2
+Shampoo,Beauty & Health,2022-12-14,1,375.46,7145,75929,False,0
+Romance Novel,Books,2023-01-07,1,928.96,3274,71813,True,2
+Dining Table,Home & Living,2023-09-21,5,727.41,3274,71813,True,1
+Nail Polish,Beauty & Health,2023-08-08,1,213.35,3274,71813,True,0
+Camera,Electronics,2023-03-11,1,794.65,3274,71813,True,2
+Lamp,Home & Living,2023-10-05,1,310.33,3274,71813,False,0
+Science Fiction,Books,2023-10-22,4,594.37,2184,93840,True,1
+Headphones,Electronics,2023-06-16,3,899.16,2184,93840,False,2
+Mystery Novel,Books,2022-11-01,5,998.46,3875,23077,True,1
+Science Fiction,Books,2022-12-30,3,933.11,3875,23077,True,2
+Camera,Electronics,2023-08-21,3,762.12,3875,23077,True,2
+Shirt,Fashion,2022-11-23,5,831.86,3875,23077,False,1
+Nail Polish,Beauty & Health,2023-08-17,4,339.14,3875,23077,True,1
+Body Lotion,Beauty & Health,2022-11-14,1,332.22,7422,80297,False,0
+Mystery Novel,Books,2023-01-13,1,105.35,4596,43858,False,0
+Biography,Books,2023-03-04,3,483.1,4575,66326,False,0
+Body Lotion,Beauty & Health,2023-07-10,2,44.82,4575,66326,True,0
+Body Lotion,Beauty & Health,2023-08-01,1,367.1,4575,66326,False,0
+Romance Novel,Books,2022-12-08,2,398.92,8217,80967,True,0
+Headphones,Electronics,2023-06-17,5,129.08,8217,80967,False,1
+Dining Table,Home & Living,2023-03-29,2,133.37,8217,80967,False,0
+Sunglasses,Fashion,2023-02-24,3,327.49,8217,80967,False,0
+Cycling Helmet,Sports & Outdoors,2023-10-06,2,273.86,3194,90149,True,0
+Camping Tent,Sports & Outdoors,2023-01-17,4,374.88,3194,90149,True,1
+Shirt,Fashion,2023-08-19,4,348.05,6817,89456,True,1
+Tennis Racket,Sports & Outdoors,2023-07-14,2,633.2,6817,89456,False,2
+Sunglasses,Fashion,2023-08-11,4,487.28,6817,89456,True,1
+Shirt,Fashion,2022-12-12,5,729.73,3591,51327,True,1
+Tennis Racket,Sports & Outdoors,2023-03-01,1,742.17,3816,5907,True,2
+Shoes,Fashion,2022-12-27,4,449.51,3816,5907,True,1
+Mystery Novel,Books,2023-07-30,3,675.81,9315,95898,True,2
+Lamp,Home & Living,2023-10-25,5,561.59,9315,95898,True,1
+Shampoo,Beauty & Health,2023-06-29,5,883.16,9315,95898,False,1
+Mystery Novel,Books,2023-03-27,4,127.68,9315,95898,True,1
+Dining Table,Home & Living,2022-11-07,3,229.39,8506,57750,True,0
+Handbag,Fashion,2023-01-21,4,158.16,8506,57750,True,1
+Headphones,Electronics,2023-05-14,4,85.36,8506,57750,False,1
+Romance Novel,Books,2023-09-22,5,295.74,8506,57750,True,1
+Shoes,Fashion,2023-02-18,1,982.34,4793,7463,False,2
+Cycling Helmet,Sports & Outdoors,2023-05-27,1,540.52,3072,93726,True,0
+Biography,Books,2023-05-22,4,778.8,3072,93726,True,2
+Lipstick,Beauty & Health,2023-02-01,1,217.4,3072,93726,False,0
+Shoes,Fashion,2023-04-17,3,439.21,3072,93726,True,0
+Yoga Mat,Sports & Outdoors,2023-01-27,2,14.35,2825,79813,False,0
+Basketball,Sports & Outdoors,2023-02-05,2,383.59,2825,79813,True,0
+Bed,Home & Living,2023-07-27,4,741.24,1407,88560,True,1
+Laptop,Electronics,2023-04-16,1,895.87,1407,88560,False,2
+Laptop,Electronics,2023-09-18,3,402.4,1407,88560,True,0
+Body Lotion,Beauty & Health,2023-02-26,4,743.81,3200,1180,True,1
+Body Lotion,Beauty & Health,2023-03-15,2,69.85,3200,1180,True,0
+Bed,Home & Living,2023-07-06,1,396.55,3200,1180,True,0
+Mystery Novel,Books,2023-07-26,5,39.5,9849,63249,False,1
+Mystery Novel,Books,2023-08-07,4,132.62,9849,63249,True,1
+Sofa,Home & Living,2023-09-01,5,787.75,9849,63249,False,1
+Shoes,Fashion,2023-06-07,4,845.84,9849,63249,True,2
+Mystery Novel,Books,2023-01-07,2,341.23,9849,63249,True,0
+Shoes,Fashion,2022-11-25,5,37.81,3478,44558,True,1
+Tennis Racket,Sports & Outdoors,2023-07-20,1,993.37,3478,44558,False,2
+Shampoo,Beauty & Health,2023-08-19,4,673.89,2256,50436,True,1
+Biography,Books,2023-10-08,1,83.59,2256,50436,False,0
+Headphones,Electronics,2023-10-15,3,510.85,2256,50436,False,0
+Smartphone,Electronics,2023-03-23,2,454.39,2256,50436,True,0
+Cycling Helmet,Sports & Outdoors,2023-09-21,3,223.31,7118,12746,True,0
+Camping Tent,Sports & Outdoors,2022-11-05,2,753.76,7118,12746,False,2
+Sunglasses,Fashion,2023-07-08,4,846.97,7118,12746,False,2
+Biography,Books,2023-01-09,3,502.13,7118,12746,False,0
+Bed,Home & Living,2023-01-10,5,365.18,3727,20255,True,1
+Mystery Novel,Books,2023-06-18,2,489.89,3727,20255,True,0
+Camera,Electronics,2023-04-25,4,850.14,3727,20255,True,2
+Sunglasses,Fashion,2023-04-15,4,667.79,3727,20255,True,1
+Shampoo,Beauty & Health,2023-02-28,1,697.91,3727,20255,False,2
+Yoga Mat,Sports & Outdoors,2023-08-21,3,837.72,3366,60260,False,2
+Shirt,Fashion,2023-10-05,3,909.08,5781,84079,False,2
+Romance Novel,Books,2023-04-14,3,623.27,5781,84079,True,2
+Sofa,Home & Living,2023-06-23,3,818.01,5781,84079,False,2
+Sunglasses,Fashion,2023-01-22,3,357.34,5781,84079,True,0
+Shoes,Fashion,2022-12-24,2,214.58,5781,84079,True,0
+Body Lotion,Beauty & Health,2023-09-06,4,915.54,7766,2512,True,2
+Body Lotion,Beauty & Health,2022-11-30,2,50.84,7766,2512,True,0
+Lipstick,Beauty & Health,2023-05-27,5,999.35,7766,2512,False,1
+Sofa,Home & Living,2022-12-03,5,829.07,7766,2512,True,1
+Mystery Novel,Books,2022-12-23,2,976.12,7766,2512,True,2
+Shampoo,Beauty & Health,2022-11-09,5,185.47,8282,86896,True,1
+Shoes,Fashion,2023-09-07,5,506.45,8282,86896,False,1
+Laptop,Electronics,2022-11-21,4,953.69,8234,77610,False,2
+Dining Table,Home & Living,2023-07-13,1,756.63,8234,77610,False,2
+Handbag,Fashion,2023-01-06,1,34.57,8234,77610,True,0
+Science Fiction,Books,2023-05-05,2,405.18,1242,13026,True,0
+Smartphone,Electronics,2023-05-27,4,630.0,1242,13026,False,1
+Lipstick,Beauty & Health,2023-08-10,3,851.35,1242,13026,False,2
+Handbag,Fashion,2023-08-02,5,692.4,1242,13026,True,1
+Shirt,Fashion,2023-06-10,1,105.16,1242,13026,True,0
+Biography,Books,2023-09-22,5,672.86,8824,45680,False,1
+Nail Polish,Beauty & Health,2023-02-13,1,472.24,8824,45680,False,0
+Headphones,Electronics,2023-08-25,5,793.28,8824,45680,False,1
+Lamp,Home & Living,2023-01-10,5,692.98,8824,45680,True,1
+Shoes,Fashion,2023-07-24,4,366.92,9660,59894,False,1
+Cookware,Home & Living,2022-12-06,5,793.64,9660,59894,True,1
+Perfume,Beauty & Health,2023-04-27,3,874.84,9660,59894,True,2
+Camping Tent,Sports & Outdoors,2023-02-11,1,875.42,4623,69245,True,2
+Cookware,Home & Living,2023-01-25,1,302.84,4623,69245,False,0
+Shoes,Fashion,2023-08-16,4,25.08,4623,69245,True,1
+Camping Tent,Sports & Outdoors,2023-04-26,2,414.36,4623,69245,True,0
+Perfume,Beauty & Health,2023-09-07,2,471.29,4770,51415,True,0
+Headphones,Electronics,2023-10-11,4,803.95,4770,51415,True,2
+Camera,Electronics,2022-12-26,3,563.3,4770,51415,True,2
+Cycling Helmet,Sports & Outdoors,2023-06-13,3,874.13,4770,51415,False,2
+Dining Table,Home & Living,2023-10-01,4,727.41,4770,51415,True,1
+Lamp,Home & Living,2023-01-20,4,138.99,7493,91648,False,1
+Dining Table,Home & Living,2023-02-14,3,42.05,7493,91648,False,0
+Laptop,Electronics,2023-10-13,1,529.91,7493,91648,True,0
+Shirt,Fashion,2023-01-22,2,375.15,7493,91648,True,0
+Shampoo,Beauty & Health,2023-07-31,1,808.83,7493,91648,True,2
+Science Fiction,Books,2023-07-28,3,980.26,1345,21137,True,2
+Smartphone,Electronics,2023-03-03,1,901.14,9774,92177,False,2
+Dress,Fashion,2022-12-02,4,365.51,9774,92177,False,1
+Smartphone,Electronics,2023-07-14,2,759.04,9774,92177,True,2
+Body Lotion,Beauty & Health,2022-12-25,2,409.31,9774,92177,False,0
+Body Lotion,Beauty & Health,2023-03-18,4,602.7,2986,96293,True,1
+Lipstick,Beauty & Health,2022-12-22,5,418.36,2986,96293,True,1
+Sunglasses,Fashion,2022-11-12,5,411.17,2986,96293,False,1
+Shampoo,Beauty & Health,2022-11-20,3,187.56,2986,96293,True,0
+Sofa,Home & Living,2023-08-06,5,866.92,2347,74718,False,1
+Shampoo,Beauty & Health,2022-11-27,4,152.24,2347,74718,False,1
+Body Lotion,Beauty & Health,2023-03-21,3,672.69,2347,74718,False,2
+Bed,Home & Living,2022-11-12,5,500.81,9386,6745,False,1
+Nail Polish,Beauty & Health,2023-06-28,5,483.76,9386,6745,False,1
+Bed,Home & Living,2022-12-06,4,820.06,9386,6745,False,2
+Handbag,Fashion,2022-11-15,1,545.71,9386,6745,True,0
+History,Books,2023-09-13,5,932.08,9386,6745,True,1
+Mystery Novel,Books,2023-04-13,1,979.78,8010,36516,True,2
+Romance Novel,Books,2023-07-14,5,16.05,8010,36516,True,1
+Cycling Helmet,Sports & Outdoors,2023-03-29,5,532.8,5537,25941,True,1
+Shampoo,Beauty & Health,2023-06-16,2,605.51,5537,25941,True,2
+Yoga Mat,Sports & Outdoors,2023-09-20,3,243.18,5537,25941,False,0
+Nail Polish,Beauty & Health,2023-07-13,3,129.09,5537,25941,True,0
+Shoes,Fashion,2023-08-04,3,614.12,5537,25941,True,2
+Shampoo,Beauty & Health,2023-08-03,1,112.88,2738,36048,False,0
+Dress,Fashion,2023-03-13,5,291.96,2738,36048,True,1
+Romance Novel,Books,2023-02-13,3,694.82,8076,99009,True,2
+History,Books,2023-08-03,2,15.87,8076,99009,False,0
+Lipstick,Beauty & Health,2023-09-26,4,356.92,8076,99009,False,1
+Romance Novel,Books,2023-06-28,5,848.81,8076,99009,True,1
+Sofa,Home & Living,2023-03-22,3,784.57,8802,53331,False,2
+Dress,Fashion,2023-02-26,2,999.88,8802,53331,True,2
+Laptop,Electronics,2023-04-14,4,953.94,8802,53331,False,2
+Shampoo,Beauty & Health,2023-05-11,1,604.11,7462,84403,False,2
+History,Books,2023-10-03,2,239.59,7462,84403,True,0
+Dining Table,Home & Living,2023-08-30,5,418.12,7616,77821,True,1
+Smartphone,Electronics,2023-03-08,5,896.92,7616,77821,False,1
+Bed,Home & Living,2022-12-16,5,987.6,7616,77821,False,1
+Camping Tent,Sports & Outdoors,2023-07-28,3,428.38,7616,77821,False,0
+Bed,Home & Living,2022-11-20,4,688.96,7616,77821,False,1
+Yoga Mat,Sports & Outdoors,2023-07-26,3,625.91,5964,1773,False,2
+Dining Table,Home & Living,2023-01-31,5,145.93,6928,45824,False,1
+Camping Tent,Sports & Outdoors,2023-01-22,1,903.42,6928,45824,False,2
+Shirt,Fashion,2023-01-07,4,247.82,6928,45824,False,1
+Laptop,Electronics,2023-04-25,5,626.47,6928,45824,True,1
+Smartwatch,Electronics,2023-08-12,2,321.37,6928,45824,True,0
+Handbag,Fashion,2023-07-27,5,768.07,6517,21529,True,1
+Nail Polish,Beauty & Health,2023-07-14,2,530.5,6517,21529,False,0
+Sofa,Home & Living,2023-03-16,5,152.75,4453,10767,True,1
+Shirt,Fashion,2023-02-17,5,599.02,4453,10767,True,1
+Laptop,Electronics,2023-03-23,5,718.54,1583,24400,False,1
+Shoes,Fashion,2022-11-26,5,622.09,7664,61394,True,1
+Lipstick,Beauty & Health,2023-03-03,1,203.74,7664,61394,False,0
+History,Books,2023-04-05,2,183.3,8682,47547,True,0
+Shoes,Fashion,2023-09-06,1,937.42,8682,47547,True,2
+Camera,Electronics,2023-04-05,1,934.99,8682,47547,False,2
+Tennis Racket,Sports & Outdoors,2023-01-08,4,428.16,8682,47547,True,1
+Romance Novel,Books,2023-09-23,4,185.72,8682,47547,False,1
+Body Lotion,Beauty & Health,2023-02-24,1,951.83,1028,6148,True,2
+Camping Tent,Sports & Outdoors,2023-01-27,3,401.36,1028,6148,False,0
+Lipstick,Beauty & Health,2023-01-24,3,95.33,1028,6148,True,0
+Cycling Helmet,Sports & Outdoors,2023-03-14,1,105.68,3788,45019,False,0
+Shoes,Fashion,2023-05-14,3,436.59,3788,45019,True,0
+Romance Novel,Books,2023-03-07,2,840.79,3788,45019,True,2
+Body Lotion,Beauty & Health,2023-05-12,2,562.03,3788,45019,False,2
+Smartphone,Electronics,2022-10-30,1,344.18,2923,61285,False,0
+Mystery Novel,Books,2023-09-18,5,270.39,2923,61285,False,1
+Shampoo,Beauty & Health,2023-01-04,4,834.21,2923,61285,True,2
+Basketball,Sports & Outdoors,2023-04-15,2,78.86,1893,84924,True,0
+Smartphone,Electronics,2023-07-17,4,393.97,1893,84924,False,1
+Handbag,Fashion,2023-03-28,5,264.79,1893,84924,True,1
+Smartwatch,Electronics,2023-07-04,5,192.18,4237,26385,True,1
+Shoes,Fashion,2023-04-13,4,749.13,4237,26385,True,1
+Cycling Helmet,Sports & Outdoors,2023-05-07,1,441.32,4237,26385,False,0
+Smartwatch,Electronics,2023-06-21,4,523.84,4237,26385,False,1
+Sunglasses,Fashion,2023-01-31,3,411.7,4237,26385,True,0
+Handbag,Fashion,2023-01-04,5,34.99,3532,29925,False,1
+Shirt,Fashion,2023-05-24,3,343.24,3532,29925,False,0
+Shoes,Fashion,2023-06-26,3,216.86,3532,29925,True,0
+Lamp,Home & Living,2023-05-23,1,606.82,3532,29925,True,2
+Basketball,Sports & Outdoors,2023-07-28,1,111.5,3532,29925,True,0
+Tennis Racket,Sports & Outdoors,2023-02-06,4,990.76,5515,18025,False,2
+Laptop,Electronics,2023-07-04,2,514.63,5515,18025,True,0
+Basketball,Sports & Outdoors,2023-04-13,1,577.79,3462,21734,True,2
+Romance Novel,Books,2023-09-05,3,347.39,3462,21734,True,0
+Smartphone,Electronics,2023-03-01,3,787.58,3462,21734,True,2
+Shoes,Fashion,2023-09-23,2,557.45,3462,21734,True,2
+Sofa,Home & Living,2022-11-13,1,949.27,3462,21734,False,2
+Romance Novel,Books,2023-06-21,4,633.36,9766,80497,True,1
+Sofa,Home & Living,2023-03-20,3,202.38,9766,80497,True,0
+Cookware,Home & Living,2023-04-27,4,276.89,9766,80497,False,1
+Cookware,Home & Living,2023-10-07,5,622.33,9766,80497,True,1
+Nail Polish,Beauty & Health,2023-09-22,1,728.78,1694,15313,True,2
+Headphones,Electronics,2022-12-31,5,16.14,1694,15313,True,1
+Cookware,Home & Living,2023-03-14,5,329.72,1694,15313,False,1
+Dining Table,Home & Living,2023-10-26,2,348.78,1694,15313,False,0
+Dining Table,Home & Living,2023-06-26,1,756.04,6233,53444,False,2
+Body Lotion,Beauty & Health,2023-01-15,5,215.96,6233,53444,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-05,4,935.18,6233,53444,False,2
+Sofa,Home & Living,2023-02-06,1,696.15,1388,58285,True,2
+Science Fiction,Books,2023-07-01,3,780.26,1388,58285,False,2
+Basketball,Sports & Outdoors,2022-12-19,5,471.84,1388,58285,True,1
+Perfume,Beauty & Health,2023-08-16,2,769.25,1388,58285,True,2
+Smartphone,Electronics,2023-02-09,1,688.36,3133,98593,False,2
+Body Lotion,Beauty & Health,2022-12-27,3,295.62,3133,98593,False,0
+Science Fiction,Books,2023-03-10,3,367.44,3133,98593,True,0
+Lipstick,Beauty & Health,2023-02-07,1,897.63,3133,98593,False,2
+Camera,Electronics,2023-06-14,2,30.26,9134,39955,True,0
+Camera,Electronics,2023-05-12,1,331.4,9134,39955,False,0
+Shampoo,Beauty & Health,2023-06-01,3,379.78,9134,39955,True,0
+Biography,Books,2023-10-14,3,143.35,4836,86133,False,0
+Cycling Helmet,Sports & Outdoors,2023-03-28,4,277.58,4836,86133,False,1
+Shoes,Fashion,2023-07-06,5,790.77,4836,86133,True,1
+Tennis Racket,Sports & Outdoors,2023-03-12,4,477.35,4836,86133,True,1
+Perfume,Beauty & Health,2023-07-22,2,548.48,4836,86133,True,2
+Cycling Helmet,Sports & Outdoors,2023-06-04,1,629.39,1315,18211,False,2
+Dining Table,Home & Living,2023-02-01,3,319.93,1315,18211,False,0
+Romance Novel,Books,2023-02-20,1,812.79,6090,84875,False,2
+Camping Tent,Sports & Outdoors,2023-07-20,4,772.99,6090,84875,False,1
+Smartphone,Electronics,2022-12-02,1,698.22,6090,84875,False,2
+Dining Table,Home & Living,2023-07-24,2,211.69,6090,84875,True,0
+Laptop,Electronics,2023-09-22,1,922.71,5632,7338,False,2
+Bed,Home & Living,2023-03-19,4,55.53,6563,59278,True,1
+Cycling Helmet,Sports & Outdoors,2023-06-14,3,589.68,6563,59278,True,2
+Basketball,Sports & Outdoors,2023-03-29,3,415.02,6563,59278,True,0
+Dress,Fashion,2023-07-22,4,321.31,7173,17520,True,1
+Bed,Home & Living,2023-06-25,5,302.7,7765,11882,True,1
+Camping Tent,Sports & Outdoors,2023-04-09,5,570.47,7765,11882,False,1
+Dress,Fashion,2022-12-13,4,832.06,7765,11882,False,2
+Sunglasses,Fashion,2023-05-03,5,547.95,3613,40983,False,1
+Smartphone,Electronics,2022-12-18,5,103.27,1474,89705,True,1
+Smartwatch,Electronics,2023-09-25,5,366.13,9592,88832,False,1
+Tennis Racket,Sports & Outdoors,2023-08-01,4,602.78,9592,88832,True,1
+Cookware,Home & Living,2023-09-04,1,223.56,9592,88832,True,0
+Cookware,Home & Living,2023-07-15,1,64.61,9592,88832,True,0
+Basketball,Sports & Outdoors,2023-10-18,1,218.69,9592,88832,False,0
+History,Books,2023-05-18,4,30.16,1494,52263,False,1
+Body Lotion,Beauty & Health,2023-09-29,3,675.35,1494,52263,True,2
+Cookware,Home & Living,2022-12-06,1,714.42,1494,52263,False,2
+Mystery Novel,Books,2023-02-17,4,510.92,6123,63077,False,1
+Tennis Racket,Sports & Outdoors,2023-10-08,4,630.84,6123,63077,False,1
+Laptop,Electronics,2023-01-23,1,722.15,6123,63077,False,2
+Dining Table,Home & Living,2023-03-31,4,407.99,6123,63077,False,1
+Nail Polish,Beauty & Health,2023-02-11,1,355.27,6123,63077,False,0
+Sofa,Home & Living,2023-02-07,1,257.53,1825,92883,False,0
+Bed,Home & Living,2023-06-09,4,185.43,1825,92883,False,1
+Headphones,Electronics,2023-04-11,3,470.42,1825,92883,False,0
+Biography,Books,2023-01-18,2,632.93,1825,92883,False,2
+Smartwatch,Electronics,2023-01-18,5,448.35,9055,75126,False,1
+Shoes,Fashion,2023-09-10,5,822.65,9055,75126,False,1
+Bed,Home & Living,2022-11-19,1,629.34,9055,75126,False,2
+Body Lotion,Beauty & Health,2023-01-25,1,141.36,2292,70731,True,0
+Camera,Electronics,2023-06-24,2,139.72,2292,70731,False,0
+Cycling Helmet,Sports & Outdoors,2023-10-03,2,184.07,2732,89991,False,0
+Lamp,Home & Living,2022-12-18,4,663.95,2732,89991,True,1
+Smartphone,Electronics,2023-07-23,3,312.38,2732,89991,False,0
+Laptop,Electronics,2023-05-02,5,583.12,2732,89991,False,1
+Shirt,Fashion,2023-10-10,5,336.07,5892,7921,False,1
+Smartwatch,Electronics,2022-11-26,2,941.22,5892,7921,False,2
+Smartwatch,Electronics,2023-01-14,4,478.27,5892,7921,True,1
+Mystery Novel,Books,2023-05-23,5,960.94,5892,7921,False,1
+History,Books,2022-11-08,5,13.67,4001,13454,False,1
+Camera,Electronics,2023-02-21,1,282.04,4001,13454,True,0
+Shoes,Fashion,2023-01-22,2,706.21,4001,13454,False,2
+Perfume,Beauty & Health,2023-06-06,4,159.75,4001,13454,False,1
+Smartphone,Electronics,2023-06-20,1,134.64,5878,21649,True,0
+Cookware,Home & Living,2023-05-21,1,725.92,5878,21649,True,2
+Basketball,Sports & Outdoors,2023-09-17,2,337.51,7541,52510,True,0
+Shoes,Fashion,2023-03-16,3,863.11,7541,52510,True,2
+Mystery Novel,Books,2023-03-25,3,354.15,7541,52510,False,0
+Camping Tent,Sports & Outdoors,2023-09-03,5,419.72,7541,52510,True,1
+Biography,Books,2023-03-05,5,505.93,7541,52510,False,1
+Laptop,Electronics,2023-01-07,2,903.71,8243,52337,True,2
+Shampoo,Beauty & Health,2023-09-24,3,806.94,8243,52337,False,2
+Lamp,Home & Living,2022-12-06,1,62.43,5074,16318,True,0
+Headphones,Electronics,2022-12-07,3,737.69,5074,16318,False,2
+Smartphone,Electronics,2023-10-15,1,716.42,5074,16318,True,2
+Headphones,Electronics,2023-09-20,4,458.22,5074,16318,True,1
+Sofa,Home & Living,2023-07-03,3,656.11,7551,46535,True,2
+Sunglasses,Fashion,2023-07-10,4,382.82,6987,39171,True,1
+Biography,Books,2023-03-12,1,202.37,6987,39171,True,0
+Yoga Mat,Sports & Outdoors,2023-08-19,3,924.01,6987,39171,False,2
+Headphones,Electronics,2022-11-14,4,920.1,7956,35061,False,2
+Nail Polish,Beauty & Health,2022-12-01,5,322.34,7956,35061,True,1
+Tennis Racket,Sports & Outdoors,2023-09-14,2,672.23,7956,35061,True,2
+Shampoo,Beauty & Health,2023-10-23,2,969.42,7956,35061,False,2
+Lipstick,Beauty & Health,2023-10-27,5,808.06,5453,73321,True,1
+Nail Polish,Beauty & Health,2023-09-06,1,615.37,5453,73321,False,2
+Smartphone,Electronics,2023-05-17,2,570.95,5453,73321,True,2
+Mystery Novel,Books,2023-08-10,4,488.8,5453,73321,False,1
+Lipstick,Beauty & Health,2023-01-28,2,727.05,5453,73321,True,2
+Handbag,Fashion,2023-02-08,3,486.44,9388,37756,False,0
+Nail Polish,Beauty & Health,2022-11-11,1,520.81,9388,37756,True,0
+Shampoo,Beauty & Health,2023-05-05,3,773.97,9388,37756,False,2
+Lamp,Home & Living,2023-09-17,5,706.64,9388,37756,False,1
+Bed,Home & Living,2023-05-29,5,684.51,3420,73935,False,1
+Smartphone,Electronics,2023-09-15,5,996.04,3420,73935,False,1
+Handbag,Fashion,2023-10-29,5,148.39,3420,73935,False,1
+Mystery Novel,Books,2022-11-21,5,581.02,3420,73935,False,1
+Camera,Electronics,2023-05-22,1,847.12,1206,5480,True,2
+Cycling Helmet,Sports & Outdoors,2023-03-18,3,405.6,1206,5480,False,0
+Cycling Helmet,Sports & Outdoors,2022-11-05,3,276.75,1206,5480,False,0
+Nail Polish,Beauty & Health,2023-01-12,1,405.59,1206,5480,False,0
+Cookware,Home & Living,2023-05-20,5,248.54,1321,17023,False,1
+History,Books,2022-12-02,2,169.1,1321,17023,True,0
+Dining Table,Home & Living,2023-02-02,4,955.82,1321,17023,True,2
+Shoes,Fashion,2022-12-01,2,644.03,4446,84735,True,2
+Cookware,Home & Living,2023-05-08,4,78.67,4446,84735,True,1
+Smartphone,Electronics,2023-10-12,3,831.01,5832,36304,False,2
+Lamp,Home & Living,2023-05-20,5,228.34,6301,43568,True,1
+Smartwatch,Electronics,2023-06-06,2,659.72,6301,43568,True,2
+Lamp,Home & Living,2022-11-14,3,901.64,6301,43568,False,2
+Camera,Electronics,2023-08-16,1,310.2,6301,43568,True,0
+Shirt,Fashion,2023-09-04,1,451.7,6301,43568,False,0
+Shoes,Fashion,2023-09-06,3,964.85,5339,66032,True,2
+Tennis Racket,Sports & Outdoors,2023-06-29,2,728.1,5339,66032,False,2
+Basketball,Sports & Outdoors,2023-01-14,2,898.61,5339,66032,False,2
+Dining Table,Home & Living,2023-09-06,4,892.86,5339,66032,False,2
+Laptop,Electronics,2022-11-14,5,621.37,5339,66032,False,1
+Shoes,Fashion,2023-10-29,2,663.35,1748,29494,False,2
+Shoes,Fashion,2023-03-05,5,428.34,1748,29494,False,1
+Lamp,Home & Living,2022-11-02,1,269.51,1748,29494,False,0
+Sofa,Home & Living,2023-07-19,2,471.19,1748,29494,False,0
+Headphones,Electronics,2022-12-26,5,575.47,1748,29494,False,1
+Cookware,Home & Living,2023-06-28,5,149.43,9562,34432,True,1
+Dining Table,Home & Living,2023-08-22,5,317.71,2979,38175,False,1
+Handbag,Fashion,2023-09-02,3,36.81,2979,38175,False,0
+Body Lotion,Beauty & Health,2022-11-10,3,958.8,2979,38175,False,2
+Tennis Racket,Sports & Outdoors,2023-04-16,3,597.66,2979,38175,True,2
+Body Lotion,Beauty & Health,2023-10-15,5,152.99,2979,38175,True,1
+Camping Tent,Sports & Outdoors,2022-11-27,2,241.48,9404,27661,True,0
+Shampoo,Beauty & Health,2023-09-12,2,288.21,9404,27661,False,0
+Yoga Mat,Sports & Outdoors,2022-10-30,2,516.8,9404,27661,False,0
+Shirt,Fashion,2023-08-20,5,666.01,9404,27661,False,1
+Smartphone,Electronics,2023-06-11,3,228.91,9404,27661,True,0
+Smartphone,Electronics,2023-02-04,5,839.5,2254,65048,True,1
+Lipstick,Beauty & Health,2023-10-18,3,396.47,2254,65048,False,0
+Smartphone,Electronics,2023-05-29,5,501.72,2254,65048,False,1
+Shoes,Fashion,2023-03-27,1,801.32,4363,28781,True,2
+Bed,Home & Living,2023-03-15,3,519.62,4363,28781,False,2
+Laptop,Electronics,2023-06-23,2,854.19,6662,63825,False,2
+Camping Tent,Sports & Outdoors,2022-12-19,3,297.28,2709,23556,True,0
+Bed,Home & Living,2023-08-16,2,318.71,2709,23556,True,0
+Handbag,Fashion,2023-07-15,5,307.63,2709,23556,False,1
+Basketball,Sports & Outdoors,2023-03-02,1,957.83,2709,23556,True,2
+Cycling Helmet,Sports & Outdoors,2023-09-07,1,90.68,2709,23556,True,0
+Science Fiction,Books,2023-08-02,4,154.03,5148,2185,True,1
+Handbag,Fashion,2022-11-29,4,982.18,5148,2185,False,2
+Sunglasses,Fashion,2022-11-05,1,119.3,5148,2185,True,0
+Perfume,Beauty & Health,2023-08-08,4,266.35,7942,62723,True,1
+Yoga Mat,Sports & Outdoors,2023-02-20,5,366.01,7942,62723,True,1
+Cycling Helmet,Sports & Outdoors,2023-07-14,3,600.33,3715,31100,False,2
+Laptop,Electronics,2023-07-03,1,827.85,3715,31100,True,2
+Shampoo,Beauty & Health,2023-01-14,1,292.94,2421,67277,False,0
+Science Fiction,Books,2023-09-15,3,887.57,2421,67277,True,2
+Dining Table,Home & Living,2023-02-18,4,322.73,2421,67277,False,1
+Sunglasses,Fashion,2023-05-28,4,953.94,9692,25336,False,2
+Romance Novel,Books,2023-03-15,2,125.81,9692,25336,False,0
+Nail Polish,Beauty & Health,2023-01-12,2,988.46,7419,64569,True,2
+Camping Tent,Sports & Outdoors,2023-09-12,4,882.93,4983,87659,False,2
+Shirt,Fashion,2023-09-03,4,888.86,4983,87659,False,2
+Dress,Fashion,2022-11-17,1,973.62,4983,87659,True,2
+Romance Novel,Books,2023-02-07,4,876.78,4983,87659,False,2
+Body Lotion,Beauty & Health,2023-08-29,4,608.36,4983,87659,True,1
+Sofa,Home & Living,2023-08-26,1,147.4,7175,10270,False,0
+Tennis Racket,Sports & Outdoors,2023-05-29,4,655.7,7175,10270,True,1
+Shampoo,Beauty & Health,2023-08-29,4,610.77,7175,10270,True,1
+Shoes,Fashion,2023-09-30,4,66.83,9526,93048,False,1
+Sofa,Home & Living,2023-07-14,4,572.83,9526,93048,False,1
+Shoes,Fashion,2023-06-09,3,237.62,9526,93048,False,0
+Yoga Mat,Sports & Outdoors,2023-06-11,3,945.83,1257,78477,True,2
+Yoga Mat,Sports & Outdoors,2022-11-29,3,707.39,1257,78477,True,2
+Perfume,Beauty & Health,2023-03-27,3,629.6,1257,78477,True,2
+History,Books,2023-05-15,2,206.72,1257,78477,False,0
+Sunglasses,Fashion,2023-05-06,3,403.76,1257,78477,False,0
+Shoes,Fashion,2023-08-31,2,318.9,4973,85010,True,0
+Shirt,Fashion,2023-09-30,3,702.42,4973,85010,True,2
+Shampoo,Beauty & Health,2023-10-24,2,708.19,1738,60630,False,2
+Camping Tent,Sports & Outdoors,2023-08-03,3,200.38,1738,60630,False,0
+Camera,Electronics,2022-11-16,3,349.54,2144,60825,False,0
+Basketball,Sports & Outdoors,2023-09-10,1,116.49,2144,60825,False,0
+Biography,Books,2022-11-25,2,814.82,2144,60825,False,2
+Sunglasses,Fashion,2022-11-21,5,776.44,8085,30827,True,1
+Mystery Novel,Books,2023-05-21,2,170.78,4003,62180,False,0
+Camera,Electronics,2023-07-06,1,802.21,5158,20474,True,2
+Basketball,Sports & Outdoors,2023-08-04,1,610.9,5158,20474,True,2
+Mystery Novel,Books,2023-09-25,3,721.03,5158,20474,False,2
+Lipstick,Beauty & Health,2022-12-01,2,861.61,5158,20474,False,2
+Basketball,Sports & Outdoors,2022-10-31,4,293.73,1853,45850,False,1
+Lipstick,Beauty & Health,2022-11-04,4,294.26,1853,45850,False,1
+Science Fiction,Books,2023-01-09,4,44.88,1853,45850,False,1
+Smartwatch,Electronics,2022-11-03,4,942.41,6412,5740,False,2
+Cycling Helmet,Sports & Outdoors,2023-03-16,5,209.37,6412,5740,False,1
+Smartphone,Electronics,2023-05-05,3,936.21,6412,5740,False,2
+History,Books,2023-02-10,2,586.04,6412,5740,True,2
+Camping Tent,Sports & Outdoors,2022-12-24,2,535.31,6412,5740,False,0
+Lamp,Home & Living,2023-01-31,3,34.69,6148,67341,True,0
+Lipstick,Beauty & Health,2023-08-06,4,232.59,6148,67341,False,1
+Yoga Mat,Sports & Outdoors,2023-05-25,5,292.49,6148,67341,False,1
+Body Lotion,Beauty & Health,2023-10-25,3,566.97,6148,67341,True,2
+Science Fiction,Books,2023-09-01,2,543.32,6148,67341,False,2
+Body Lotion,Beauty & Health,2023-09-15,2,218.23,1379,89002,True,0
+Cookware,Home & Living,2023-01-14,4,407.29,1379,89002,True,1
+Cycling Helmet,Sports & Outdoors,2023-04-17,3,267.43,1379,89002,False,0
+Laptop,Electronics,2023-01-11,1,329.77,1379,89002,False,0
+Yoga Mat,Sports & Outdoors,2023-07-03,5,609.0,6820,12223,True,1
+Nail Polish,Beauty & Health,2023-03-03,5,734.0,6820,12223,True,1
+Tennis Racket,Sports & Outdoors,2023-04-21,3,294.8,6820,12223,False,0
+Yoga Mat,Sports & Outdoors,2022-11-02,3,995.79,5961,94057,False,2
+Tennis Racket,Sports & Outdoors,2023-10-07,4,559.11,5961,94057,True,1
+Shirt,Fashion,2023-06-19,4,59.73,5961,94057,True,1
+Tennis Racket,Sports & Outdoors,2023-07-31,1,929.21,5961,94057,True,2
+Dress,Fashion,2023-01-19,4,606.62,1824,8756,False,1
+Smartphone,Electronics,2023-08-18,1,251.29,1824,8756,True,0
+Yoga Mat,Sports & Outdoors,2023-06-01,1,469.82,8766,60214,True,0
+Sunglasses,Fashion,2023-05-06,2,990.2,8766,60214,False,2
+Smartwatch,Electronics,2022-11-11,3,387.42,8766,60214,False,0
+History,Books,2023-06-01,4,505.31,8766,60214,True,1
+Headphones,Electronics,2023-06-06,4,614.6,7467,98317,False,1
+Dress,Fashion,2023-03-21,1,548.49,7467,98317,True,0
+Bed,Home & Living,2023-10-06,2,901.15,5860,29521,False,2
+History,Books,2023-01-30,4,739.95,5860,29521,True,1
+Handbag,Fashion,2022-12-10,4,759.92,5860,29521,True,1
+Yoga Mat,Sports & Outdoors,2022-12-01,4,440.49,5030,80676,True,1
+Romance Novel,Books,2023-10-03,3,453.13,9508,48854,True,0
+Lamp,Home & Living,2023-01-16,2,309.41,9508,48854,True,0
+History,Books,2023-04-26,4,998.79,9508,48854,True,2
+Lipstick,Beauty & Health,2023-06-18,2,711.13,9508,48854,False,2
+Basketball,Sports & Outdoors,2022-12-07,1,820.22,5647,75079,True,2
+History,Books,2023-08-22,3,869.16,2079,29522,True,2
+Laptop,Electronics,2023-10-08,5,717.56,2079,29522,True,1
+Perfume,Beauty & Health,2023-02-19,1,903.89,2079,29522,True,2
+Romance Novel,Books,2023-06-03,2,299.96,2079,29522,False,0
+Body Lotion,Beauty & Health,2023-05-13,2,938.24,2079,29522,False,2
+Laptop,Electronics,2023-07-22,3,925.08,9492,86316,True,2
+Dining Table,Home & Living,2023-03-27,1,968.02,3233,53332,False,2
+Dress,Fashion,2023-10-15,4,921.07,3233,53332,True,2
+Handbag,Fashion,2023-10-11,4,118.33,3233,53332,False,1
+Mystery Novel,Books,2022-11-09,2,295.05,3233,53332,True,0
+Laptop,Electronics,2023-02-07,2,838.64,3233,53332,True,2
+Shampoo,Beauty & Health,2023-08-28,2,82.71,9426,2137,True,0
+Nail Polish,Beauty & Health,2023-08-12,5,391.01,9426,2137,True,1
+Romance Novel,Books,2023-04-09,1,332.64,9426,2137,False,0
+Basketball,Sports & Outdoors,2023-09-28,4,395.85,9426,2137,False,1
+Smartphone,Electronics,2023-02-14,3,692.53,9426,2137,True,2
+Smartphone,Electronics,2023-09-23,4,381.75,1459,36778,True,1
+Lamp,Home & Living,2023-09-09,1,70.31,8462,71958,True,0
+Dress,Fashion,2023-09-16,2,531.2,8462,71958,True,0
+Smartwatch,Electronics,2023-08-11,5,734.21,9066,11585,True,1
+Lamp,Home & Living,2023-04-10,3,442.05,6833,38386,True,0
+Headphones,Electronics,2023-06-02,3,508.16,1236,30547,False,0
+Tennis Racket,Sports & Outdoors,2022-11-29,2,809.72,1262,35932,False,2
+Dining Table,Home & Living,2023-05-03,5,868.6,1262,35932,False,1
+Sunglasses,Fashion,2023-05-05,4,370.99,1262,35932,True,1
+Handbag,Fashion,2023-07-13,2,694.91,1262,35932,False,2
+Sofa,Home & Living,2023-03-03,5,766.93,1208,26857,True,1
+Bed,Home & Living,2023-07-31,5,751.23,1208,26857,True,1
+Shirt,Fashion,2023-06-19,4,742.0,1208,26857,False,1
+Perfume,Beauty & Health,2023-03-01,2,170.75,1208,26857,False,0
+Headphones,Electronics,2023-03-13,5,513.64,5167,94994,True,1
+Nail Polish,Beauty & Health,2022-12-20,1,969.16,5167,94994,True,2
+Camping Tent,Sports & Outdoors,2022-12-25,3,216.11,5167,94994,False,0
+Tennis Racket,Sports & Outdoors,2023-02-26,5,909.96,5167,94994,False,1
+Sofa,Home & Living,2023-09-17,5,177.05,7422,31845,True,1
+History,Books,2023-05-15,1,506.32,7422,31845,False,0
+Shirt,Fashion,2023-10-28,5,293.83,7422,31845,True,1
+Biography,Books,2023-03-07,3,328.88,7422,31845,True,0
+Shirt,Fashion,2022-11-04,5,491.12,7422,31845,True,1
+Smartphone,Electronics,2023-02-06,4,99.05,2499,37800,False,1
+Nail Polish,Beauty & Health,2023-04-15,1,350.29,2499,37800,False,0
+Camera,Electronics,2023-03-17,3,619.75,2499,37800,False,2
+Tennis Racket,Sports & Outdoors,2023-08-29,2,115.97,2499,37800,True,0
+Romance Novel,Books,2023-01-28,2,112.78,7580,30646,False,0
+Nail Polish,Beauty & Health,2023-07-21,5,504.38,7580,30646,False,1
+Smartphone,Electronics,2023-03-14,1,854.37,7580,30646,True,2
+Shirt,Fashion,2022-12-20,1,995.42,7580,30646,True,2
+Smartwatch,Electronics,2023-06-15,3,631.74,1694,70881,False,2
+Science Fiction,Books,2023-01-22,2,721.55,6239,15132,True,2
+Perfume,Beauty & Health,2023-01-07,4,997.76,6239,15132,True,2
+Perfume,Beauty & Health,2023-07-30,5,580.12,6239,15132,True,1
+Lamp,Home & Living,2023-04-07,1,221.87,6239,15132,True,0
+Yoga Mat,Sports & Outdoors,2023-08-22,3,636.11,8896,91754,True,2
+Dining Table,Home & Living,2023-03-11,2,104.75,8896,91754,False,0
+Cycling Helmet,Sports & Outdoors,2022-12-18,1,276.21,8896,91754,False,0
+Lipstick,Beauty & Health,2022-12-22,4,438.73,8896,91754,True,1
+Shirt,Fashion,2023-09-17,4,751.5,8896,91754,True,1
+Yoga Mat,Sports & Outdoors,2023-07-14,3,773.0,1692,49784,True,2
+History,Books,2023-01-20,5,609.1,1692,49784,False,1
+Bed,Home & Living,2023-07-22,2,80.47,1692,49784,True,0
+Romance Novel,Books,2023-08-06,1,102.6,1692,49784,False,0
+Smartphone,Electronics,2023-03-06,1,911.21,1692,49784,True,2
+Sunglasses,Fashion,2023-02-20,2,747.02,3278,26958,False,2
+Basketball,Sports & Outdoors,2022-12-26,2,436.54,4910,32210,False,0
+Mystery Novel,Books,2022-12-26,5,137.06,4910,32210,True,1
+Romance Novel,Books,2023-06-04,4,774.96,4910,32210,False,1
+Laptop,Electronics,2023-06-15,4,138.75,4910,32210,False,1
+Dining Table,Home & Living,2023-04-23,3,391.2,4910,32210,True,0
+Dining Table,Home & Living,2023-07-15,3,416.62,3949,27450,True,0
+Biography,Books,2023-07-01,2,602.96,4004,31416,False,2
+Shoes,Fashion,2023-04-16,3,479.61,4004,31416,True,0
+Tennis Racket,Sports & Outdoors,2022-11-05,2,53.18,4004,31416,True,0
+Sofa,Home & Living,2023-06-28,5,347.74,4004,31416,True,1
+Cookware,Home & Living,2023-09-13,2,287.56,6414,94652,False,0
+Handbag,Fashion,2023-07-25,2,436.12,6414,94652,False,0
+Handbag,Fashion,2023-10-16,2,897.83,4190,915,False,2
+Romance Novel,Books,2023-02-10,2,584.0,4190,915,False,2
+Bed,Home & Living,2023-10-07,3,988.64,4190,915,True,2
+Dining Table,Home & Living,2023-07-15,1,241.52,4190,915,True,0
+Shoes,Fashion,2023-09-21,5,729.41,9822,77089,False,1
+Smartwatch,Electronics,2023-05-05,1,69.8,9822,77089,True,0
+Bed,Home & Living,2023-05-18,4,328.49,9822,77089,True,1
+Shirt,Fashion,2023-08-03,2,339.43,7618,25536,False,0
+Basketball,Sports & Outdoors,2023-02-01,5,585.83,7618,25536,True,1
+Shampoo,Beauty & Health,2023-10-14,5,848.36,7618,25536,False,1
+Perfume,Beauty & Health,2023-10-17,5,909.09,7618,25536,False,1
+Romance Novel,Books,2023-04-12,3,27.7,3800,2489,True,0
+Lamp,Home & Living,2023-02-08,1,366.2,3800,2489,False,0
+Mystery Novel,Books,2023-06-09,1,117.81,3800,2489,False,0
+Headphones,Electronics,2023-06-29,5,979.8,3800,2489,True,1
+Camera,Electronics,2023-04-17,5,589.07,1020,64582,False,1
+Biography,Books,2023-07-02,4,81.38,1020,64582,True,1
+Smartphone,Electronics,2023-07-21,2,955.14,1020,64582,False,2
+Camera,Electronics,2023-06-05,5,770.91,1020,64582,True,1
+Lamp,Home & Living,2023-04-13,4,253.88,1020,64582,False,1
+Cycling Helmet,Sports & Outdoors,2023-08-26,3,759.54,5286,83732,False,2
+Tennis Racket,Sports & Outdoors,2023-01-07,1,728.1,5286,83732,True,2
+Cycling Helmet,Sports & Outdoors,2023-06-23,1,597.87,5286,83732,True,2
+Science Fiction,Books,2022-12-02,2,783.5,2224,66630,False,2
+Sunglasses,Fashion,2023-03-31,4,846.98,2224,66630,True,2
+Cookware,Home & Living,2023-01-17,4,883.08,2224,66630,False,2
+Shoes,Fashion,2023-02-13,1,86.12,2224,66630,False,0
+Smartwatch,Electronics,2023-04-22,3,468.15,2224,66630,True,0
+Lamp,Home & Living,2023-07-12,4,45.45,3503,7278,False,1
+Biography,Books,2023-10-10,3,130.16,3503,7278,False,0
+Lamp,Home & Living,2022-11-26,1,648.05,3503,7278,False,2
+Handbag,Fashion,2023-02-08,2,869.38,3503,7278,False,2
+Camera,Electronics,2023-02-08,2,988.8,3503,7278,False,2
+Bed,Home & Living,2023-10-08,2,150.27,3527,11223,False,0
+Romance Novel,Books,2023-09-10,5,439.62,3527,11223,True,1
+Cookware,Home & Living,2023-10-02,1,179.33,3527,11223,False,0
+Cookware,Home & Living,2023-02-19,5,102.48,1988,63331,True,1
+Body Lotion,Beauty & Health,2023-08-26,2,870.3,9859,66117,True,2
+Lamp,Home & Living,2023-04-02,3,452.33,6173,72953,True,0
+Camping Tent,Sports & Outdoors,2022-11-29,3,727.2,7623,26683,False,2
+Smartphone,Electronics,2023-06-01,4,855.51,7623,26683,True,2
+Yoga Mat,Sports & Outdoors,2023-05-02,4,486.95,7623,26683,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-17,4,184.28,7460,23014,False,1
+Tennis Racket,Sports & Outdoors,2023-09-12,5,613.42,7460,23014,True,1
+Biography,Books,2023-06-19,4,932.42,7672,30200,False,2
+Body Lotion,Beauty & Health,2023-03-05,5,383.51,2874,4160,False,1
+Bed,Home & Living,2023-05-28,2,772.53,2874,4160,False,2
+Sunglasses,Fashion,2023-05-30,2,673.43,2874,4160,True,2
+Yoga Mat,Sports & Outdoors,2023-10-11,2,810.44,5698,65154,True,2
+Laptop,Electronics,2023-08-31,3,345.97,5698,65154,True,0
+Handbag,Fashion,2023-01-02,2,680.3,5698,65154,True,2
+Dress,Fashion,2023-07-29,5,907.83,5698,65154,False,1
+Nail Polish,Beauty & Health,2023-09-12,5,176.39,5698,65154,True,1
+Biography,Books,2023-04-26,4,997.22,6658,28878,True,2
+Body Lotion,Beauty & Health,2023-07-16,2,442.47,9552,63501,False,0
+Shoes,Fashion,2023-09-16,2,844.8,7178,85708,False,2
+Laptop,Electronics,2023-03-10,4,864.38,7178,85708,False,2
+Cycling Helmet,Sports & Outdoors,2023-05-25,4,952.02,7178,85708,True,2
+Lipstick,Beauty & Health,2023-06-24,1,544.76,7178,85708,True,0
+Laptop,Electronics,2022-12-15,3,825.53,7178,85708,False,2
+Lamp,Home & Living,2023-04-15,5,818.52,2774,56278,True,1
+Laptop,Electronics,2023-08-18,5,115.87,2774,56278,False,1
+Cookware,Home & Living,2023-03-10,4,710.77,2774,56278,True,1
+Shoes,Fashion,2023-04-21,4,436.43,2774,56278,False,1
+Laptop,Electronics,2022-11-22,5,47.48,2774,56278,True,1
+Dress,Fashion,2022-10-30,1,374.27,5188,78763,False,0
+Shirt,Fashion,2023-05-13,4,869.37,5188,78763,False,2
+Sofa,Home & Living,2023-04-10,2,292.66,9870,39366,False,0
+Basketball,Sports & Outdoors,2023-01-14,2,307.37,9870,39366,True,0
+Sunglasses,Fashion,2023-09-13,1,800.78,9870,39366,True,2
+Basketball,Sports & Outdoors,2022-11-08,3,200.2,9870,39366,True,0
+Nail Polish,Beauty & Health,2022-12-07,3,116.86,9870,39366,False,0
+Perfume,Beauty & Health,2023-04-22,5,427.16,3513,12990,False,1
+Perfume,Beauty & Health,2022-12-11,4,287.74,3711,49550,False,1
+Romance Novel,Books,2023-02-09,1,180.23,3711,49550,True,0
+Camping Tent,Sports & Outdoors,2023-10-26,3,66.78,9955,34766,True,0
+Lipstick,Beauty & Health,2022-12-13,3,21.06,9955,34766,True,0
+Sunglasses,Fashion,2023-02-01,5,730.81,9955,34766,True,1
+Mystery Novel,Books,2022-12-14,2,734.57,2545,3535,False,2
+Shampoo,Beauty & Health,2023-05-15,3,535.17,2545,3535,False,2
+Perfume,Beauty & Health,2023-06-14,4,550.85,9031,51378,False,1
+Dining Table,Home & Living,2022-11-02,5,27.68,9031,51378,False,1
+Cookware,Home & Living,2023-04-14,3,736.13,9031,51378,False,2
+Body Lotion,Beauty & Health,2022-11-20,5,616.18,9031,51378,True,1
+Dining Table,Home & Living,2023-07-14,2,700.15,9031,51378,False,2
+Shirt,Fashion,2023-09-21,4,213.79,1133,11371,True,1
+Shoes,Fashion,2023-07-12,4,331.19,1133,11371,True,1
+Laptop,Electronics,2023-04-15,5,108.54,1133,11371,True,1
+Yoga Mat,Sports & Outdoors,2023-02-22,2,715.17,1133,11371,False,2
+Smartwatch,Electronics,2023-07-19,3,139.48,2827,7138,True,0
+Smartwatch,Electronics,2023-02-08,3,19.8,2827,7138,True,0
+Dress,Fashion,2023-06-20,4,655.35,2827,7138,True,1
+Yoga Mat,Sports & Outdoors,2023-08-30,1,762.61,8633,6407,True,2
+Dress,Fashion,2022-12-20,4,471.85,8633,6407,False,1
+Yoga Mat,Sports & Outdoors,2023-04-05,3,134.8,8633,6407,False,0
+Camera,Electronics,2023-09-07,3,140.34,8633,6407,False,0
+Smartwatch,Electronics,2023-07-11,5,381.68,9744,35714,True,1
+History,Books,2023-02-15,4,901.67,9744,35714,True,2
+Bed,Home & Living,2023-08-26,2,516.17,9744,35714,True,0
+Romance Novel,Books,2023-05-13,3,940.84,4828,35895,False,2
+Sofa,Home & Living,2023-03-11,1,683.57,4828,35895,False,2
+Shampoo,Beauty & Health,2023-10-05,2,830.81,3777,74695,False,2
+Mystery Novel,Books,2023-05-23,5,617.45,7334,8150,True,1
+Romance Novel,Books,2023-02-07,3,943.19,7334,8150,True,2
+Shampoo,Beauty & Health,2023-02-17,2,951.34,7334,8150,True,2
+Dining Table,Home & Living,2023-03-08,1,645.06,7334,8150,False,2
+Lamp,Home & Living,2022-12-13,2,424.34,7334,8150,True,0
+Camping Tent,Sports & Outdoors,2022-12-25,3,493.93,9009,10661,True,0
+Bed,Home & Living,2022-11-24,2,204.85,9009,10661,False,0
+Camera,Electronics,2023-04-28,3,843.67,9009,10661,False,2
+Bed,Home & Living,2023-04-11,1,382.06,7092,45562,False,0
+Shoes,Fashion,2022-12-10,3,288.55,7092,45562,False,0
+Laptop,Electronics,2022-11-05,2,824.32,7092,45562,False,2
+Lamp,Home & Living,2023-07-13,5,362.34,7092,45562,True,1
+Handbag,Fashion,2022-11-28,5,526.68,7092,45562,False,1
+Shoes,Fashion,2022-11-29,2,109.34,2369,76965,True,0
+Headphones,Electronics,2022-12-02,2,214.58,2369,76965,False,0
+Tennis Racket,Sports & Outdoors,2023-10-14,2,954.16,5767,45542,True,2
+Yoga Mat,Sports & Outdoors,2023-07-23,1,866.67,9929,47726,True,2
+Cookware,Home & Living,2023-10-28,4,85.71,9929,47726,True,1
+Camera,Electronics,2023-10-17,1,279.03,9929,47726,False,0
+Science Fiction,Books,2023-07-19,4,866.25,9929,47726,True,2
+Nail Polish,Beauty & Health,2022-12-06,2,851.4,9329,88041,True,2
+Smartwatch,Electronics,2022-12-02,1,688.68,9329,88041,True,2
+Smartphone,Electronics,2023-02-22,3,784.19,9329,88041,True,2
+Science Fiction,Books,2023-01-30,4,548.24,1150,99279,False,1
+Bed,Home & Living,2023-06-21,4,853.81,1150,99279,True,2
+Headphones,Electronics,2023-07-28,5,310.35,1150,99279,False,1
+Cookware,Home & Living,2022-12-02,5,750.71,1150,99279,False,1
+Bed,Home & Living,2022-12-29,1,808.84,1150,99279,False,2
+Sofa,Home & Living,2023-04-17,4,521.83,7657,41353,False,1
+Sunglasses,Fashion,2023-01-27,5,889.94,6610,45769,False,1
+Sunglasses,Fashion,2023-09-25,3,515.57,6610,45769,False,2
+History,Books,2023-09-19,4,281.48,6610,45769,False,1
+Perfume,Beauty & Health,2023-01-02,1,655.85,5391,56945,True,2
+Nail Polish,Beauty & Health,2023-02-09,1,157.18,8581,97178,True,0
+Sofa,Home & Living,2023-06-30,1,125.32,8581,97178,True,0
+Basketball,Sports & Outdoors,2023-02-05,2,620.17,8581,97178,False,2
+Dining Table,Home & Living,2023-10-09,4,425.71,3970,42368,False,1
+Dress,Fashion,2023-08-22,4,583.91,3970,42368,False,1
+Basketball,Sports & Outdoors,2023-04-18,4,970.03,3970,42368,True,2
+Perfume,Beauty & Health,2023-10-22,3,454.49,3970,42368,True,0
+Cycling Helmet,Sports & Outdoors,2023-10-10,2,147.75,3970,42368,True,0
+Dress,Fashion,2023-03-19,2,967.51,3972,92303,True,2
+Laptop,Electronics,2023-09-28,3,918.11,3972,92303,False,2
+Science Fiction,Books,2023-10-19,4,794.23,2008,81090,True,2
+Cookware,Home & Living,2023-07-05,3,717.25,2008,81090,True,2
+Romance Novel,Books,2023-08-29,5,507.79,8996,77178,False,1
+Bed,Home & Living,2023-02-28,4,176.73,7410,70882,False,1
+Headphones,Electronics,2023-07-17,1,883.6,7410,70882,False,2
+Bed,Home & Living,2023-08-15,3,998.08,7410,70882,True,2
+Basketball,Sports & Outdoors,2023-02-25,3,541.28,7410,70882,False,2
+Cycling Helmet,Sports & Outdoors,2023-02-11,5,960.58,2001,28995,False,1
+Camera,Electronics,2023-07-13,3,794.19,2001,28995,False,2
+Romance Novel,Books,2022-11-23,5,259.63,2001,28995,False,1
+Sofa,Home & Living,2023-04-19,2,623.72,9409,73354,True,2
+Handbag,Fashion,2023-01-12,4,247.73,9409,73354,False,1
+Biography,Books,2022-12-19,2,782.41,9409,73354,False,2
+Tennis Racket,Sports & Outdoors,2023-08-12,2,896.41,9409,73354,True,2
+Shoes,Fashion,2023-04-09,5,191.48,9409,73354,False,1
+Lamp,Home & Living,2023-07-10,5,467.61,7998,13196,False,1
+Smartphone,Electronics,2023-04-15,3,772.22,7998,13196,True,2
+Sofa,Home & Living,2023-08-18,4,461.38,7998,13196,True,1
+Shampoo,Beauty & Health,2023-03-05,2,134.51,7998,13196,False,0
+Perfume,Beauty & Health,2022-10-31,1,695.16,4046,82419,False,2
+Sofa,Home & Living,2023-10-14,3,155.18,4046,82419,False,0
+Lamp,Home & Living,2023-02-22,1,723.25,4046,82419,False,2
+Shoes,Fashion,2023-04-25,5,925.02,4046,82419,True,1
+Smartwatch,Electronics,2023-06-23,4,41.54,4046,82419,True,1
+Sofa,Home & Living,2023-04-13,2,785.11,1598,65929,False,2
+Yoga Mat,Sports & Outdoors,2023-07-18,2,960.99,1598,65929,False,2
+Camera,Electronics,2023-04-12,1,335.3,1598,65929,True,0
+Mystery Novel,Books,2023-01-12,5,322.9,1598,65929,True,1
+Camping Tent,Sports & Outdoors,2023-03-06,4,764.77,4667,70560,False,1
+History,Books,2023-02-18,4,323.5,4667,70560,False,1
+Dining Table,Home & Living,2023-04-01,4,177.95,4667,70560,False,1
+Mystery Novel,Books,2023-03-02,4,424.55,4667,70560,True,1
+Smartphone,Electronics,2022-11-08,3,300.59,4667,70560,False,0
+Dining Table,Home & Living,2023-04-25,1,12.07,7625,16799,False,0
+Lipstick,Beauty & Health,2023-09-26,5,699.79,6453,49075,True,1
+Biography,Books,2023-01-13,1,793.42,6453,49075,True,2
+Yoga Mat,Sports & Outdoors,2023-08-16,4,704.54,6453,49075,False,1
+Romance Novel,Books,2023-10-18,4,737.02,1866,793,False,1
+Yoga Mat,Sports & Outdoors,2022-11-27,3,731.98,1866,793,True,2
+Mystery Novel,Books,2023-03-29,2,623.72,1866,793,False,2
+Bed,Home & Living,2023-05-11,5,156.4,5787,94396,False,1
+Handbag,Fashion,2023-10-19,1,690.22,8788,37259,True,2
+Handbag,Fashion,2023-08-18,3,212.99,8788,37259,True,0
+Smartwatch,Electronics,2023-01-23,2,779.79,8788,37259,True,2
+Dress,Fashion,2023-03-07,2,161.39,8788,37259,True,0
+Sofa,Home & Living,2022-11-08,1,900.67,2263,33203,True,2
+History,Books,2022-11-09,2,49.69,2263,33203,False,0
+Romance Novel,Books,2023-04-17,1,359.44,2263,33203,True,0
+Perfume,Beauty & Health,2023-02-02,5,548.32,2263,33203,True,1
+Camping Tent,Sports & Outdoors,2022-12-10,4,203.97,5906,69951,True,1
+Nail Polish,Beauty & Health,2022-11-04,1,979.77,5906,69951,True,2
+Shampoo,Beauty & Health,2022-11-17,4,924.27,5906,69951,True,2
+Nail Polish,Beauty & Health,2022-12-31,5,274.83,5906,69951,True,1
+Mystery Novel,Books,2023-05-08,4,707.33,5906,69951,True,1
+Camera,Electronics,2023-06-26,1,734.01,2437,1947,False,2
+History,Books,2023-02-09,3,782.19,2437,1947,False,2
+Yoga Mat,Sports & Outdoors,2023-09-22,4,34.04,2437,1947,True,1
+Handbag,Fashion,2023-04-30,4,377.98,2437,1947,False,1
+Yoga Mat,Sports & Outdoors,2023-03-23,3,268.85,4614,26380,False,0
+Biography,Books,2023-08-12,2,70.03,4614,26380,True,0
+Lamp,Home & Living,2023-03-07,2,28.92,4614,26380,True,0
+Perfume,Beauty & Health,2023-09-11,3,946.03,4614,26380,False,2
+Smartphone,Electronics,2023-03-07,2,210.93,2952,97024,False,0
+Yoga Mat,Sports & Outdoors,2022-11-11,4,405.0,2952,97024,False,1
+Tennis Racket,Sports & Outdoors,2023-01-08,1,693.97,4839,81113,False,2
+Camping Tent,Sports & Outdoors,2023-07-24,5,387.39,4839,81113,False,1
+Lamp,Home & Living,2022-12-18,1,218.07,4839,81113,True,0
+Lamp,Home & Living,2023-09-06,2,420.9,4839,81113,False,0
+Romance Novel,Books,2023-10-17,2,457.32,9813,37459,False,0
+Basketball,Sports & Outdoors,2023-06-08,1,477.51,9813,37459,False,0
+Bed,Home & Living,2023-04-17,4,176.3,9813,37459,False,1
+Perfume,Beauty & Health,2023-04-15,1,372.89,9813,37459,False,0
+Lamp,Home & Living,2023-06-12,4,906.01,2191,26239,True,2
+Camping Tent,Sports & Outdoors,2023-01-11,2,232.1,2191,26239,True,0
+Smartwatch,Electronics,2022-12-07,1,580.07,2191,26239,True,2
+Sunglasses,Fashion,2023-04-08,3,265.25,2191,26239,True,0
+Sofa,Home & Living,2023-01-19,3,685.64,2726,64725,True,2
+Shirt,Fashion,2023-07-04,5,875.49,2726,64725,True,1
+Handbag,Fashion,2023-03-06,4,831.91,2726,64725,True,2
+Laptop,Electronics,2023-06-26,1,472.87,5583,42017,True,0
+Sofa,Home & Living,2022-11-25,3,353.7,4165,98312,True,0
+Dining Table,Home & Living,2022-12-17,5,226.04,4165,98312,False,1
+Shampoo,Beauty & Health,2022-12-04,1,404.08,4165,98312,False,0
+Shirt,Fashion,2023-05-09,4,803.47,7763,64930,True,2
+Smartphone,Electronics,2023-06-01,5,701.17,9550,84221,False,1
+Bed,Home & Living,2023-02-10,2,33.74,9550,84221,False,0
+Smartwatch,Electronics,2023-05-02,4,17.51,9550,84221,True,1
+Camping Tent,Sports & Outdoors,2023-01-26,4,256.97,4439,32795,False,1
+Shoes,Fashion,2022-12-24,3,389.23,4439,32795,True,0
+Shirt,Fashion,2023-04-03,1,995.5,4439,32795,True,2
+Perfume,Beauty & Health,2023-05-23,5,918.92,4439,32795,True,1
+Body Lotion,Beauty & Health,2023-09-07,5,867.6,3321,36833,True,1
+Handbag,Fashion,2023-03-10,1,370.36,3321,36833,True,0
+Smartphone,Electronics,2023-08-19,1,846.93,3321,36833,True,2
+Smartwatch,Electronics,2023-02-25,4,863.46,3321,36833,True,2
+Shirt,Fashion,2023-05-24,4,263.73,8450,51850,False,1
+Mystery Novel,Books,2023-09-15,4,799.63,8450,51850,True,2
+Handbag,Fashion,2023-04-29,5,494.36,9610,30415,False,1
+Headphones,Electronics,2023-04-15,2,72.76,9610,30415,False,0
+Sunglasses,Fashion,2023-10-10,5,925.33,9610,30415,True,1
+Biography,Books,2023-08-23,5,147.85,9610,30415,True,1
+Nail Polish,Beauty & Health,2023-03-16,3,973.55,9610,30415,False,2
+Headphones,Electronics,2023-10-10,1,569.67,2787,83522,False,0
+Dress,Fashion,2023-10-21,3,500.08,2787,83522,False,0
+Dining Table,Home & Living,2023-08-12,2,649.92,2787,83522,False,2
+Mystery Novel,Books,2023-05-13,4,28.31,1681,21718,True,1
+Camera,Electronics,2022-12-06,4,100.36,1681,21718,False,1
+Biography,Books,2022-11-30,3,424.21,1681,21718,True,0
+Science Fiction,Books,2022-12-02,4,412.93,1681,21718,False,1
+Bed,Home & Living,2023-04-30,3,146.58,1681,21718,True,0
+Lipstick,Beauty & Health,2023-08-16,3,276.09,9842,59180,True,0
+Cycling Helmet,Sports & Outdoors,2023-07-10,2,702.37,9842,59180,True,2
+Basketball,Sports & Outdoors,2022-12-27,5,188.86,9970,36907,False,1
+Sofa,Home & Living,2022-11-27,2,392.76,9970,36907,False,0
+Handbag,Fashion,2023-05-09,3,887.53,9970,36907,True,2
+Dress,Fashion,2023-09-02,1,301.61,9970,36907,False,0
+Cookware,Home & Living,2022-11-30,3,245.91,9970,36907,False,0
+Tennis Racket,Sports & Outdoors,2022-11-04,1,243.97,5854,73922,True,0
+Lamp,Home & Living,2023-03-22,2,520.37,5854,73922,False,0
+Shampoo,Beauty & Health,2023-09-09,1,232.37,5854,73922,False,0
+Smartwatch,Electronics,2023-04-20,4,848.36,5854,73922,False,2
+Cookware,Home & Living,2023-09-03,5,223.84,2458,43265,False,1
+Cookware,Home & Living,2023-05-21,3,905.38,2458,43265,False,2
+Smartphone,Electronics,2023-08-21,1,761.2,2458,43265,False,2
+Basketball,Sports & Outdoors,2023-02-26,5,979.23,8990,68748,False,1
+Shampoo,Beauty & Health,2023-02-20,1,147.51,8990,68748,True,0
+Nail Polish,Beauty & Health,2023-08-26,4,939.51,7776,83263,True,2
+Laptop,Electronics,2023-09-29,1,311.15,4923,1119,True,0
+Bed,Home & Living,2023-10-17,4,587.96,4923,1119,False,1
+Lamp,Home & Living,2023-06-10,3,558.02,4923,1119,True,2
+Mystery Novel,Books,2023-06-04,3,573.75,9997,55475,True,2
+Nail Polish,Beauty & Health,2022-11-06,3,62.94,9997,55475,True,0
+Tennis Racket,Sports & Outdoors,2023-07-31,2,48.27,9997,55475,False,0
+Shampoo,Beauty & Health,2023-03-31,5,587.14,9997,55475,True,1
+Romance Novel,Books,2023-02-06,5,242.42,9997,55475,False,1
+Bed,Home & Living,2023-01-04,3,787.52,1494,62571,False,2
+Tennis Racket,Sports & Outdoors,2022-11-02,4,805.11,1494,62571,True,2
+Dress,Fashion,2023-08-13,2,507.94,8130,16038,False,0
+Smartwatch,Electronics,2023-09-21,1,975.39,8130,16038,False,2
+Perfume,Beauty & Health,2023-07-30,5,362.1,8130,16038,False,1
+Yoga Mat,Sports & Outdoors,2023-06-28,5,199.09,8130,16038,True,1
+Camping Tent,Sports & Outdoors,2023-05-28,2,784.38,3382,87134,False,2
+Camera,Electronics,2023-03-27,5,927.26,3382,87134,True,1
+Laptop,Electronics,2023-05-04,5,542.69,3382,87134,True,1
+Smartwatch,Electronics,2023-04-26,2,419.63,3382,87134,False,0
+Biography,Books,2023-09-16,5,368.27,4361,51582,False,1
+Mystery Novel,Books,2023-06-11,5,39.72,4361,51582,False,1
+History,Books,2023-08-09,1,994.69,5098,12535,False,2
+Camping Tent,Sports & Outdoors,2023-09-22,4,100.96,6726,45913,False,1
+Cookware,Home & Living,2022-11-11,1,891.06,6726,45913,True,2
+Sunglasses,Fashion,2023-02-24,2,593.88,2456,10722,True,2
+Cookware,Home & Living,2023-09-21,4,979.5,2456,10722,False,2
+Sunglasses,Fashion,2023-06-26,1,663.0,2456,10722,True,2
+Cookware,Home & Living,2023-07-19,1,620.1,2456,10722,True,2
+Headphones,Electronics,2023-03-25,1,271.04,2456,10722,True,0
+Basketball,Sports & Outdoors,2023-02-07,2,130.58,6780,44922,True,0
+Cycling Helmet,Sports & Outdoors,2023-06-20,4,13.86,6780,44922,False,1
+Camping Tent,Sports & Outdoors,2022-11-21,2,586.07,8824,78509,False,2
+Sofa,Home & Living,2023-05-19,2,208.22,8824,78509,False,0
+Smartphone,Electronics,2023-09-26,4,847.88,9928,11682,True,2
+Sofa,Home & Living,2023-02-20,4,70.43,9928,11682,True,1
+History,Books,2023-05-26,4,486.49,9928,11682,True,1
+Biography,Books,2022-12-18,4,790.11,3485,93869,True,2
+Shoes,Fashion,2022-11-23,4,903.54,3485,93869,False,2
+Sunglasses,Fashion,2023-05-25,5,425.28,6161,87209,True,1
+Shirt,Fashion,2023-06-01,4,75.01,6161,87209,False,1
+Camera,Electronics,2023-07-30,2,31.31,6161,87209,False,0
+Mystery Novel,Books,2023-08-06,1,787.14,6161,87209,False,2
+Dining Table,Home & Living,2023-04-06,2,259.54,4883,63018,True,0
+Sofa,Home & Living,2023-01-15,4,156.35,4883,63018,False,1
+Perfume,Beauty & Health,2023-07-24,2,531.93,1466,32015,False,0
+Romance Novel,Books,2023-04-28,2,558.9,1466,32015,False,2
+Sofa,Home & Living,2023-08-01,3,136.54,8851,39957,False,0
+Romance Novel,Books,2023-10-07,1,199.06,1093,11059,True,0
+Smartwatch,Electronics,2023-02-06,2,388.08,1093,11059,False,0
+Camera,Electronics,2023-05-14,5,167.77,1093,11059,False,1
+Sunglasses,Fashion,2023-06-26,5,826.45,3037,24464,False,1
+Tennis Racket,Sports & Outdoors,2023-10-12,4,141.75,3037,24464,True,1
+Laptop,Electronics,2023-04-17,2,598.97,3037,24464,True,2
+Smartphone,Electronics,2023-06-09,5,412.02,3037,24464,False,1
+Dining Table,Home & Living,2023-08-16,1,374.41,1071,60134,True,0
+Shampoo,Beauty & Health,2023-01-28,3,123.61,1071,60134,False,0
+Science Fiction,Books,2023-03-20,2,315.03,1071,60134,False,0
+Laptop,Electronics,2023-06-14,3,950.09,1071,60134,False,2
+Body Lotion,Beauty & Health,2022-11-03,5,709.39,1071,60134,True,1
+Basketball,Sports & Outdoors,2023-07-25,5,712.86,6702,51010,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-12,3,277.83,6702,51010,False,0
+Lamp,Home & Living,2023-01-31,3,411.25,9176,72861,False,0
+Camping Tent,Sports & Outdoors,2023-01-24,5,871.01,9176,72861,True,1
+Bed,Home & Living,2023-01-16,5,659.67,2819,77614,True,1
+Tennis Racket,Sports & Outdoors,2023-05-16,5,837.87,2819,77614,False,1
+Mystery Novel,Books,2023-01-01,1,956.28,2819,77614,False,2
+Romance Novel,Books,2023-08-29,4,654.74,2819,77614,False,1
+Cookware,Home & Living,2023-02-15,5,741.3,2819,77614,False,1
+Headphones,Electronics,2023-04-07,5,238.68,4756,95190,False,1
+Camping Tent,Sports & Outdoors,2022-11-04,1,976.25,4756,95190,True,2
+Mystery Novel,Books,2023-04-01,2,273.72,4756,95190,True,0
+Yoga Mat,Sports & Outdoors,2023-03-31,1,14.56,4756,95190,True,0
+Sofa,Home & Living,2022-11-04,4,320.94,2411,4653,False,1
+Biography,Books,2023-04-02,2,454.25,2411,4653,False,0
+Dining Table,Home & Living,2023-05-09,2,823.64,2411,4653,True,2
+Cycling Helmet,Sports & Outdoors,2023-01-10,1,346.42,2411,4653,True,0
+Cycling Helmet,Sports & Outdoors,2023-02-05,3,387.62,2411,4653,True,0
+Sofa,Home & Living,2022-11-11,4,696.96,1234,86183,False,1
+Sofa,Home & Living,2022-11-21,3,311.08,6723,25993,False,0
+Smartphone,Electronics,2023-04-13,1,838.69,6723,25993,True,2
+Perfume,Beauty & Health,2023-07-23,3,75.05,7412,40255,True,0
+Headphones,Electronics,2023-05-07,5,113.63,7412,40255,False,1
+Mystery Novel,Books,2023-10-12,2,123.81,6097,95938,False,0
+Body Lotion,Beauty & Health,2023-08-16,3,363.71,6097,95938,False,0
+Camping Tent,Sports & Outdoors,2023-05-19,5,643.88,6960,69320,False,1
+Lamp,Home & Living,2022-11-24,4,382.16,6960,69320,True,1
+Dress,Fashion,2023-08-15,2,450.36,6960,69320,False,0
+Laptop,Electronics,2023-08-01,4,404.49,6398,16337,False,1
+Bed,Home & Living,2023-06-23,4,615.11,6398,16337,True,1
+Cookware,Home & Living,2022-10-31,1,944.22,6398,16337,False,2
+Romance Novel,Books,2023-09-21,2,796.25,6398,16337,True,2
+Lipstick,Beauty & Health,2022-12-30,1,776.6,1675,25438,False,2
+Cycling Helmet,Sports & Outdoors,2023-09-12,2,206.01,1675,25438,False,0
+Dress,Fashion,2022-11-20,3,645.4,1675,25438,True,2
+Lamp,Home & Living,2023-04-16,3,96.26,1675,25438,True,0
+Shoes,Fashion,2023-04-29,3,745.39,3241,84326,True,2
+Cycling Helmet,Sports & Outdoors,2023-07-21,1,159.54,8476,25296,True,0
+Body Lotion,Beauty & Health,2022-11-25,2,955.9,8476,25296,True,2
+Lamp,Home & Living,2023-02-15,1,540.15,8476,25296,True,0
+History,Books,2022-12-09,3,114.66,7385,35347,False,0
+Shoes,Fashion,2022-12-08,1,843.93,7385,35347,True,2
+Lipstick,Beauty & Health,2023-09-06,2,67.19,7385,35347,False,0
+Sunglasses,Fashion,2023-01-24,1,979.84,7385,35347,False,2
+Bed,Home & Living,2023-08-04,3,544.35,3883,92291,True,2
+Bed,Home & Living,2022-11-29,5,916.17,3883,92291,True,1
+Smartwatch,Electronics,2023-08-01,1,587.73,3883,92291,False,2
+Dining Table,Home & Living,2022-11-04,5,208.85,3883,92291,True,1
+Cookware,Home & Living,2023-08-15,1,841.59,1559,80137,False,2
+Bed,Home & Living,2023-01-26,3,759.1,2881,5637,True,2
+Mystery Novel,Books,2023-10-07,1,491.11,2881,5637,False,0
+Camera,Electronics,2023-01-14,1,314.78,2714,28374,False,0
+Headphones,Electronics,2023-07-31,3,98.0,2714,28374,False,0
+Headphones,Electronics,2022-12-17,5,224.65,2714,28374,False,1
+Mystery Novel,Books,2023-10-25,3,857.11,6150,11857,False,2
+Nail Polish,Beauty & Health,2023-08-27,5,272.29,6150,11857,True,1
+Shirt,Fashion,2022-11-02,1,640.54,6150,11857,True,2
+Science Fiction,Books,2022-11-25,4,567.12,6150,11857,False,1
+Shoes,Fashion,2023-05-11,1,318.04,6150,11857,True,0
+Camera,Electronics,2023-08-09,2,217.6,5855,25984,True,0
+Basketball,Sports & Outdoors,2023-04-08,2,865.69,5855,25984,False,2
+Dress,Fashion,2023-05-07,4,767.03,3283,9651,True,1
+Science Fiction,Books,2023-04-09,3,10.26,3283,9651,False,0
+History,Books,2023-09-05,5,406.39,3283,9651,True,1
+Headphones,Electronics,2023-07-15,1,350.68,5820,56356,True,0
+Cookware,Home & Living,2022-11-03,5,169.88,5820,56356,True,1
+Camera,Electronics,2023-09-06,3,960.95,5820,56356,True,2
+Dining Table,Home & Living,2022-11-06,1,146.47,5093,91964,True,0
+Basketball,Sports & Outdoors,2023-06-15,3,848.48,5093,91964,False,2
+Sofa,Home & Living,2023-01-06,1,315.73,5093,91964,True,0
+Dining Table,Home & Living,2022-11-21,2,550.46,5093,91964,False,2
+Handbag,Fashion,2023-07-21,2,688.31,5093,91964,True,2
+Cookware,Home & Living,2023-04-16,4,408.5,2231,68797,True,1
+Yoga Mat,Sports & Outdoors,2023-03-13,5,830.76,2231,68797,True,1
+Shirt,Fashion,2022-11-12,1,440.39,8900,97577,False,0
+Body Lotion,Beauty & Health,2023-06-25,3,669.48,8900,97577,True,2
+Camera,Electronics,2023-09-30,3,175.27,8900,97577,True,0
+Biography,Books,2022-11-03,2,314.35,8199,22475,False,0
+Smartphone,Electronics,2022-11-05,1,343.33,8199,22475,False,0
+Camera,Electronics,2022-12-04,1,543.19,8199,22475,True,0
+Smartphone,Electronics,2023-02-24,1,481.79,8199,22475,True,0
+Nail Polish,Beauty & Health,2023-03-06,3,990.38,5336,71118,True,2
+Lamp,Home & Living,2023-05-13,1,418.83,8600,44621,False,0
+Cycling Helmet,Sports & Outdoors,2023-09-23,3,123.07,8600,44621,False,0
+Headphones,Electronics,2022-11-12,3,81.77,8600,44621,True,0
+Smartphone,Electronics,2023-04-27,2,704.64,8600,44621,False,2
+Laptop,Electronics,2023-09-23,1,46.57,8600,44621,True,0
+Shoes,Fashion,2023-10-01,2,500.46,6390,88879,False,0
+Camping Tent,Sports & Outdoors,2022-12-20,1,204.7,5567,21716,True,0
+Shirt,Fashion,2023-01-21,4,378.0,5567,21716,True,1
+Cookware,Home & Living,2023-10-10,1,65.53,8507,45095,True,0
+Laptop,Electronics,2023-07-24,1,839.98,8507,45095,True,2
+Perfume,Beauty & Health,2023-03-13,5,574.28,8507,45095,False,1
+Lipstick,Beauty & Health,2023-08-07,5,928.82,4128,34589,False,1
+Yoga Mat,Sports & Outdoors,2023-07-21,2,934.1,4128,34589,False,2
+Smartwatch,Electronics,2023-03-07,5,676.34,4128,34589,True,1
+Handbag,Fashion,2023-07-20,1,779.74,4128,34589,False,2
+Yoga Mat,Sports & Outdoors,2022-12-09,5,64.68,9581,73946,True,1
+Dress,Fashion,2022-11-17,2,658.91,9581,73946,True,2
+Dress,Fashion,2023-07-25,5,725.81,9581,73946,False,1
+Handbag,Fashion,2022-11-25,5,106.4,9581,73946,True,1
+Cycling Helmet,Sports & Outdoors,2023-08-16,5,967.34,9581,73946,False,1
+Bed,Home & Living,2023-01-07,1,539.85,8364,24942,True,0
+Perfume,Beauty & Health,2023-01-17,4,971.06,8364,24942,True,2
+Dining Table,Home & Living,2023-03-24,3,274.87,8364,24942,False,0
+Yoga Mat,Sports & Outdoors,2023-02-04,1,861.2,8364,24942,True,2
+Basketball,Sports & Outdoors,2023-05-30,3,859.5,8364,24942,False,2
+Bed,Home & Living,2023-08-18,2,255.9,4978,29295,True,0
+Tennis Racket,Sports & Outdoors,2023-03-07,1,797.63,4978,29295,True,2
+Perfume,Beauty & Health,2022-10-31,4,886.27,4978,29295,True,2
+Shirt,Fashion,2023-04-27,1,287.57,5442,75895,True,0
+Lamp,Home & Living,2023-01-02,1,231.82,5442,75895,False,0
+Cycling Helmet,Sports & Outdoors,2022-12-26,3,496.8,5442,75895,False,0
+Camera,Electronics,2023-08-06,4,427.33,5442,75895,False,1
+Shampoo,Beauty & Health,2023-06-27,1,365.38,6731,82094,False,0
+Shirt,Fashion,2023-01-06,4,121.53,6731,82094,True,1
+Smartphone,Electronics,2023-04-28,2,769.58,4169,1572,True,2
+Body Lotion,Beauty & Health,2023-01-04,5,321.18,4169,1572,True,1
+Shoes,Fashion,2022-12-23,4,580.97,4169,1572,True,1
+Science Fiction,Books,2023-04-08,1,112.58,7076,24985,False,0
+Handbag,Fashion,2022-11-28,2,541.5,7076,24985,True,0
+Yoga Mat,Sports & Outdoors,2023-06-28,1,100.57,6071,3513,False,0
+Science Fiction,Books,2022-11-10,5,243.98,6071,3513,True,1
+Smartwatch,Electronics,2023-06-04,4,906.16,3281,75854,False,2
+Mystery Novel,Books,2023-03-05,4,162.14,3281,75854,False,1
+Dining Table,Home & Living,2023-09-04,3,349.25,3281,75854,True,0
+Dining Table,Home & Living,2023-09-15,4,477.88,3281,75854,True,1
+Camping Tent,Sports & Outdoors,2023-08-20,5,224.41,3281,75854,False,1
+Handbag,Fashion,2022-12-23,2,578.75,9266,89927,False,2
+Sunglasses,Fashion,2023-06-21,1,922.11,9266,89927,True,2
+Lamp,Home & Living,2023-02-25,2,916.48,9266,89927,False,2
+Handbag,Fashion,2022-11-11,1,57.9,6358,46769,False,0
+Cookware,Home & Living,2023-06-22,3,78.16,6358,46769,False,0
+Biography,Books,2023-08-16,2,36.15,6358,46769,True,0
+Shirt,Fashion,2023-06-07,2,343.94,6358,46769,True,0
+Camping Tent,Sports & Outdoors,2023-06-21,3,438.63,6358,46769,False,0
+Tennis Racket,Sports & Outdoors,2023-01-11,3,310.17,8410,98446,False,0
+Dining Table,Home & Living,2023-04-06,1,708.95,8410,98446,True,2
+History,Books,2022-11-26,1,358.48,7818,68297,True,0
+Yoga Mat,Sports & Outdoors,2023-10-17,2,700.9,3090,82602,True,2
+Shirt,Fashion,2023-05-05,4,41.25,3700,92492,False,1
+Yoga Mat,Sports & Outdoors,2023-06-02,1,785.11,3700,92492,False,2
+Headphones,Electronics,2023-04-11,4,756.1,3700,92492,False,1
+Yoga Mat,Sports & Outdoors,2023-10-08,1,224.09,3700,92492,False,0
+History,Books,2023-06-03,1,767.19,3700,92492,False,2
+Shirt,Fashion,2023-03-03,2,577.14,6961,7464,False,2
+Tennis Racket,Sports & Outdoors,2023-08-25,5,288.87,6961,7464,True,1
+Dress,Fashion,2022-12-24,3,376.27,6961,7464,False,0
+Sofa,Home & Living,2022-12-11,4,440.87,6961,7464,True,1
+Bed,Home & Living,2023-10-04,3,114.25,6961,7464,True,0
+Tennis Racket,Sports & Outdoors,2023-04-27,4,426.7,1589,9380,False,1
+Shampoo,Beauty & Health,2023-02-19,5,399.12,1589,9380,False,1
+Cookware,Home & Living,2023-06-05,1,258.36,1589,9380,True,0
+Lamp,Home & Living,2023-04-19,4,753.67,6564,2146,False,1
+Handbag,Fashion,2023-07-24,2,691.56,4228,64651,False,2
+Lipstick,Beauty & Health,2023-10-02,4,368.82,4228,64651,False,1
+Laptop,Electronics,2023-02-27,3,824.32,4228,64651,True,2
+Nail Polish,Beauty & Health,2023-10-08,5,591.66,1379,57472,True,1
+Dining Table,Home & Living,2023-01-02,5,732.34,1379,57472,False,1
+Dining Table,Home & Living,2023-10-16,1,79.37,8137,9666,False,0
+Science Fiction,Books,2023-10-22,2,848.06,8137,9666,True,2
+Camera,Electronics,2023-04-24,4,101.27,8137,9666,True,1
+Bed,Home & Living,2022-12-19,3,458.74,4873,68672,True,0
+Sofa,Home & Living,2023-07-13,4,517.06,4873,68672,False,1
+Lipstick,Beauty & Health,2023-08-07,5,393.84,4873,68672,True,1
+Dress,Fashion,2023-04-06,5,999.01,4335,3740,True,1
+Shoes,Fashion,2023-06-01,2,525.19,4335,3740,False,0
+Handbag,Fashion,2023-08-08,3,433.88,3405,14113,True,0
+Basketball,Sports & Outdoors,2023-08-01,1,874.07,3405,14113,True,2
+History,Books,2023-04-06,2,313.39,3405,14113,True,0
+Perfume,Beauty & Health,2023-04-01,4,317.22,1243,95738,False,1
+Body Lotion,Beauty & Health,2023-08-23,1,187.64,4484,78133,True,0
+Science Fiction,Books,2023-05-25,3,83.04,4484,78133,True,0
+Smartphone,Electronics,2023-02-15,4,922.68,4484,78133,False,2
+Cycling Helmet,Sports & Outdoors,2022-11-22,5,547.61,4484,78133,False,1
+Sunglasses,Fashion,2023-04-22,1,927.25,9963,78986,True,2
+Body Lotion,Beauty & Health,2023-08-18,4,663.92,9963,78986,False,1
+Camping Tent,Sports & Outdoors,2023-08-01,2,354.98,9963,78986,True,0
+History,Books,2023-07-10,4,169.21,9963,78986,True,1
+Headphones,Electronics,2023-01-22,1,452.23,9963,78986,True,0
+Body Lotion,Beauty & Health,2023-08-08,4,22.46,5154,16734,False,1
+Dining Table,Home & Living,2023-07-03,1,160.41,5154,16734,False,0
+Bed,Home & Living,2022-12-25,2,62.13,9525,57239,True,0
+Lamp,Home & Living,2023-09-08,2,857.48,9525,57239,False,2
+Headphones,Electronics,2023-04-14,5,23.02,8436,71956,False,1
+Tennis Racket,Sports & Outdoors,2022-12-23,4,750.56,8436,71956,True,1
+Dining Table,Home & Living,2023-05-16,2,843.63,8436,71956,True,2
+Cookware,Home & Living,2023-07-10,3,77.89,8436,71956,True,0
+Camping Tent,Sports & Outdoors,2022-12-26,2,835.51,1386,6791,True,2
+History,Books,2023-01-06,5,665.4,1386,6791,False,1
+Cycling Helmet,Sports & Outdoors,2023-05-09,3,41.38,1386,6791,False,0
+Biography,Books,2023-05-03,2,60.53,1386,6791,True,0
+Cycling Helmet,Sports & Outdoors,2023-04-05,4,313.67,1386,6791,True,1
+Perfume,Beauty & Health,2023-08-21,4,33.05,6946,44542,False,1
+History,Books,2023-03-13,5,419.32,6946,44542,False,1
+Lamp,Home & Living,2022-11-27,1,154.63,6946,44542,False,0
+Perfume,Beauty & Health,2023-10-10,2,123.58,6946,44542,True,0
+Smartwatch,Electronics,2023-03-01,5,838.38,6946,44542,True,1
+Smartphone,Electronics,2023-05-15,5,998.0,8510,37012,False,1
+Lipstick,Beauty & Health,2023-01-15,5,90.41,8053,55923,False,1
+Camping Tent,Sports & Outdoors,2023-03-09,5,916.88,8053,55923,True,1
+History,Books,2023-09-08,1,677.27,8053,55923,False,2
+Shirt,Fashion,2023-01-31,4,380.47,1824,85525,False,1
+Science Fiction,Books,2023-07-10,2,268.96,1824,85525,True,0
+Mystery Novel,Books,2023-10-22,2,554.04,1824,85525,True,2
+Basketball,Sports & Outdoors,2023-03-02,1,439.69,1824,85525,False,0
+Sunglasses,Fashion,2023-03-28,5,163.85,1408,16636,True,1
+Basketball,Sports & Outdoors,2022-11-19,2,453.16,1408,16636,False,0
+Nail Polish,Beauty & Health,2022-12-13,1,708.38,1408,16636,True,2
+Bed,Home & Living,2023-01-10,5,244.14,1408,16636,True,1
+Smartwatch,Electronics,2023-06-18,4,594.75,2840,66417,False,1
+History,Books,2023-06-11,4,392.01,5890,27501,False,1
+Camping Tent,Sports & Outdoors,2023-08-29,4,49.64,5890,27501,True,1
+Shirt,Fashion,2023-02-12,4,843.2,5890,27501,False,2
+Shoes,Fashion,2022-11-17,1,773.18,5890,27501,True,2
+Perfume,Beauty & Health,2023-07-10,1,77.37,5890,27501,False,0
+Lamp,Home & Living,2023-02-17,4,87.2,2178,2077,False,1
+Perfume,Beauty & Health,2023-05-20,2,780.16,5250,2874,False,2
+Cookware,Home & Living,2023-02-21,1,657.32,3232,35181,False,2
+Yoga Mat,Sports & Outdoors,2023-05-01,2,581.24,5005,28496,False,2
+Bed,Home & Living,2023-07-04,3,972.88,5005,28496,True,2
+Dining Table,Home & Living,2023-03-05,5,573.18,5005,28496,True,1
+Yoga Mat,Sports & Outdoors,2023-08-04,4,205.69,5005,28496,False,1
+Camping Tent,Sports & Outdoors,2022-11-16,3,120.54,5005,28496,False,0
+Sunglasses,Fashion,2022-10-31,5,774.35,3440,87482,True,1
+Camping Tent,Sports & Outdoors,2022-12-13,4,985.52,3440,87482,False,2
+Cookware,Home & Living,2023-03-12,2,863.09,3440,87482,False,2
+Body Lotion,Beauty & Health,2023-08-13,5,423.51,2982,19585,False,1
+Dress,Fashion,2023-09-16,1,316.12,2982,19585,True,0
+Perfume,Beauty & Health,2023-03-28,1,818.53,3652,55002,False,2
+Handbag,Fashion,2023-02-17,4,558.37,3652,55002,True,1
+Handbag,Fashion,2023-08-20,5,608.85,2642,31740,True,1
+Camera,Electronics,2022-10-30,4,425.08,1299,62109,True,1
+Mystery Novel,Books,2023-08-16,1,438.01,5797,11306,True,0
+Dress,Fashion,2023-09-20,2,611.9,5797,11306,True,2
+Smartphone,Electronics,2023-09-06,5,508.48,9006,61453,True,1
+Sofa,Home & Living,2022-11-14,4,805.0,9006,61453,True,2
+Laptop,Electronics,2023-02-25,2,452.8,9006,61453,False,0
+Lipstick,Beauty & Health,2023-07-09,2,688.67,9006,61453,True,2
+Science Fiction,Books,2023-09-01,2,275.96,9006,61453,True,0
+Sofa,Home & Living,2023-02-04,4,715.48,6601,92610,True,1
+Headphones,Electronics,2023-10-15,4,44.91,3495,18431,False,1
+Sofa,Home & Living,2023-07-29,2,391.76,3495,18431,True,0
+Bed,Home & Living,2023-03-25,2,15.79,3495,18431,False,0
+Smartphone,Electronics,2023-02-28,3,599.04,3495,18431,True,2
+Camping Tent,Sports & Outdoors,2023-03-19,1,841.29,3495,18431,False,2
+Lamp,Home & Living,2022-12-22,4,531.75,9221,79245,True,1
+Cycling Helmet,Sports & Outdoors,2023-04-04,2,985.3,9221,79245,False,2
+Lamp,Home & Living,2022-11-19,2,659.33,9221,79245,False,2
+Sunglasses,Fashion,2023-05-17,1,809.6,9221,79245,False,2
+Body Lotion,Beauty & Health,2022-11-29,3,575.0,9725,75901,True,2
+Biography,Books,2022-12-26,4,326.95,9725,75901,True,1
+Dress,Fashion,2023-06-05,2,629.65,9725,75901,True,2
+Sunglasses,Fashion,2022-12-16,3,498.85,9725,75901,False,0
+Basketball,Sports & Outdoors,2023-03-03,5,16.23,5035,42153,False,1
+Nail Polish,Beauty & Health,2022-11-14,1,385.11,8846,95540,False,0
+Camera,Electronics,2023-05-28,4,54.26,8846,95540,False,1
+Bed,Home & Living,2023-08-23,2,236.07,8846,95540,True,0
+Romance Novel,Books,2023-04-14,4,892.51,8846,95540,False,2
+Camera,Electronics,2022-12-07,3,851.17,8846,95540,True,2
+Shoes,Fashion,2022-12-26,2,661.09,9722,28159,True,2
+Shampoo,Beauty & Health,2023-10-26,5,775.04,6278,14642,True,1
+Lamp,Home & Living,2023-10-28,1,776.41,6376,86496,False,2
+Mystery Novel,Books,2023-10-20,5,884.97,6376,86496,False,1
+Biography,Books,2023-01-06,2,489.81,4616,99700,False,0
+Camping Tent,Sports & Outdoors,2023-08-17,1,695.95,7113,45409,True,2
+Smartphone,Electronics,2023-10-13,5,885.66,7113,45409,False,1
+Laptop,Electronics,2023-07-23,1,68.77,7113,45409,True,0
+Body Lotion,Beauty & Health,2023-01-28,4,809.61,8162,14212,True,2
+Science Fiction,Books,2022-11-22,1,556.15,8162,14212,True,0
+Lamp,Home & Living,2022-11-30,4,978.32,9631,21771,False,2
+Camera,Electronics,2023-09-02,4,882.96,9631,21771,True,2
+Perfume,Beauty & Health,2023-06-06,5,965.26,9631,21771,True,1
+Cookware,Home & Living,2023-09-30,4,846.38,9631,21771,True,2
+Dress,Fashion,2023-04-02,5,193.73,6403,89447,False,1
+Cookware,Home & Living,2023-04-27,2,919.05,6403,89447,True,2
+Body Lotion,Beauty & Health,2023-05-13,5,519.98,6403,89447,False,1
+Shampoo,Beauty & Health,2023-09-02,2,564.66,6403,89447,False,2
+Bed,Home & Living,2023-05-15,5,127.99,4890,5763,False,1
+Lamp,Home & Living,2023-05-19,1,224.45,1601,41799,False,0
+Headphones,Electronics,2023-02-25,5,662.83,1601,41799,False,1
+Lamp,Home & Living,2023-02-22,1,519.78,1601,41799,False,0
+Headphones,Electronics,2023-05-25,5,753.34,1601,41799,True,1
+Dress,Fashion,2023-02-02,4,838.4,1601,41799,True,2
+Biography,Books,2022-11-26,1,974.35,1284,89238,False,2
+Shoes,Fashion,2023-05-08,1,365.31,1284,89238,True,0
+Body Lotion,Beauty & Health,2023-05-16,5,393.33,1284,89238,False,1
+Smartwatch,Electronics,2022-12-28,5,586.38,7696,51620,True,1
+Smartwatch,Electronics,2022-11-21,3,645.34,7696,51620,False,2
+Tennis Racket,Sports & Outdoors,2023-04-10,5,422.88,7696,51620,False,1
+Handbag,Fashion,2022-12-18,4,161.7,7696,51620,False,1
+Sofa,Home & Living,2023-03-08,5,784.71,7443,79662,True,1
+Cycling Helmet,Sports & Outdoors,2023-07-31,1,389.69,7443,79662,True,0
+Tennis Racket,Sports & Outdoors,2023-09-19,5,695.8,7443,79662,True,1
+Perfume,Beauty & Health,2023-09-29,1,455.53,7443,79662,True,0
+Cookware,Home & Living,2023-03-22,2,589.57,7443,79662,False,2
+Camping Tent,Sports & Outdoors,2023-02-13,1,314.27,8689,48917,False,0
+Dress,Fashion,2023-07-17,5,966.24,8689,48917,False,1
+Laptop,Electronics,2022-12-20,3,154.68,4123,28412,False,0
+Lipstick,Beauty & Health,2022-12-18,5,951.22,4123,28412,False,1
+Romance Novel,Books,2023-02-02,2,382.3,4123,28412,True,0
+Yoga Mat,Sports & Outdoors,2023-05-07,2,331.82,4123,28412,False,0
+Bed,Home & Living,2023-03-16,3,344.69,7384,57680,False,0
+Shampoo,Beauty & Health,2022-12-17,1,72.57,2496,81371,False,0
+Sunglasses,Fashion,2023-10-26,5,460.31,1443,42616,False,1
+Smartwatch,Electronics,2022-12-09,5,839.43,1443,42616,True,1
+Cycling Helmet,Sports & Outdoors,2023-03-26,4,658.26,4870,66965,True,1
+Body Lotion,Beauty & Health,2023-02-01,3,933.64,4870,66965,False,2
+Shirt,Fashion,2023-05-23,4,621.16,4870,66965,False,1
+Dress,Fashion,2023-05-21,3,57.79,4870,66965,False,0
+Smartphone,Electronics,2022-10-30,3,719.91,4870,66965,True,2
+Cookware,Home & Living,2023-03-17,3,908.74,8737,40677,False,2
+Headphones,Electronics,2023-09-18,4,232.86,8737,40677,True,1
+Yoga Mat,Sports & Outdoors,2023-06-03,3,319.66,8737,40677,True,0
+Romance Novel,Books,2023-04-11,2,950.88,4835,3431,True,2
+Nail Polish,Beauty & Health,2023-02-14,3,750.52,4835,3431,False,2
+Nail Polish,Beauty & Health,2023-07-25,3,371.69,4835,3431,True,0
+Lipstick,Beauty & Health,2023-08-10,5,826.77,4835,3431,True,1
+Laptop,Electronics,2023-01-27,2,34.0,1931,47526,False,0
+Shoes,Fashion,2023-08-16,5,220.74,1931,47526,False,1
+Headphones,Electronics,2023-07-09,4,339.08,1931,47526,True,1
+Bed,Home & Living,2023-01-21,3,298.36,9659,72059,True,0
+Shampoo,Beauty & Health,2022-12-17,4,11.75,8271,69393,False,1
+Headphones,Electronics,2023-04-03,4,44.11,8271,69393,True,1
+Biography,Books,2023-06-10,2,580.28,8271,69393,True,2
+Body Lotion,Beauty & Health,2022-11-02,5,625.1,8271,69393,False,1
+Bed,Home & Living,2022-12-07,4,249.35,8271,69393,False,1
+History,Books,2022-11-03,1,285.45,2467,53738,True,0
+Dress,Fashion,2023-02-14,1,559.43,2467,53738,False,0
+Biography,Books,2023-10-24,3,860.09,2467,53738,True,2
+Romance Novel,Books,2023-05-04,1,690.92,2868,89921,True,2
+Lamp,Home & Living,2023-06-23,5,824.35,2822,30290,True,1
+Camping Tent,Sports & Outdoors,2023-01-07,1,954.96,2822,30290,True,2
+Shirt,Fashion,2023-03-12,4,86.16,2822,30290,False,1
+Dining Table,Home & Living,2023-10-26,5,992.78,6320,72221,True,1
+Cookware,Home & Living,2022-11-25,3,739.27,6320,72221,True,2
+Cookware,Home & Living,2023-06-08,3,237.35,6320,72221,True,0
+Headphones,Electronics,2022-11-13,5,274.69,6320,72221,False,1
+Perfume,Beauty & Health,2023-06-25,5,63.02,6275,38027,False,1
+Cycling Helmet,Sports & Outdoors,2023-01-14,4,150.29,6275,38027,False,1
+Mystery Novel,Books,2023-10-28,3,605.25,6275,38027,True,2
+Perfume,Beauty & Health,2023-03-03,5,530.28,6275,38027,True,1
+Smartphone,Electronics,2023-03-21,2,967.61,6275,38027,False,2
+Perfume,Beauty & Health,2023-04-12,5,473.75,1361,84967,True,1
+Biography,Books,2023-01-30,5,902.47,1361,84967,True,1
+Bed,Home & Living,2023-08-12,4,649.77,1361,84967,False,1
+Shirt,Fashion,2023-07-31,4,84.24,3441,36407,False,1
+Laptop,Electronics,2023-05-02,5,161.09,3441,36407,False,1
+Lipstick,Beauty & Health,2023-06-01,4,357.39,3441,36407,True,1
+Smartphone,Electronics,2023-03-24,2,693.63,3441,36407,True,2
+Bed,Home & Living,2023-04-12,2,143.52,3441,36407,True,0
+Smartwatch,Electronics,2023-01-24,3,702.22,9359,65697,False,2
+Biography,Books,2023-06-22,1,58.45,9359,65697,True,0
+Sofa,Home & Living,2023-01-14,5,398.41,9359,65697,True,1
+Cookware,Home & Living,2022-11-11,3,507.7,9359,65697,False,0
+Shirt,Fashion,2022-12-13,4,38.75,6564,46280,False,1
+Shirt,Fashion,2022-12-23,4,744.74,7896,10633,False,1
+Shirt,Fashion,2023-05-17,5,457.43,7896,10633,False,1
+Dress,Fashion,2023-08-12,5,975.38,7896,10633,False,1
+Sofa,Home & Living,2023-07-04,1,526.58,8840,92246,True,0
+History,Books,2023-09-30,1,781.11,8840,92246,False,2
+Biography,Books,2023-10-09,1,575.11,8840,92246,False,2
+Romance Novel,Books,2022-12-26,2,894.39,8840,92246,True,2
+Smartwatch,Electronics,2023-03-18,2,579.62,8840,92246,True,2
+Lamp,Home & Living,2023-10-23,2,76.6,1119,65144,True,0
+Smartwatch,Electronics,2023-03-16,1,161.71,9613,3032,False,0
+Laptop,Electronics,2023-05-30,5,60.64,8231,84024,False,1
+Body Lotion,Beauty & Health,2022-12-03,4,42.42,8231,84024,True,1
+Basketball,Sports & Outdoors,2023-04-07,5,424.12,3972,1490,False,1
+Handbag,Fashion,2022-12-11,4,536.51,3972,1490,False,1
+Lipstick,Beauty & Health,2023-05-25,2,465.04,3972,1490,True,0
+Lipstick,Beauty & Health,2023-03-23,1,629.13,3972,1490,True,2
+Tennis Racket,Sports & Outdoors,2023-05-16,1,240.28,8214,26511,False,0
+Bed,Home & Living,2023-10-21,5,688.69,8214,26511,False,1
+Shirt,Fashion,2022-10-30,3,380.18,8214,26511,False,0
+Biography,Books,2023-10-04,5,376.4,8214,26511,False,1
+Sunglasses,Fashion,2023-06-13,2,597.81,9836,61746,True,2
+Shampoo,Beauty & Health,2023-07-19,4,403.57,9836,61746,False,1
+Nail Polish,Beauty & Health,2023-07-31,3,846.82,9836,61746,True,2
+Smartwatch,Electronics,2023-02-21,1,603.31,9836,61746,False,2
+Bed,Home & Living,2023-08-08,3,206.76,9836,61746,True,0
+Nail Polish,Beauty & Health,2023-05-18,2,959.34,4596,39639,True,2
+Handbag,Fashion,2023-08-25,2,396.99,4596,39639,True,0
+Smartwatch,Electronics,2023-07-25,1,748.2,4596,39639,True,2
+Biography,Books,2023-10-12,4,100.2,1600,83479,False,1
+Tennis Racket,Sports & Outdoors,2023-10-23,5,112.43,1600,83479,False,1
+Basketball,Sports & Outdoors,2023-01-09,4,886.76,1076,45812,False,2
+Laptop,Electronics,2023-06-12,5,77.81,1076,45812,True,1
+Perfume,Beauty & Health,2023-04-27,5,115.34,3272,99574,False,1
+Cookware,Home & Living,2023-04-12,5,328.79,3272,99574,True,1
+History,Books,2023-01-06,4,660.72,3272,99574,True,1
+Shoes,Fashion,2023-04-03,1,333.7,7090,93660,True,0
+Nail Polish,Beauty & Health,2022-12-11,3,202.94,3699,27621,False,0
+Basketball,Sports & Outdoors,2023-03-15,3,124.05,3699,27621,True,0
+Lipstick,Beauty & Health,2023-04-11,2,426.46,3699,27621,True,0
+Cookware,Home & Living,2023-04-10,5,716.17,9846,57931,False,1
+Lamp,Home & Living,2023-08-25,2,696.69,9846,57931,True,2
+Yoga Mat,Sports & Outdoors,2023-02-08,2,183.18,9846,57931,True,0
+Shoes,Fashion,2023-01-19,2,471.5,9846,57931,True,0
+Sunglasses,Fashion,2023-03-10,3,815.45,9846,57931,True,2
+Romance Novel,Books,2023-04-30,5,881.62,5181,8453,False,1
+Science Fiction,Books,2022-11-11,5,509.54,5181,8453,True,1
+Smartphone,Electronics,2023-08-23,5,235.97,5181,8453,False,1
+Lipstick,Beauty & Health,2023-06-02,1,825.42,5181,8453,False,2
+Romance Novel,Books,2023-07-24,5,30.07,5181,8453,True,1
+Bed,Home & Living,2023-03-05,3,553.22,9233,86331,True,2
+Yoga Mat,Sports & Outdoors,2023-02-11,3,431.78,9233,86331,False,0
+Nail Polish,Beauty & Health,2023-04-09,2,21.91,9233,86331,False,0
+Basketball,Sports & Outdoors,2023-10-19,1,181.48,9233,86331,True,0
+Sunglasses,Fashion,2023-09-17,2,251.96,5429,54844,False,0
+Camera,Electronics,2023-04-12,4,266.3,5429,54844,True,1
+Biography,Books,2022-12-20,2,849.59,5429,54844,True,2
+Cookware,Home & Living,2022-10-31,5,729.23,5429,54844,True,1
+Shampoo,Beauty & Health,2023-06-05,2,323.11,5429,54844,False,0
+Science Fiction,Books,2023-10-07,5,787.72,3188,6359,False,1
+Lamp,Home & Living,2022-12-18,4,227.06,3188,6359,True,1
+Basketball,Sports & Outdoors,2023-07-20,1,972.35,3188,6359,False,2
+Camera,Electronics,2023-09-27,1,778.32,3188,6359,True,2
+Dining Table,Home & Living,2023-07-25,1,470.51,3188,6359,True,0
+Body Lotion,Beauty & Health,2023-09-24,1,168.79,9340,26114,True,0
+Laptop,Electronics,2022-12-07,2,693.22,9340,26114,False,2
+Biography,Books,2023-05-31,2,173.59,9340,26114,False,0
+Handbag,Fashion,2023-08-23,4,151.3,9340,26114,True,1
+History,Books,2023-10-08,4,118.73,6687,49269,True,1
+Smartwatch,Electronics,2023-06-09,3,492.63,6687,49269,False,0
+Smartwatch,Electronics,2023-07-04,1,564.04,7507,49979,True,0
+Lipstick,Beauty & Health,2023-07-12,4,217.69,2318,75848,True,1
+Romance Novel,Books,2023-04-19,4,703.72,2318,75848,False,1
+Cycling Helmet,Sports & Outdoors,2023-10-07,3,151.05,6855,56679,True,0
+Perfume,Beauty & Health,2023-01-14,3,594.19,6855,56679,False,2
+Nail Polish,Beauty & Health,2023-03-30,1,685.25,6855,56679,True,2
+Laptop,Electronics,2023-01-29,3,669.77,7574,4934,False,2
+Biography,Books,2023-09-07,3,200.16,7574,4934,False,0
+Basketball,Sports & Outdoors,2023-10-22,1,562.18,7574,4934,True,0
+Shampoo,Beauty & Health,2023-07-16,1,834.93,7574,4934,False,2
+Sunglasses,Fashion,2022-12-04,1,859.86,2402,84700,True,2
+Smartwatch,Electronics,2022-12-23,1,948.9,2402,84700,False,2
+Smartphone,Electronics,2023-03-26,5,447.91,2402,84700,False,1
+Body Lotion,Beauty & Health,2022-11-11,1,169.04,5228,50661,False,0
+Camping Tent,Sports & Outdoors,2023-08-02,1,492.28,5228,50661,True,0
+Biography,Books,2022-11-01,2,921.58,5228,50661,False,2
+Romance Novel,Books,2023-06-24,2,354.68,5228,50661,False,0
+Science Fiction,Books,2023-08-24,2,740.57,4114,43338,True,2
+History,Books,2023-07-12,4,745.06,4114,43338,False,1
+Dress,Fashion,2023-01-15,4,696.09,4114,43338,True,1
+Smartwatch,Electronics,2023-09-09,4,127.1,4817,20845,True,1
+Smartphone,Electronics,2023-07-25,1,979.66,4817,20845,False,2
+Basketball,Sports & Outdoors,2023-08-31,2,774.82,4817,20845,False,2
+Tennis Racket,Sports & Outdoors,2023-09-11,1,965.31,1044,28728,True,2
+Shoes,Fashion,2023-02-13,4,615.1,1044,28728,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-05,1,952.13,1044,28728,False,2
+Headphones,Electronics,2023-07-19,3,787.27,1044,28728,False,2
+Tennis Racket,Sports & Outdoors,2023-05-06,1,614.78,5917,24845,True,2
+Sunglasses,Fashion,2022-12-06,2,738.42,5917,24845,True,2
+Shoes,Fashion,2023-08-25,3,17.51,5917,24845,False,0
+Handbag,Fashion,2023-02-02,4,455.09,5917,24845,True,1
+Dining Table,Home & Living,2022-11-04,2,782.38,5917,24845,False,2
+Laptop,Electronics,2023-07-25,3,686.91,9432,71771,False,2
+Smartphone,Electronics,2023-06-25,4,607.07,9432,71771,True,1
+Dress,Fashion,2022-11-17,4,535.88,2790,87433,False,1
+Sofa,Home & Living,2022-11-13,4,250.12,2790,87433,False,1
+Shampoo,Beauty & Health,2023-05-19,3,113.58,2790,87433,False,0
+Romance Novel,Books,2023-07-06,3,595.3,2428,35583,False,2
+Cycling Helmet,Sports & Outdoors,2022-12-25,3,946.3,2428,35583,False,2
+Sofa,Home & Living,2023-05-19,2,215.69,5751,25209,True,0
+Shampoo,Beauty & Health,2023-07-27,4,866.51,5751,25209,True,2
+Tennis Racket,Sports & Outdoors,2023-10-22,4,166.09,5751,25209,True,1
+Headphones,Electronics,2022-12-30,1,728.76,8814,31874,False,2
+Smartwatch,Electronics,2023-01-21,3,301.27,5961,65276,True,0
+Dining Table,Home & Living,2023-03-21,4,70.46,5961,65276,True,1
+Science Fiction,Books,2023-09-08,5,197.36,5961,65276,False,1
+Camping Tent,Sports & Outdoors,2022-12-20,2,578.72,1576,76922,False,2
+Sunglasses,Fashion,2023-09-02,5,26.95,1576,76922,False,1
+Tennis Racket,Sports & Outdoors,2023-01-05,3,968.13,1576,76922,False,2
+Bed,Home & Living,2023-07-14,4,880.03,4128,34682,False,2
+Biography,Books,2023-09-25,4,294.45,4128,34682,False,1
+Body Lotion,Beauty & Health,2023-10-27,3,663.58,4128,34682,True,2
+Sofa,Home & Living,2022-11-23,1,580.75,4128,34682,True,2
+Body Lotion,Beauty & Health,2023-07-25,4,369.52,4128,34682,False,1
+Bed,Home & Living,2023-09-18,4,259.18,9444,26752,True,1
+Science Fiction,Books,2023-09-25,2,510.61,9444,26752,True,0
+Dining Table,Home & Living,2023-09-24,2,685.84,9444,26752,False,2
+Shoes,Fashion,2022-11-18,4,501.35,5262,40477,False,1
+Science Fiction,Books,2023-09-13,5,529.42,5262,40477,True,1
+Shoes,Fashion,2023-10-13,3,945.38,5262,40477,True,2
+Shirt,Fashion,2023-10-04,2,537.26,1344,79405,False,0
+Sunglasses,Fashion,2023-08-26,2,90.82,5054,96121,True,0
+Basketball,Sports & Outdoors,2023-05-24,1,218.6,5054,96121,False,0
+Smartwatch,Electronics,2022-11-05,1,192.56,5054,96121,True,0
+Lamp,Home & Living,2023-01-20,5,371.93,3587,62732,True,1
+Cookware,Home & Living,2023-07-02,5,76.2,7729,85098,True,1
+Shampoo,Beauty & Health,2023-02-12,3,917.29,1745,1242,False,2
+Body Lotion,Beauty & Health,2023-10-14,3,379.3,1745,1242,False,0
+Tennis Racket,Sports & Outdoors,2023-09-18,3,401.49,7243,48682,True,0
+Bed,Home & Living,2023-05-27,2,250.24,7243,48682,True,0
+Laptop,Electronics,2023-04-22,3,30.71,7243,48682,False,0
+History,Books,2022-11-23,2,913.81,2101,75845,False,2
+Shirt,Fashion,2023-09-07,5,852.97,2101,75845,True,1
+Dining Table,Home & Living,2023-02-08,3,637.25,2101,75845,True,2
+Dress,Fashion,2023-06-07,3,376.25,2101,75845,False,0
+Yoga Mat,Sports & Outdoors,2023-10-26,2,81.61,2101,75845,True,0
+Mystery Novel,Books,2022-11-03,3,369.58,3407,72961,True,0
+Lamp,Home & Living,2023-01-17,4,207.21,3407,72961,True,1
+Smartwatch,Electronics,2023-08-28,4,947.73,3407,72961,True,2
+Nail Polish,Beauty & Health,2023-04-25,3,708.27,3407,72961,False,2
+Nail Polish,Beauty & Health,2023-10-24,1,675.52,3407,72961,True,2
+Tennis Racket,Sports & Outdoors,2023-09-24,4,273.24,3491,52103,True,1
+Shampoo,Beauty & Health,2023-07-19,4,751.86,3491,52103,True,1
+Shampoo,Beauty & Health,2022-11-17,2,265.8,3491,52103,False,0
+Cookware,Home & Living,2023-08-13,4,889.68,5677,15861,True,2
+Sunglasses,Fashion,2023-08-11,2,895.99,5677,15861,False,2
+Cycling Helmet,Sports & Outdoors,2023-07-24,3,923.97,7159,66088,True,2
+Laptop,Electronics,2023-02-19,2,925.45,7159,66088,True,2
+Sofa,Home & Living,2022-12-11,3,929.49,7159,66088,False,2
+Dress,Fashion,2023-06-03,2,482.0,7159,66088,False,0
+Sunglasses,Fashion,2023-04-30,2,942.2,7159,66088,True,2
+Shampoo,Beauty & Health,2023-04-04,5,545.8,6286,51941,True,1
+Headphones,Electronics,2023-04-15,1,104.44,6286,51941,True,0
+Handbag,Fashion,2022-12-23,4,962.12,6286,51941,False,2
+Mystery Novel,Books,2023-05-25,5,720.62,6286,51941,True,1
+Basketball,Sports & Outdoors,2023-10-29,4,266.05,8971,66730,False,1
+Shoes,Fashion,2023-10-08,1,59.93,1365,7030,True,0
+Shoes,Fashion,2022-12-29,1,885.97,1365,7030,True,2
+Headphones,Electronics,2023-06-25,2,288.84,1365,7030,True,0
+Smartwatch,Electronics,2022-11-01,2,237.05,4816,79230,True,0
+Mystery Novel,Books,2023-10-27,4,102.29,4816,79230,False,1
+Cookware,Home & Living,2023-06-30,1,362.16,6256,64286,False,0
+Laptop,Electronics,2023-09-24,1,643.0,6256,64286,False,2
+Cycling Helmet,Sports & Outdoors,2023-02-06,3,979.64,6294,4912,True,2
+Shampoo,Beauty & Health,2023-09-21,5,203.6,6294,4912,False,1
+Lamp,Home & Living,2023-01-17,1,555.0,6294,4912,False,0
+Romance Novel,Books,2023-08-04,2,927.17,6294,4912,True,2
+History,Books,2023-02-22,1,83.09,6294,4912,False,0
+Sunglasses,Fashion,2023-05-23,3,336.9,6877,87329,True,0
+Science Fiction,Books,2023-04-18,3,597.55,6877,87329,True,2
+Handbag,Fashion,2022-11-23,1,43.46,5188,56797,False,0
+Basketball,Sports & Outdoors,2023-03-17,4,890.1,3322,37204,True,2
+Sunglasses,Fashion,2023-06-03,5,532.89,3322,37204,True,1
+Smartphone,Electronics,2023-10-18,1,940.68,7665,34880,True,2
+Tennis Racket,Sports & Outdoors,2022-11-20,3,672.44,7665,34880,True,2
+Camping Tent,Sports & Outdoors,2023-05-16,4,12.18,7665,34880,True,1
+Headphones,Electronics,2023-02-01,5,878.06,7665,34880,False,1
+History,Books,2023-08-08,2,609.93,7665,34880,True,2
+Cookware,Home & Living,2023-07-21,1,632.44,5177,22494,True,2
+Lipstick,Beauty & Health,2023-04-14,4,741.24,5177,22494,True,1
+Nail Polish,Beauty & Health,2023-07-18,5,143.45,5177,22494,False,1
+Cookware,Home & Living,2023-02-27,1,467.6,5177,22494,False,0
+Perfume,Beauty & Health,2023-04-20,5,543.11,5177,22494,False,1
+Perfume,Beauty & Health,2022-12-21,1,328.98,3906,5669,False,0
+Lipstick,Beauty & Health,2022-11-02,5,620.71,3906,5669,True,1
+Lamp,Home & Living,2023-09-11,3,973.35,3906,5669,True,2
+Cycling Helmet,Sports & Outdoors,2023-03-17,1,710.87,3906,5669,True,2
+Cycling Helmet,Sports & Outdoors,2023-02-13,4,158.08,8468,52941,False,1
+Shampoo,Beauty & Health,2023-04-07,4,950.53,7825,48866,False,2
+Smartphone,Electronics,2023-06-30,2,391.11,7825,48866,False,0
+Biography,Books,2022-10-30,3,878.54,7825,48866,False,2
+Cycling Helmet,Sports & Outdoors,2023-07-19,5,164.82,7825,48866,False,1
+Biography,Books,2023-05-03,3,316.17,9288,82343,False,0
+Laptop,Electronics,2023-05-10,3,163.17,9288,82343,False,0
+Basketball,Sports & Outdoors,2023-08-02,4,661.03,9288,82343,False,1
+Dress,Fashion,2023-05-03,4,50.01,9288,82343,True,1
+Laptop,Electronics,2023-10-04,4,242.99,3997,18945,True,1
+Biography,Books,2023-03-21,4,419.29,7714,57802,False,1
+Laptop,Electronics,2022-12-21,1,155.62,7714,57802,True,0
+Shampoo,Beauty & Health,2023-02-07,1,133.53,7714,57802,True,0
+Shoes,Fashion,2023-08-12,1,352.58,7714,57802,True,0
+Smartwatch,Electronics,2023-05-30,1,259.5,3258,60079,True,0
+Laptop,Electronics,2023-10-05,1,512.54,3258,60079,True,0
+Laptop,Electronics,2023-01-16,1,205.61,1264,17444,True,0
+Romance Novel,Books,2022-11-13,5,350.76,1264,17444,True,1
+Mystery Novel,Books,2023-01-24,3,537.84,1264,17444,True,2
+Lamp,Home & Living,2022-11-11,4,520.75,4064,26098,True,1
+Perfume,Beauty & Health,2023-04-24,3,455.76,4064,26098,True,0
+Body Lotion,Beauty & Health,2022-11-13,1,362.08,4064,26098,False,0
+Shirt,Fashion,2022-12-25,1,223.13,4064,26098,False,0
+Mystery Novel,Books,2023-05-03,2,42.87,1341,68911,False,0
+Bed,Home & Living,2023-02-25,3,23.67,1341,68911,True,0
+Smartphone,Electronics,2023-06-15,4,416.59,8129,75687,False,1
+Nail Polish,Beauty & Health,2023-07-06,3,353.23,8129,75687,False,0
+Cookware,Home & Living,2023-04-11,3,584.56,8129,75687,False,2
+History,Books,2023-09-20,4,982.67,8129,75687,False,2
+Biography,Books,2023-06-16,4,795.8,6053,94412,True,2
+Smartphone,Electronics,2023-09-19,1,996.12,6053,94412,True,2
+Camping Tent,Sports & Outdoors,2023-10-29,5,974.42,8782,89920,True,1
+Camping Tent,Sports & Outdoors,2023-07-22,4,725.02,5966,15964,True,1
+Cookware,Home & Living,2023-07-30,3,989.95,5966,15964,False,2
+Mystery Novel,Books,2023-05-03,1,847.62,5966,15964,False,2
+Basketball,Sports & Outdoors,2023-09-08,3,963.77,5966,15964,True,2
+Dining Table,Home & Living,2023-07-15,5,969.56,5966,15964,True,1
+Headphones,Electronics,2022-11-29,1,664.75,2950,21107,False,2
+Dress,Fashion,2022-11-30,1,243.86,2950,21107,True,0
+Bed,Home & Living,2023-07-05,2,522.78,2950,21107,False,0
+Bed,Home & Living,2023-06-21,4,370.75,2950,21107,True,1
+Camping Tent,Sports & Outdoors,2023-05-14,3,430.62,2950,21107,False,0
+Laptop,Electronics,2023-06-29,2,515.8,2506,54259,False,0
+Laptop,Electronics,2023-02-06,1,282.32,4521,23412,False,0
+Science Fiction,Books,2023-05-11,2,356.84,4521,23412,True,0
+Handbag,Fashion,2023-06-09,4,390.49,4521,23412,False,1
+History,Books,2023-09-01,3,253.73,4521,23412,True,0
+Bed,Home & Living,2022-12-22,2,731.37,7792,30518,False,2
+Sofa,Home & Living,2022-10-30,5,580.37,7792,30518,False,1
+Sofa,Home & Living,2023-05-21,3,367.59,7792,30518,True,0
+Basketball,Sports & Outdoors,2022-11-02,4,570.71,7792,30518,False,1
+History,Books,2022-12-24,4,61.22,6010,88498,False,1
+Cookware,Home & Living,2023-05-23,1,881.86,6010,88498,True,2
+Lamp,Home & Living,2023-03-05,2,440.81,6010,88498,False,0
+Lipstick,Beauty & Health,2022-11-03,3,962.77,8003,56207,True,2
+Science Fiction,Books,2023-08-07,3,556.36,8003,56207,False,2
+Camping Tent,Sports & Outdoors,2023-02-18,1,640.07,8003,56207,False,2
+Tennis Racket,Sports & Outdoors,2023-10-22,5,372.63,8003,56207,False,1
+Yoga Mat,Sports & Outdoors,2022-12-21,2,647.03,8003,56207,False,2
+Shampoo,Beauty & Health,2023-09-26,5,16.94,1155,47322,True,1
+Shirt,Fashion,2023-08-18,2,333.1,1155,47322,False,0
+Basketball,Sports & Outdoors,2023-02-16,5,879.19,1155,47322,False,1
+Handbag,Fashion,2023-01-31,3,457.73,3819,63177,True,0
+Lamp,Home & Living,2023-01-05,4,606.45,3819,63177,False,1
+History,Books,2023-03-29,4,105.09,3819,63177,True,1
+Dining Table,Home & Living,2023-08-27,3,953.48,3281,95377,False,2
+Lipstick,Beauty & Health,2023-10-13,3,362.47,3281,95377,True,0
+Body Lotion,Beauty & Health,2023-01-14,4,431.69,3281,95377,False,1
+Biography,Books,2023-01-05,3,807.36,3281,95377,False,2
+Shampoo,Beauty & Health,2023-04-29,4,710.3,6767,69962,False,1
+Dining Table,Home & Living,2023-09-21,4,66.36,6767,69962,True,1
+Smartwatch,Electronics,2023-05-29,4,469.88,6767,69962,True,1
+Dress,Fashion,2022-12-09,5,106.8,6767,69962,False,1
+Shirt,Fashion,2023-04-13,4,948.28,6767,69962,True,2
+Camera,Electronics,2023-04-17,2,823.15,4225,73856,True,2
+Smartphone,Electronics,2023-08-19,5,382.01,4225,73856,False,1
+Smartphone,Electronics,2023-01-28,2,429.33,8817,43992,True,0
+Cookware,Home & Living,2023-09-25,2,47.18,8817,43992,True,0
+Perfume,Beauty & Health,2023-06-26,2,337.22,1970,87235,True,0
+Dining Table,Home & Living,2023-10-15,1,282.73,1970,87235,False,0
+Cookware,Home & Living,2023-03-23,4,826.56,1970,87235,False,2
+Camping Tent,Sports & Outdoors,2023-09-28,1,810.34,1970,87235,True,2
+Lamp,Home & Living,2022-12-04,1,884.31,1970,87235,False,2
+Dress,Fashion,2023-02-24,1,587.74,6547,6275,True,2
+Sunglasses,Fashion,2023-10-28,4,416.27,6547,6275,False,1
+History,Books,2023-09-28,2,398.79,6428,970,False,0
+Nail Polish,Beauty & Health,2023-09-02,5,496.57,6428,970,False,1
+Perfume,Beauty & Health,2023-06-19,1,358.78,6428,970,False,0
+Cookware,Home & Living,2022-11-16,3,488.24,3134,76216,True,0
+Dining Table,Home & Living,2023-04-02,5,686.74,3134,76216,False,1
+Bed,Home & Living,2023-09-21,5,148.54,3134,76216,True,1
+Romance Novel,Books,2023-02-21,3,296.29,3134,76216,False,0
+Nail Polish,Beauty & Health,2023-05-16,5,794.17,6793,51515,True,1
+Dining Table,Home & Living,2022-11-04,5,457.99,6793,51515,True,1
+History,Books,2023-07-22,2,158.77,6793,51515,True,0
+Basketball,Sports & Outdoors,2023-09-08,5,835.41,6793,51515,True,1
+Perfume,Beauty & Health,2022-10-30,5,140.53,3884,89887,False,1
+Dining Table,Home & Living,2022-12-15,3,129.45,3884,89887,False,0
+Yoga Mat,Sports & Outdoors,2022-11-12,2,524.38,1959,16673,True,0
+History,Books,2022-12-24,3,961.64,1959,16673,True,2
+Dress,Fashion,2023-10-02,2,405.75,1959,16673,True,0
+Bed,Home & Living,2023-08-05,1,909.88,6224,29893,False,2
+Shampoo,Beauty & Health,2022-12-16,5,517.53,6224,29893,True,1
+Body Lotion,Beauty & Health,2023-07-14,5,29.87,9085,9551,False,1
+Smartphone,Electronics,2023-05-23,2,611.76,9085,9551,False,2
+Shoes,Fashion,2023-01-13,4,970.43,9085,9551,True,2
+Shampoo,Beauty & Health,2023-07-16,3,355.55,9085,9551,False,0
+Romance Novel,Books,2023-06-29,4,706.8,5086,46181,False,1
+History,Books,2023-03-24,3,166.77,5086,46181,True,0
+Shampoo,Beauty & Health,2023-06-30,5,629.54,5086,46181,False,1
+Science Fiction,Books,2022-12-14,4,379.82,5086,46181,True,1
+Smartwatch,Electronics,2023-02-01,2,46.48,7282,81413,False,0
+Laptop,Electronics,2023-04-05,1,547.37,7282,81413,True,0
+Bed,Home & Living,2023-10-22,5,692.0,7282,81413,True,1
+Nail Polish,Beauty & Health,2023-07-25,2,538.13,1228,21559,True,0
+Dress,Fashion,2023-09-15,5,618.23,1228,21559,False,1
+Lamp,Home & Living,2022-11-04,1,234.6,1228,21559,True,0
+Perfume,Beauty & Health,2023-08-07,1,72.76,1228,21559,False,0
+Basketball,Sports & Outdoors,2023-05-28,4,676.71,1228,21559,True,1
+Mystery Novel,Books,2023-02-27,1,393.44,7526,66363,True,0
+Smartphone,Electronics,2023-02-10,2,882.5,8751,88943,False,2
+Lamp,Home & Living,2023-07-21,3,572.77,8961,46832,True,2
+Cycling Helmet,Sports & Outdoors,2023-09-20,4,597.79,8961,46832,True,1
+Sunglasses,Fashion,2023-04-08,4,913.83,8961,46832,True,2
+Cookware,Home & Living,2022-12-28,1,360.08,8961,46832,False,0
+Shoes,Fashion,2023-06-26,5,85.1,8961,46832,False,1
+History,Books,2023-09-06,4,454.34,1616,22947,False,1
+Sunglasses,Fashion,2023-03-18,1,868.6,1616,22947,False,2
+Sunglasses,Fashion,2023-10-01,5,713.99,1616,22947,True,1
+Handbag,Fashion,2022-11-04,1,817.28,1616,22947,True,2
+Biography,Books,2023-05-08,4,725.48,5381,3757,False,1
+Cookware,Home & Living,2023-02-27,4,376.48,4786,78484,False,1
+Lamp,Home & Living,2023-10-12,4,341.95,7378,91735,True,1
+Basketball,Sports & Outdoors,2023-08-08,3,859.86,7378,91735,True,2
+Biography,Books,2023-01-21,1,732.73,7378,91735,True,2
+Romance Novel,Books,2023-06-30,2,828.53,7378,91735,True,2
+Perfume,Beauty & Health,2023-10-20,3,437.11,7378,91735,True,0
+Shampoo,Beauty & Health,2023-06-17,3,228.76,9259,14666,True,0
+Sofa,Home & Living,2023-02-09,4,757.85,9259,14666,False,1
+Bed,Home & Living,2022-12-05,5,351.28,9259,14666,False,1
+Basketball,Sports & Outdoors,2023-01-18,2,221.92,1799,74775,False,0
+Dining Table,Home & Living,2022-11-30,2,518.11,1799,74775,True,0
+Biography,Books,2022-12-02,3,625.73,1799,74775,True,2
+Laptop,Electronics,2023-02-15,1,208.66,1799,74775,False,0
+Body Lotion,Beauty & Health,2023-08-20,5,901.09,7993,51150,True,1
+Bed,Home & Living,2023-03-30,2,538.15,7112,83344,False,0
+Biography,Books,2023-10-29,5,433.61,7112,83344,False,1
+Handbag,Fashion,2023-03-18,3,168.63,7112,83344,False,0
+Body Lotion,Beauty & Health,2022-11-05,2,213.26,9209,22105,True,0
+Sofa,Home & Living,2022-11-18,5,405.37,9209,22105,False,1
+Bed,Home & Living,2023-05-08,4,590.15,9209,22105,True,1
+Smartphone,Electronics,2023-03-28,2,402.66,9209,22105,False,0
+Handbag,Fashion,2023-05-09,3,957.37,9209,22105,False,2
+Shampoo,Beauty & Health,2023-01-14,5,351.11,9962,71414,True,1
+Shampoo,Beauty & Health,2022-12-22,2,870.12,9962,71414,False,2
+Dress,Fashion,2023-05-20,4,686.68,9962,71414,False,1
+Romance Novel,Books,2022-11-03,5,973.16,9962,71414,False,1
+Science Fiction,Books,2023-09-12,1,238.13,9962,71414,True,0
+Smartwatch,Electronics,2022-12-29,4,163.75,7469,86817,True,1
+History,Books,2023-06-27,1,676.97,3450,6125,False,2
+Body Lotion,Beauty & Health,2022-11-08,4,499.65,3450,6125,False,1
+Bed,Home & Living,2023-02-13,4,90.44,3450,6125,True,1
+Bed,Home & Living,2023-09-04,3,379.07,3937,53089,True,0
+Biography,Books,2023-03-28,5,264.71,1852,27304,False,1
+Science Fiction,Books,2023-03-19,5,625.47,1852,27304,False,1
+Science Fiction,Books,2023-08-09,3,974.55,1852,27304,True,2
+Sunglasses,Fashion,2023-01-20,2,629.3,1852,27304,False,2
+Nail Polish,Beauty & Health,2023-01-19,4,504.1,1852,27304,True,1
+Handbag,Fashion,2023-05-08,2,978.64,1435,51456,False,2
+Science Fiction,Books,2023-03-03,5,340.82,1435,51456,True,1
+Yoga Mat,Sports & Outdoors,2023-02-21,2,804.93,1435,51456,True,2
+Smartwatch,Electronics,2022-11-30,3,194.91,1435,51456,True,0
+Cycling Helmet,Sports & Outdoors,2023-10-16,5,548.66,1435,51456,False,1
+Biography,Books,2023-04-20,2,842.46,5586,55043,True,2
+Romance Novel,Books,2022-11-23,4,334.38,5586,55043,True,1
+Basketball,Sports & Outdoors,2023-05-19,4,944.72,5586,55043,True,2
+Shoes,Fashion,2023-10-27,5,323.47,5586,55043,False,1
+Perfume,Beauty & Health,2022-11-06,2,443.38,1204,72381,True,0
+Camping Tent,Sports & Outdoors,2023-04-05,1,215.57,1204,72381,False,0
+Cycling Helmet,Sports & Outdoors,2023-04-01,4,631.1,5664,10911,False,1
+Shoes,Fashion,2022-12-22,4,172.08,5664,10911,False,1
+Cycling Helmet,Sports & Outdoors,2023-01-16,2,696.07,5664,10911,True,2
+Shampoo,Beauty & Health,2022-11-02,1,116.87,8789,73699,True,0
+History,Books,2023-02-28,1,918.1,8789,73699,False,2
+Mystery Novel,Books,2022-12-12,2,582.03,8789,73699,False,2
+Sunglasses,Fashion,2022-12-21,3,723.73,8789,73699,False,2
+Tennis Racket,Sports & Outdoors,2023-02-09,2,367.22,8789,73699,True,0
+Yoga Mat,Sports & Outdoors,2023-09-30,1,445.38,6620,81764,True,0
+Shampoo,Beauty & Health,2023-09-07,5,101.7,6620,81764,False,1
+Camera,Electronics,2022-12-24,1,957.72,6620,81764,False,2
+Camping Tent,Sports & Outdoors,2023-08-30,3,692.53,6620,81764,False,2
+Bed,Home & Living,2023-03-03,3,360.19,6620,81764,False,0
+Shirt,Fashion,2023-09-09,3,216.64,7780,13846,True,0
+Shirt,Fashion,2023-04-30,1,234.77,1334,57410,True,0
+Handbag,Fashion,2022-11-01,3,133.2,1334,57410,True,0
+Smartphone,Electronics,2022-11-25,3,643.94,1334,57410,True,2
+Lipstick,Beauty & Health,2023-04-27,1,738.85,3056,72862,False,2
+Dress,Fashion,2022-12-22,2,548.49,3056,72862,False,2
+Dining Table,Home & Living,2023-01-22,4,104.13,3056,72862,False,1
+Mystery Novel,Books,2023-06-02,1,986.94,3056,72862,True,2
+Dress,Fashion,2023-02-10,5,718.78,3056,72862,True,1
+Mystery Novel,Books,2023-09-21,5,768.65,6771,41873,False,1
+Cycling Helmet,Sports & Outdoors,2023-06-02,1,753.01,2082,7691,False,2
+Basketball,Sports & Outdoors,2023-08-12,1,994.93,2082,7691,False,2
+Sofa,Home & Living,2023-08-21,4,98.25,2082,7691,False,1
+Lamp,Home & Living,2023-06-19,4,271.34,2082,7691,False,1
+Headphones,Electronics,2023-05-14,4,258.15,2334,12497,True,1
+Basketball,Sports & Outdoors,2023-03-09,4,100.55,2334,12497,True,1
+Camera,Electronics,2023-01-02,2,803.41,2334,12497,False,2
+Shampoo,Beauty & Health,2023-06-18,4,499.04,2334,12497,False,1
+Yoga Mat,Sports & Outdoors,2022-12-10,3,535.52,2334,12497,False,2
+Romance Novel,Books,2023-10-10,1,188.38,7990,26435,False,0
+Science Fiction,Books,2023-02-08,5,127.18,2401,77490,True,1
+Bed,Home & Living,2023-06-05,4,344.46,2401,77490,True,1
+Handbag,Fashion,2023-03-20,3,323.57,2401,77490,True,0
+Yoga Mat,Sports & Outdoors,2023-08-07,1,976.65,2401,77490,True,2
+Basketball,Sports & Outdoors,2023-04-27,1,621.19,2548,3417,True,2
+Smartwatch,Electronics,2023-01-11,4,46.48,8114,16987,False,1
+Lamp,Home & Living,2023-02-20,5,750.01,8114,16987,False,1
+Cookware,Home & Living,2023-10-15,2,122.06,8114,16987,True,0
+Perfume,Beauty & Health,2023-10-13,4,785.96,8114,16987,False,2
+Shirt,Fashion,2022-12-28,3,484.17,6216,1516,True,0
+Shirt,Fashion,2022-11-06,3,740.56,4084,99461,False,2
+Lipstick,Beauty & Health,2023-06-08,1,450.28,4084,99461,True,0
+Dining Table,Home & Living,2022-12-01,4,174.67,4084,99461,True,1
+Shoes,Fashion,2023-01-27,4,387.24,6283,81781,True,1
+Headphones,Electronics,2022-12-02,5,487.24,6283,81781,True,1
+Smartphone,Electronics,2023-09-04,4,980.12,3304,25449,False,2
+Dining Table,Home & Living,2023-02-10,3,828.7,3304,25449,True,2
+Basketball,Sports & Outdoors,2023-05-27,4,625.93,9239,10320,True,1
+Sofa,Home & Living,2023-07-29,2,207.65,9239,10320,False,0
+Tennis Racket,Sports & Outdoors,2023-03-20,4,352.45,9239,10320,True,1
+Shampoo,Beauty & Health,2022-12-03,1,151.76,9239,10320,False,0
+Shoes,Fashion,2022-10-31,4,253.05,7522,92814,False,1
+Shampoo,Beauty & Health,2023-02-10,2,609.32,7522,92814,True,2
+Cookware,Home & Living,2023-08-11,2,964.32,7522,92814,False,2
+History,Books,2022-11-06,1,10.39,4403,12127,True,0
+Lamp,Home & Living,2023-05-13,1,795.75,7985,51368,True,2
+Bed,Home & Living,2023-07-12,5,147.75,7985,51368,False,1
+Camping Tent,Sports & Outdoors,2023-03-22,5,617.7,7985,51368,True,1
+Shirt,Fashion,2022-12-03,3,449.07,7036,25742,True,0
+Handbag,Fashion,2023-06-26,2,773.97,7036,25742,False,2
+Dining Table,Home & Living,2022-10-30,3,224.9,7036,25742,False,0
+Shampoo,Beauty & Health,2023-05-15,2,208.66,7036,25742,False,0
+Lipstick,Beauty & Health,2023-07-07,5,68.64,5879,74256,False,1
+Shampoo,Beauty & Health,2023-09-17,5,601.0,5220,53173,True,1
+Perfume,Beauty & Health,2023-04-30,3,164.68,5220,53173,False,0
+Sunglasses,Fashion,2023-08-28,4,246.52,4017,56138,False,1
+Laptop,Electronics,2023-07-25,3,767.25,4017,56138,True,2
+Shirt,Fashion,2023-09-08,5,389.76,4228,98111,False,1
+Sunglasses,Fashion,2023-10-05,2,949.87,4228,98111,False,2
+Bed,Home & Living,2023-08-06,4,977.85,4228,98111,True,2
+Sofa,Home & Living,2023-06-10,5,168.67,4228,98111,False,1
+Camping Tent,Sports & Outdoors,2023-06-02,3,693.07,4228,98111,True,2
+Body Lotion,Beauty & Health,2023-03-19,2,898.75,2146,49818,True,2
+Dining Table,Home & Living,2023-04-04,4,143.95,4870,8849,False,1
+Shoes,Fashion,2023-09-10,2,485.47,9958,57247,False,0
+Body Lotion,Beauty & Health,2023-05-20,1,174.24,9958,57247,True,0
+Sunglasses,Fashion,2023-09-28,3,200.96,9958,57247,True,0
+Camping Tent,Sports & Outdoors,2022-12-13,4,103.49,7294,47715,True,1
+Romance Novel,Books,2023-08-04,2,991.16,7294,47715,True,2
+Smartwatch,Electronics,2023-02-24,3,142.53,7294,47715,True,0
+Dining Table,Home & Living,2023-06-13,2,751.22,8003,63621,True,2
+Handbag,Fashion,2023-09-03,3,288.21,8003,63621,False,0
+Headphones,Electronics,2023-08-20,1,543.59,8003,63621,False,0
+Smartphone,Electronics,2023-04-15,5,747.59,8003,63621,False,1
+Lipstick,Beauty & Health,2023-08-01,3,520.93,8003,63621,False,2
+Headphones,Electronics,2022-12-18,2,388.52,6211,73897,True,0
+Lamp,Home & Living,2023-04-30,4,170.86,6211,73897,True,1
+Shirt,Fashion,2023-08-10,3,104.31,6211,73897,False,0
+Lamp,Home & Living,2023-07-13,1,410.47,6211,73897,False,0
+Shampoo,Beauty & Health,2022-12-19,3,343.72,6211,73897,False,0
+Cookware,Home & Living,2023-08-04,5,976.11,3225,37209,False,1
+Headphones,Electronics,2023-10-14,4,240.71,3225,37209,True,1
+Smartphone,Electronics,2023-07-21,4,873.35,3225,37209,True,2
+Cycling Helmet,Sports & Outdoors,2022-12-25,5,962.8,3225,37209,True,1
+Dining Table,Home & Living,2022-11-04,3,324.99,9121,49088,True,0
+Smartwatch,Electronics,2023-07-03,5,876.94,1819,49598,True,1
+History,Books,2022-12-20,5,801.57,1819,49598,False,1
+Laptop,Electronics,2023-06-25,1,973.25,1819,49598,False,2
+Yoga Mat,Sports & Outdoors,2022-11-12,4,276.45,1819,49598,False,1
+Basketball,Sports & Outdoors,2023-06-18,1,24.06,4427,6765,True,0
+Lamp,Home & Living,2023-05-21,3,931.46,4427,6765,True,2
+Laptop,Electronics,2023-03-16,1,541.81,4427,6765,False,0
+Sunglasses,Fashion,2023-05-06,5,136.43,4427,6765,True,1
+Tennis Racket,Sports & Outdoors,2022-12-23,2,117.64,6536,86206,False,0
+Shirt,Fashion,2023-05-11,4,218.5,1978,34287,True,1
+Mystery Novel,Books,2023-04-24,1,513.35,1978,34287,True,0
+Basketball,Sports & Outdoors,2023-08-10,4,242.18,1978,34287,True,1
+Camping Tent,Sports & Outdoors,2023-09-04,5,149.47,1978,34287,True,1
+Tennis Racket,Sports & Outdoors,2023-01-06,2,671.28,1978,34287,True,2
+History,Books,2023-10-22,2,189.09,7952,49122,False,0
+Mystery Novel,Books,2022-12-10,4,473.39,7952,49122,True,1
+Dining Table,Home & Living,2023-05-14,4,181.07,3823,83578,False,1
+Smartwatch,Electronics,2022-12-02,4,994.68,6356,33864,True,2
+Shirt,Fashion,2023-06-24,5,866.07,6356,33864,False,1
+Shampoo,Beauty & Health,2023-04-01,2,190.65,6356,33864,False,0
+Science Fiction,Books,2023-07-25,5,424.88,6356,33864,False,1
+Lipstick,Beauty & Health,2023-10-10,5,194.71,6356,33864,False,1
+Basketball,Sports & Outdoors,2023-04-04,2,919.47,7400,63260,True,2
+Camera,Electronics,2022-11-23,5,671.53,7400,63260,False,1
+Yoga Mat,Sports & Outdoors,2023-01-09,2,900.76,8834,67939,True,2
+Shoes,Fashion,2023-03-13,5,76.21,8834,67939,False,1
+Handbag,Fashion,2022-12-21,4,612.68,8834,67939,True,1
+Science Fiction,Books,2022-10-31,1,999.47,4273,50331,True,2
+Shampoo,Beauty & Health,2022-11-12,5,247.12,4314,21882,False,1
+Lipstick,Beauty & Health,2022-11-04,1,595.04,4314,21882,False,2
+Cycling Helmet,Sports & Outdoors,2022-11-19,4,688.03,4314,21882,True,1
+Body Lotion,Beauty & Health,2023-03-13,5,79.14,1923,74024,False,1
+Laptop,Electronics,2023-08-21,3,851.6,1923,74024,True,2
+Dress,Fashion,2023-10-21,3,601.18,1923,74024,True,2
+Smartphone,Electronics,2023-05-20,4,934.72,1923,74024,False,2
+Shirt,Fashion,2023-10-17,5,414.72,1923,74024,False,1
+Bed,Home & Living,2022-12-02,2,640.33,7323,56479,True,2
+Basketball,Sports & Outdoors,2023-07-08,2,730.94,7323,56479,True,2
+Nail Polish,Beauty & Health,2023-02-27,5,622.69,7323,56479,False,1
+Romance Novel,Books,2023-08-28,1,698.05,7323,56479,True,2
+Camera,Electronics,2023-08-23,1,806.07,9542,78244,True,2
+Tennis Racket,Sports & Outdoors,2023-03-08,2,220.22,9542,78244,True,0
+Shoes,Fashion,2023-07-02,2,481.55,9542,78244,False,0
+Biography,Books,2023-05-05,2,581.72,9542,78244,False,2
+Dress,Fashion,2023-06-07,2,121.62,9542,78244,False,0
+Cycling Helmet,Sports & Outdoors,2023-03-29,1,552.85,8544,81979,True,0
+Cycling Helmet,Sports & Outdoors,2023-09-10,2,607.23,3631,35612,False,2
+Mystery Novel,Books,2023-04-07,4,986.1,3631,35612,False,2
+History,Books,2023-08-07,1,314.17,3631,35612,False,0
+Laptop,Electronics,2023-05-31,4,520.99,6151,44520,True,1
+Biography,Books,2023-08-01,2,517.27,6151,44520,False,0
+Headphones,Electronics,2023-09-23,3,277.66,6151,44520,True,0
+Nail Polish,Beauty & Health,2023-09-25,1,509.52,1693,18655,True,0
+Camping Tent,Sports & Outdoors,2023-08-29,5,855.05,2223,69736,True,1
+Shoes,Fashion,2023-02-02,5,716.48,7070,95091,False,1
+Smartwatch,Electronics,2023-01-10,5,432.57,7070,95091,False,1
+Camping Tent,Sports & Outdoors,2023-07-02,3,364.65,7070,95091,True,0
+Mystery Novel,Books,2023-08-21,1,946.38,1526,69059,True,2
+Yoga Mat,Sports & Outdoors,2023-05-27,1,265.76,3029,76922,True,0
+Camera,Electronics,2023-06-05,1,880.62,3029,76922,False,2
+Bed,Home & Living,2023-10-11,1,68.76,3029,76922,False,0
+Biography,Books,2023-02-18,1,904.22,3029,76922,False,2
+Camera,Electronics,2023-01-16,4,981.48,3029,76922,True,2
+Basketball,Sports & Outdoors,2023-01-22,3,572.71,2263,97922,False,2
+Laptop,Electronics,2023-07-24,5,608.03,2263,97922,False,1
+Laptop,Electronics,2022-12-19,3,965.13,2263,97922,True,2
+Handbag,Fashion,2023-06-16,1,982.59,2263,97922,True,2
+Tennis Racket,Sports & Outdoors,2023-10-28,3,53.3,2263,97922,False,0
+Smartwatch,Electronics,2022-12-07,3,75.44,3745,34072,False,0
+Shoes,Fashion,2023-02-07,4,474.09,8222,51936,False,1
+Smartphone,Electronics,2023-06-19,3,45.35,9884,3532,False,0
+Sunglasses,Fashion,2023-03-11,5,771.03,9884,3532,True,1
+Body Lotion,Beauty & Health,2022-11-28,2,39.79,9884,3532,True,0
+Dress,Fashion,2023-02-23,4,18.36,9884,3532,True,1
+Science Fiction,Books,2023-04-26,1,355.71,9884,3532,False,0
+Headphones,Electronics,2022-11-08,3,17.71,3575,44797,False,0
+Mystery Novel,Books,2023-08-30,1,528.81,4215,702,True,0
+Tennis Racket,Sports & Outdoors,2022-11-29,4,784.48,4215,702,False,2
+Yoga Mat,Sports & Outdoors,2023-04-30,4,740.05,4215,702,False,1
+History,Books,2023-05-18,2,361.73,4215,702,False,0
+Laptop,Electronics,2023-09-28,3,139.21,1642,40837,True,0
+Sunglasses,Fashion,2023-01-13,3,728.17,5309,91752,True,2
+Lamp,Home & Living,2023-03-21,4,913.51,5309,91752,True,2
+Nail Polish,Beauty & Health,2023-03-10,1,923.76,5309,91752,True,2
+Yoga Mat,Sports & Outdoors,2023-05-20,2,430.88,5309,91752,False,0
+History,Books,2023-08-09,2,297.85,2989,5820,True,0
+Body Lotion,Beauty & Health,2023-08-20,2,299.24,2989,5820,False,0
+Romance Novel,Books,2023-07-13,4,609.35,2989,5820,True,1
+Sunglasses,Fashion,2023-07-01,4,932.17,4223,59808,True,2
+Nail Polish,Beauty & Health,2023-08-15,4,698.68,1200,85759,False,1
+Yoga Mat,Sports & Outdoors,2023-10-28,3,679.13,1200,85759,True,2
+Bed,Home & Living,2023-01-17,3,996.64,7376,51262,True,2
+Lipstick,Beauty & Health,2023-06-14,2,647.55,7376,51262,False,2
+Lamp,Home & Living,2023-01-17,5,959.07,7376,51262,True,1
+Sofa,Home & Living,2023-10-28,1,425.32,9901,97204,True,0
+Dining Table,Home & Living,2023-05-15,5,958.67,9901,97204,True,1
+Handbag,Fashion,2023-06-08,2,599.83,9901,97204,False,2
+Laptop,Electronics,2023-05-06,4,440.51,4290,76839,True,1
+Yoga Mat,Sports & Outdoors,2023-02-17,5,341.15,4966,60079,False,1
+Smartphone,Electronics,2023-10-20,2,179.22,4966,60079,False,0
+Cookware,Home & Living,2022-12-27,2,731.22,8424,72818,False,2
+Handbag,Fashion,2023-06-10,4,615.82,4935,4563,False,1
+Camping Tent,Sports & Outdoors,2022-12-11,5,492.25,4935,4563,True,1
+Biography,Books,2023-01-13,2,117.2,5644,72017,True,0
+Cycling Helmet,Sports & Outdoors,2023-04-20,1,500.27,5644,72017,False,0
+Shoes,Fashion,2023-01-15,4,619.03,5644,72017,True,1
+Headphones,Electronics,2023-09-18,2,781.0,5644,72017,False,2
+Cycling Helmet,Sports & Outdoors,2023-05-03,5,901.46,3179,23241,True,1
+Body Lotion,Beauty & Health,2023-03-12,4,990.8,3179,23241,False,2
+Handbag,Fashion,2023-03-11,4,910.79,2608,60297,True,2
+Cookware,Home & Living,2022-11-19,4,942.17,2608,60297,False,2
+Lamp,Home & Living,2023-03-12,5,869.7,2608,60297,False,1
+Tennis Racket,Sports & Outdoors,2022-12-31,5,441.56,2608,60297,True,1
+Handbag,Fashion,2023-10-26,2,262.35,2608,60297,False,0
+Mystery Novel,Books,2022-12-31,2,129.4,9941,54274,False,0
+History,Books,2023-05-29,4,198.75,9941,54274,True,1
+Shirt,Fashion,2023-05-13,4,252.31,9941,54274,False,1
+Science Fiction,Books,2023-02-19,1,964.99,9941,54274,True,2
+Laptop,Electronics,2023-10-04,1,389.35,9811,63908,True,0
+Handbag,Fashion,2023-06-18,5,282.52,9811,63908,True,1
+Yoga Mat,Sports & Outdoors,2023-07-15,1,757.99,4866,15640,True,2
+Science Fiction,Books,2023-10-01,5,207.7,4866,15640,False,1
+Laptop,Electronics,2023-09-06,2,182.42,4866,15640,False,0
+Smartphone,Electronics,2022-12-10,3,402.77,4866,15640,True,0
+Dining Table,Home & Living,2023-09-02,2,735.21,3960,85210,True,2
+Laptop,Electronics,2022-12-10,3,810.12,3960,85210,True,2
+Sunglasses,Fashion,2023-03-16,1,347.32,3960,85210,True,0
+Bed,Home & Living,2022-10-31,2,613.42,3960,85210,False,2
+Tennis Racket,Sports & Outdoors,2023-02-17,5,606.12,3960,85210,False,1
+Body Lotion,Beauty & Health,2023-03-27,3,136.47,5661,18429,False,0
+Headphones,Electronics,2022-12-26,2,365.9,5661,18429,True,0
+Sunglasses,Fashion,2022-12-19,2,700.91,5661,18429,False,2
+Dining Table,Home & Living,2023-09-13,1,850.66,5661,18429,True,2
+Headphones,Electronics,2023-09-27,4,51.54,5661,18429,True,1
+History,Books,2023-10-03,1,905.69,7053,55302,True,2
+Shoes,Fashion,2023-04-20,1,815.65,7053,55302,True,2
+Camera,Electronics,2023-05-10,5,88.98,5664,49836,True,1
+Laptop,Electronics,2023-01-29,2,298.66,5664,49836,False,0
+Headphones,Electronics,2023-02-23,4,715.68,7768,25903,True,1
+Headphones,Electronics,2023-08-14,2,410.6,7885,40106,True,0
+Dress,Fashion,2023-07-15,2,731.52,7885,40106,True,2
+History,Books,2023-04-27,4,420.59,7885,40106,False,1
+Camping Tent,Sports & Outdoors,2023-04-26,3,649.43,7885,40106,False,2
+Romance Novel,Books,2023-05-31,2,675.2,7885,40106,False,2
+Lamp,Home & Living,2023-03-01,5,98.69,3720,43300,True,1
+Science Fiction,Books,2023-02-17,3,29.88,3720,43300,False,0
+Cookware,Home & Living,2023-01-08,2,11.64,8400,44969,True,0
+Shirt,Fashion,2022-12-01,2,43.6,8400,44969,True,0
+Basketball,Sports & Outdoors,2023-06-04,4,100.96,8400,44969,True,1
+Shampoo,Beauty & Health,2023-02-17,2,137.88,8400,44969,False,0
+Handbag,Fashion,2022-12-02,2,965.2,8400,44969,False,2
+Sofa,Home & Living,2023-01-30,5,221.08,7385,63158,False,1
+Basketball,Sports & Outdoors,2023-02-07,2,343.89,7385,63158,False,0
+Basketball,Sports & Outdoors,2023-04-24,2,551.16,7385,63158,True,2
+Shirt,Fashion,2023-08-08,5,244.4,7385,63158,True,1
+Sofa,Home & Living,2023-02-15,2,998.39,7385,63158,False,2
+Basketball,Sports & Outdoors,2023-01-30,3,78.65,4343,53342,True,0
+Smartwatch,Electronics,2023-09-14,3,307.91,4343,53342,True,0
+Lamp,Home & Living,2022-11-01,2,59.49,4343,53342,False,0
+Smartphone,Electronics,2023-06-12,2,233.1,5637,76061,True,0
+History,Books,2023-09-11,1,472.0,5637,76061,False,0
+Shampoo,Beauty & Health,2023-08-31,4,276.24,5637,76061,False,1
+Nail Polish,Beauty & Health,2023-03-10,3,300.68,4270,15389,True,0
+Lamp,Home & Living,2023-08-05,2,419.39,4270,15389,False,0
+Basketball,Sports & Outdoors,2023-04-01,5,610.43,9028,19636,True,1
+Sunglasses,Fashion,2023-06-28,5,742.78,9028,19636,False,1
+Perfume,Beauty & Health,2023-06-12,4,163.3,2987,78069,True,1
+Biography,Books,2023-02-01,1,295.52,8468,50315,False,0
+Camera,Electronics,2023-09-30,4,759.53,8468,50315,True,1
+Smartwatch,Electronics,2023-01-09,3,237.02,8468,50315,True,0
+Laptop,Electronics,2023-01-27,5,230.77,8468,50315,False,1
+Perfume,Beauty & Health,2022-12-22,2,234.68,8468,50315,True,0
+Headphones,Electronics,2023-01-25,2,546.03,1076,38881,True,2
+Handbag,Fashion,2022-11-07,3,796.81,1076,38881,True,2
+Romance Novel,Books,2022-12-30,2,579.13,1076,38881,False,2
+Sunglasses,Fashion,2023-01-18,1,918.16,8636,93369,False,2
+Shoes,Fashion,2023-03-30,2,578.86,8636,93369,True,2
+Cycling Helmet,Sports & Outdoors,2023-02-15,2,629.5,8636,93369,True,2
+Cycling Helmet,Sports & Outdoors,2022-11-21,1,147.12,8636,93369,False,0
+Body Lotion,Beauty & Health,2023-06-09,5,851.88,3065,59647,False,1
+Lipstick,Beauty & Health,2023-06-17,1,509.2,6661,87669,False,0
+Biography,Books,2023-01-14,3,305.36,6661,87669,True,0
+Sofa,Home & Living,2023-09-29,2,631.93,1065,12191,False,2
+Nail Polish,Beauty & Health,2023-10-29,1,487.68,1065,12191,True,0
+Shoes,Fashion,2023-09-26,4,478.36,1065,12191,False,1
+Perfume,Beauty & Health,2023-07-23,3,886.62,1065,12191,False,2
+Handbag,Fashion,2023-06-17,4,814.26,6580,24329,True,2
+Romance Novel,Books,2022-11-19,2,806.02,6580,24329,True,2
+Perfume,Beauty & Health,2023-10-13,3,523.56,6580,24329,False,2
+Dining Table,Home & Living,2023-06-23,2,150.3,6580,24329,False,0
+Smartphone,Electronics,2023-10-11,1,55.28,9808,76208,False,0
+Dress,Fashion,2023-09-09,3,710.38,9808,76208,True,2
+Smartphone,Electronics,2023-03-19,5,172.44,5676,31857,True,1
+Yoga Mat,Sports & Outdoors,2023-10-27,3,926.53,9454,23602,False,2
+Dress,Fashion,2023-02-08,4,592.29,9454,23602,True,1
+Shoes,Fashion,2022-11-10,2,973.63,9454,23602,True,2
+Dress,Fashion,2023-06-28,5,440.91,3422,9053,True,1
+Dress,Fashion,2022-11-15,3,453.33,3422,9053,True,0
+Biography,Books,2022-12-28,4,971.11,9165,62539,True,2
+Sunglasses,Fashion,2022-11-01,4,318.12,6229,72971,True,1
+Shoes,Fashion,2023-08-10,5,542.73,6229,72971,True,1
+Laptop,Electronics,2023-05-08,3,832.07,6229,72971,False,2
+Lipstick,Beauty & Health,2023-08-01,2,644.83,6229,72971,False,2
+Body Lotion,Beauty & Health,2023-05-31,4,965.76,6229,72971,False,2
+Basketball,Sports & Outdoors,2023-05-12,5,201.68,6122,84539,True,1
+Nail Polish,Beauty & Health,2022-12-23,3,478.86,6122,84539,False,0
+Lamp,Home & Living,2022-11-07,2,298.13,6122,84539,True,0
+Handbag,Fashion,2023-07-13,2,48.63,6503,49349,False,0
+Nail Polish,Beauty & Health,2023-10-04,5,784.43,6503,49349,False,1
+Sofa,Home & Living,2022-11-29,2,31.79,6503,49349,False,0
+Perfume,Beauty & Health,2023-05-26,5,366.77,1463,41829,False,1
+Headphones,Electronics,2023-06-24,1,850.67,6777,31993,False,2
+Shampoo,Beauty & Health,2023-08-30,4,92.29,6777,31993,False,1
+Perfume,Beauty & Health,2023-10-21,1,787.89,6777,31993,False,2
+Laptop,Electronics,2023-10-06,5,639.56,4798,54467,True,1
+Shampoo,Beauty & Health,2022-12-06,4,635.22,4798,54467,False,1
+Perfume,Beauty & Health,2023-08-10,2,316.83,4798,54467,True,0
+Biography,Books,2023-06-12,3,426.81,7339,96385,False,0
+Smartwatch,Electronics,2022-12-19,4,10.79,7339,96385,False,1
+Shampoo,Beauty & Health,2023-08-29,5,195.92,7339,96385,True,1
+Lipstick,Beauty & Health,2023-01-28,4,764.27,6988,82250,True,1
+Camping Tent,Sports & Outdoors,2023-09-06,1,442.33,6988,82250,False,0
+Camping Tent,Sports & Outdoors,2023-01-01,5,639.0,6988,82250,True,1
+Dining Table,Home & Living,2023-01-29,4,800.46,6988,82250,False,2
+Lamp,Home & Living,2023-08-07,5,780.69,6988,82250,True,1
+Smartwatch,Electronics,2022-11-28,5,692.39,4027,68062,True,1
+Shirt,Fashion,2023-09-27,1,574.54,4027,68062,False,2
+Lamp,Home & Living,2023-09-13,3,95.42,4027,68062,True,0
+Body Lotion,Beauty & Health,2023-02-16,4,284.34,3509,31235,True,1
+Body Lotion,Beauty & Health,2023-08-08,4,409.4,6195,10570,True,1
+Laptop,Electronics,2023-09-03,3,499.35,6195,10570,False,0
+Laptop,Electronics,2023-06-12,3,984.23,6018,48289,True,2
+Bed,Home & Living,2023-07-20,3,226.65,6018,48289,True,0
+Shoes,Fashion,2023-10-07,4,316.1,6271,76873,False,1
+Smartphone,Electronics,2023-06-08,1,450.01,2937,59144,False,0
+Cookware,Home & Living,2023-04-28,3,978.27,2937,59144,True,2
+Bed,Home & Living,2023-06-04,3,829.45,4785,41279,False,2
+Sunglasses,Fashion,2023-04-05,2,316.92,4785,41279,False,0
+Laptop,Electronics,2023-04-12,2,598.53,4785,41279,False,2
+Camping Tent,Sports & Outdoors,2023-02-11,5,803.91,4785,41279,True,1
+Cookware,Home & Living,2022-11-02,4,42.48,6658,95729,False,1
+Sofa,Home & Living,2022-11-20,1,929.68,6658,95729,True,2
+Handbag,Fashion,2023-10-28,5,973.17,6658,95729,False,1
+Handbag,Fashion,2023-10-07,3,660.5,7902,79304,False,2
+Shampoo,Beauty & Health,2023-10-13,1,795.1,7902,79304,False,2
+Lipstick,Beauty & Health,2023-07-18,4,793.31,6493,9960,True,2
+Laptop,Electronics,2023-04-26,2,510.95,6493,9960,False,0
+Dining Table,Home & Living,2023-04-18,2,699.27,6493,9960,False,2
+Shirt,Fashion,2023-01-22,5,10.85,4097,9029,False,1
+Perfume,Beauty & Health,2023-06-14,5,210.11,4097,9029,True,1
+Dress,Fashion,2022-11-04,2,566.91,1103,2428,True,2
+Mystery Novel,Books,2023-10-17,5,185.66,1103,2428,True,1
+Science Fiction,Books,2023-07-04,1,907.55,1103,2428,True,2
+Shirt,Fashion,2023-05-26,2,188.82,1103,2428,False,0
+Shirt,Fashion,2022-12-16,3,386.69,1103,2428,True,0
+Body Lotion,Beauty & Health,2023-04-02,1,478.31,6825,70437,False,0
+Sunglasses,Fashion,2023-03-04,4,333.51,6825,70437,True,1
+Cycling Helmet,Sports & Outdoors,2023-05-22,3,782.82,4186,58844,False,2
+Sunglasses,Fashion,2023-01-22,2,871.3,7823,9536,True,2
+Dress,Fashion,2023-04-12,2,853.76,7823,9536,False,2
+Camping Tent,Sports & Outdoors,2023-01-21,3,571.76,7823,9536,True,2
+Laptop,Electronics,2023-06-01,5,186.28,2641,25877,False,1
+Dining Table,Home & Living,2023-07-22,5,430.64,8590,43666,True,1
+Smartwatch,Electronics,2023-06-21,4,847.05,8590,43666,False,2
+Camera,Electronics,2023-09-09,3,122.14,8590,43666,False,0
+Body Lotion,Beauty & Health,2022-11-02,4,57.47,5842,35065,False,1
+Perfume,Beauty & Health,2023-10-17,2,127.55,5842,35065,False,0
+Nail Polish,Beauty & Health,2023-03-20,5,21.94,5842,35065,True,1
+Sofa,Home & Living,2023-04-17,1,63.77,5842,35065,True,0
+Biography,Books,2023-04-13,2,331.55,2658,16254,False,0
+Cycling Helmet,Sports & Outdoors,2023-01-16,5,838.7,1492,10199,False,1
+Headphones,Electronics,2022-12-15,5,460.17,1492,10199,True,1
+Smartphone,Electronics,2023-10-20,1,157.31,1492,10199,False,0
+Perfume,Beauty & Health,2023-06-02,4,861.16,1492,10199,False,2
+Camping Tent,Sports & Outdoors,2023-08-29,2,947.71,7329,28490,False,2
+Nail Polish,Beauty & Health,2023-01-05,2,656.74,7329,28490,True,2
+Romance Novel,Books,2023-03-25,1,722.74,7329,28490,True,2
+Shampoo,Beauty & Health,2023-09-01,1,369.76,7329,28490,False,0
+Romance Novel,Books,2023-06-08,1,844.7,7329,28490,False,2
+Cookware,Home & Living,2023-05-05,1,175.17,5740,77893,True,0
+Body Lotion,Beauty & Health,2023-06-05,1,206.83,5740,77893,True,0
+Camping Tent,Sports & Outdoors,2023-05-10,5,386.19,5740,77893,True,1
+Yoga Mat,Sports & Outdoors,2023-10-26,5,396.0,5740,77893,False,1
+Biography,Books,2023-09-02,2,441.95,6020,21872,False,0
+Shirt,Fashion,2023-05-19,3,803.52,6020,21872,True,2
+Laptop,Electronics,2023-04-29,1,258.53,6020,21872,True,0
+Laptop,Electronics,2023-03-22,4,283.9,6798,57263,True,1
+Dining Table,Home & Living,2023-02-14,2,892.34,6798,57263,False,2
+Smartphone,Electronics,2023-02-17,2,274.04,6798,57263,False,0
+Body Lotion,Beauty & Health,2023-01-11,1,203.41,5979,36775,False,0
+Smartphone,Electronics,2023-05-24,3,784.08,9339,57861,True,2
+Camera,Electronics,2022-12-10,4,96.02,9339,57861,False,1
+Tennis Racket,Sports & Outdoors,2022-11-09,1,429.64,8892,12880,False,0
+Lipstick,Beauty & Health,2022-11-29,5,264.2,8892,12880,False,1
+Smartwatch,Electronics,2023-06-19,3,784.85,8892,12880,False,2
+History,Books,2023-04-24,3,612.56,7773,29280,True,2
+Lamp,Home & Living,2023-08-08,2,886.06,7773,29280,False,2
+Lipstick,Beauty & Health,2023-10-09,4,894.23,7773,29280,True,2
+Tennis Racket,Sports & Outdoors,2023-08-27,4,349.93,7773,29280,False,1
+Basketball,Sports & Outdoors,2023-03-12,2,499.05,7773,29280,True,0
+Nail Polish,Beauty & Health,2022-12-03,1,156.2,2480,76626,True,0
+Laptop,Electronics,2023-07-25,2,944.01,2480,76626,True,2
+Tennis Racket,Sports & Outdoors,2023-04-22,4,807.93,2480,76626,False,2
+Yoga Mat,Sports & Outdoors,2023-06-19,4,270.99,2480,76626,False,1
+Perfume,Beauty & Health,2023-06-15,3,896.83,2578,57812,True,2
+Shirt,Fashion,2023-07-27,4,854.48,2578,57812,False,2
+Bed,Home & Living,2023-02-04,5,721.65,2578,57812,False,1
+Dress,Fashion,2023-01-12,2,343.58,2578,57812,True,0
+Body Lotion,Beauty & Health,2023-04-25,4,340.99,7559,23545,False,1
+Smartwatch,Electronics,2023-01-12,4,603.18,7559,23545,False,1
+Sofa,Home & Living,2023-03-11,1,39.29,6195,77214,True,0
+Cookware,Home & Living,2023-03-05,2,595.11,6195,77214,False,2
+Dress,Fashion,2022-11-13,1,700.28,6195,77214,True,2
+Shoes,Fashion,2023-09-07,2,718.88,6195,77214,True,2
+Science Fiction,Books,2023-05-20,5,542.03,6195,77214,False,1
+History,Books,2023-08-14,2,711.7,6515,45357,True,2
+Shoes,Fashion,2023-02-04,4,698.22,4830,99240,True,1
+Smartwatch,Electronics,2023-01-23,2,345.73,4830,99240,True,0
+Shoes,Fashion,2022-11-25,1,783.39,4830,99240,False,2
+Sofa,Home & Living,2023-09-30,2,467.29,6260,84110,False,0
+Romance Novel,Books,2022-11-03,5,309.19,6260,84110,False,1
+Cycling Helmet,Sports & Outdoors,2023-04-18,2,637.66,6260,84110,False,2
+Basketball,Sports & Outdoors,2023-07-30,5,396.41,6260,84110,True,1
+Dress,Fashion,2023-09-22,4,759.97,6260,84110,True,1
+Handbag,Fashion,2023-09-30,2,499.29,8344,23348,False,0
+Sunglasses,Fashion,2023-10-27,2,888.95,8344,23348,False,2
+Mystery Novel,Books,2022-11-21,2,976.51,2439,62175,False,2
+Handbag,Fashion,2023-02-09,5,767.24,6274,39875,True,1
+Biography,Books,2023-04-30,2,977.41,9853,60618,True,2
+Basketball,Sports & Outdoors,2023-07-27,2,249.39,9853,60618,False,0
+Body Lotion,Beauty & Health,2023-08-24,4,246.22,9853,60618,False,1
+History,Books,2023-06-01,4,691.57,9853,60618,False,1
+Cookware,Home & Living,2023-10-01,3,486.42,4887,73824,True,0
+Cookware,Home & Living,2023-05-02,4,339.53,4887,73824,False,1
+Basketball,Sports & Outdoors,2022-11-03,2,491.94,4887,73824,False,0
+Dress,Fashion,2023-04-15,1,377.82,4887,73824,False,0
+Bed,Home & Living,2023-09-17,4,683.83,4887,73824,False,1
+Tennis Racket,Sports & Outdoors,2023-07-10,5,447.01,4860,40388,False,1
+Science Fiction,Books,2023-02-23,5,731.74,4860,40388,False,1
+Shirt,Fashion,2023-08-17,1,813.41,4860,40388,True,2
+Camera,Electronics,2022-11-13,2,870.21,9907,65495,False,2
+Handbag,Fashion,2022-12-26,1,373.63,2707,73830,True,0
+Body Lotion,Beauty & Health,2023-02-02,3,460.79,2707,73830,False,0
+Science Fiction,Books,2023-01-09,3,616.42,2707,73830,False,2
+Bed,Home & Living,2022-11-19,2,596.5,2707,73830,True,2
+Dress,Fashion,2023-07-14,2,51.91,2707,73830,False,0
+Biography,Books,2023-04-22,5,469.0,4139,19619,True,1
+Body Lotion,Beauty & Health,2023-08-14,4,410.69,4139,19619,True,1
+Camping Tent,Sports & Outdoors,2023-06-15,5,10.14,4139,19619,True,1
+Cookware,Home & Living,2022-12-07,4,72.05,4139,19619,True,1
+Sofa,Home & Living,2023-09-01,1,547.52,4139,19619,False,0
+Shirt,Fashion,2022-11-11,3,256.77,4762,41313,False,0
+Shampoo,Beauty & Health,2023-09-21,5,21.95,1970,20759,False,1
+Yoga Mat,Sports & Outdoors,2023-01-13,1,293.85,1970,20759,False,0
+Yoga Mat,Sports & Outdoors,2022-12-01,4,61.51,1970,20759,True,1
+Smartphone,Electronics,2023-09-14,1,70.76,6160,25314,True,0
+Yoga Mat,Sports & Outdoors,2023-05-19,1,286.74,6160,25314,False,0
+Camping Tent,Sports & Outdoors,2022-11-19,3,817.05,6160,25314,False,2
+Science Fiction,Books,2023-04-16,4,912.11,6160,25314,True,2
+Shampoo,Beauty & Health,2023-03-27,3,323.69,7676,93016,True,0
+Shampoo,Beauty & Health,2023-02-03,5,342.62,2159,76807,True,1
+Shirt,Fashion,2022-11-12,2,231.49,2159,76807,True,0
+Body Lotion,Beauty & Health,2023-01-18,5,408.97,6490,39066,False,1
+Romance Novel,Books,2023-10-10,2,99.39,6490,39066,False,0
+Shirt,Fashion,2023-01-20,1,826.87,6490,39066,False,2
+Dining Table,Home & Living,2023-01-02,2,956.19,3147,57312,True,2
+Biography,Books,2023-02-23,3,941.51,3147,57312,False,2
+Shampoo,Beauty & Health,2022-12-18,2,988.28,4493,24912,False,2
+Sofa,Home & Living,2023-07-04,4,275.82,4493,24912,False,1
+Bed,Home & Living,2023-10-05,4,686.69,4493,24912,True,1
+Science Fiction,Books,2023-01-04,2,52.81,4493,24912,False,0
+Handbag,Fashion,2023-06-24,2,187.37,4493,24912,True,0
+Tennis Racket,Sports & Outdoors,2023-06-03,5,445.92,3357,50499,True,1
+Yoga Mat,Sports & Outdoors,2023-06-10,5,488.08,3357,50499,True,1
+History,Books,2023-08-27,2,699.81,8800,73376,False,2
+Lamp,Home & Living,2023-09-20,3,954.6,8800,73376,False,2
+Dining Table,Home & Living,2023-07-05,5,158.26,8800,73376,False,1
+Dining Table,Home & Living,2023-07-23,4,450.93,8800,73376,False,1
+Bed,Home & Living,2022-12-22,2,860.92,2954,57211,False,2
+Tennis Racket,Sports & Outdoors,2023-01-19,3,825.6,2954,57211,False,2
+Smartphone,Electronics,2023-05-24,1,62.88,2954,57211,True,0
+Dress,Fashion,2022-11-09,1,169.39,2954,57211,True,0
+Romance Novel,Books,2023-09-15,5,759.39,2954,57211,False,1
+Nail Polish,Beauty & Health,2023-05-17,3,413.15,8131,21094,False,0
+Headphones,Electronics,2023-03-04,4,119.52,8131,21094,True,1
+Smartphone,Electronics,2023-05-31,4,243.38,8131,21094,False,1
+Shirt,Fashion,2023-01-03,4,466.02,8131,21094,False,1
+Dining Table,Home & Living,2023-08-09,3,472.82,3801,71278,True,0
+Camping Tent,Sports & Outdoors,2023-06-26,1,349.61,3801,71278,False,0
+Sunglasses,Fashion,2022-11-30,3,783.35,3801,71278,True,2
+Handbag,Fashion,2022-11-02,4,868.45,3801,71278,False,2
+Basketball,Sports & Outdoors,2023-09-24,5,219.61,3801,71278,False,1
+Science Fiction,Books,2023-08-26,1,265.39,3241,68185,False,0
+Basketball,Sports & Outdoors,2023-08-01,2,376.31,3241,68185,True,0
+Dress,Fashion,2023-05-25,5,169.43,7945,14472,True,1
+Romance Novel,Books,2023-10-19,5,630.71,7945,14472,False,1
+Tennis Racket,Sports & Outdoors,2023-06-29,4,454.43,7945,14472,True,1
+History,Books,2023-04-26,2,750.75,9980,14551,True,2
+Camera,Electronics,2023-09-26,2,356.55,9980,14551,False,0
+Shirt,Fashion,2022-11-03,3,685.3,9980,14551,False,2
+Smartphone,Electronics,2023-09-10,1,354.38,9980,14551,True,0
+Dining Table,Home & Living,2023-05-13,3,264.63,5731,29920,True,0
+Bed,Home & Living,2023-09-30,1,834.32,5731,29920,True,2
+Perfume,Beauty & Health,2023-05-19,5,195.41,5731,29920,True,1
+Biography,Books,2023-04-05,3,328.8,5731,29920,True,0
+Camera,Electronics,2022-11-14,3,338.6,3466,43387,False,0
+Basketball,Sports & Outdoors,2023-04-28,2,114.24,3466,43387,False,0
+Tennis Racket,Sports & Outdoors,2023-09-29,4,700.67,3466,43387,True,1
+Sofa,Home & Living,2023-07-13,3,870.48,3466,43387,False,2
+Mystery Novel,Books,2022-11-13,4,445.48,8479,65041,True,1
+Romance Novel,Books,2023-09-26,1,444.5,8479,65041,False,0
+Smartwatch,Electronics,2023-06-27,1,949.02,4325,51452,True,2
+Nail Polish,Beauty & Health,2023-01-02,3,802.95,4325,51452,False,2
+Cycling Helmet,Sports & Outdoors,2023-09-15,2,709.65,4325,51452,False,2
+Body Lotion,Beauty & Health,2023-05-03,3,494.28,4325,51452,False,0
+Shampoo,Beauty & Health,2023-09-11,3,768.0,3478,31668,True,2
+Lipstick,Beauty & Health,2022-11-29,1,656.88,3478,31668,True,2
+Bed,Home & Living,2023-04-09,3,863.27,3478,31668,True,2
+Dining Table,Home & Living,2023-02-20,3,700.32,3478,31668,False,2
+Camping Tent,Sports & Outdoors,2022-12-11,2,228.77,1478,6735,False,0
+Smartwatch,Electronics,2023-02-02,2,414.41,1478,6735,False,0
+Mystery Novel,Books,2023-10-02,3,762.17,1478,6735,True,2
+Lamp,Home & Living,2023-10-24,1,302.66,1478,6735,False,0
+Dress,Fashion,2023-10-26,1,30.41,9942,59809,True,0
+Body Lotion,Beauty & Health,2022-11-28,2,627.25,7073,11902,True,2
+Body Lotion,Beauty & Health,2023-06-03,4,145.19,7073,11902,False,1
+Body Lotion,Beauty & Health,2023-10-16,1,572.94,7073,11902,False,2
+Science Fiction,Books,2023-02-11,1,333.72,9118,60920,True,0
+Sofa,Home & Living,2023-08-28,1,485.91,9118,60920,False,0
+Nail Polish,Beauty & Health,2023-09-02,1,538.84,9118,60920,False,0
+Biography,Books,2023-05-10,1,123.83,5535,43324,False,0
+Lipstick,Beauty & Health,2023-08-12,1,639.43,5535,43324,True,2
+Nail Polish,Beauty & Health,2023-09-01,3,250.08,5535,43324,False,0
+Laptop,Electronics,2023-06-27,1,418.57,5535,43324,False,0
+Lipstick,Beauty & Health,2023-06-11,5,624.72,5535,43324,True,1
+Science Fiction,Books,2023-07-12,1,511.48,2818,20326,True,0
+History,Books,2022-11-08,3,520.98,2818,20326,False,2
+Nail Polish,Beauty & Health,2023-02-17,3,632.68,2818,20326,True,2
+Basketball,Sports & Outdoors,2023-08-10,2,765.47,2818,20326,False,2
+Science Fiction,Books,2023-04-10,4,160.35,2818,20326,True,1
+Bed,Home & Living,2023-10-24,2,926.87,9806,16282,False,2
+Camping Tent,Sports & Outdoors,2023-06-25,5,852.92,9806,16282,True,1
+Mystery Novel,Books,2023-03-16,4,789.25,9806,16282,False,2
+Smartwatch,Electronics,2023-03-29,4,223.77,9806,16282,True,1
+Shirt,Fashion,2023-01-28,4,753.99,3153,41367,False,1
+Science Fiction,Books,2023-10-15,2,833.94,9987,16333,False,2
+Shoes,Fashion,2023-10-01,2,909.27,9987,16333,False,2
+Bed,Home & Living,2023-09-20,1,745.96,9987,16333,False,2
+Romance Novel,Books,2023-03-09,2,773.81,9987,16333,True,2
+Body Lotion,Beauty & Health,2022-10-30,2,727.0,9170,29743,False,2
+Tennis Racket,Sports & Outdoors,2023-06-30,5,662.99,9170,29743,False,1
+Perfume,Beauty & Health,2023-08-09,3,195.52,9170,29743,False,0
+Dress,Fashion,2023-04-30,1,65.55,4566,29764,False,0
+Shoes,Fashion,2023-07-22,2,107.8,4566,29764,False,0
+Dining Table,Home & Living,2022-11-09,2,676.93,1219,29443,False,2
+History,Books,2022-10-31,1,505.33,1219,29443,True,0
+Dress,Fashion,2023-04-15,5,211.29,1219,29443,True,1
+History,Books,2023-02-08,1,263.51,1219,29443,False,0
+Basketball,Sports & Outdoors,2023-03-31,2,175.75,1219,29443,True,0
+Shoes,Fashion,2023-02-21,3,750.33,8512,93570,False,2
+Camping Tent,Sports & Outdoors,2022-11-15,2,479.11,8512,93570,False,0
+Dress,Fashion,2023-07-02,5,791.07,6195,49934,True,1
+Handbag,Fashion,2023-04-18,4,360.42,6688,88780,False,1
+Body Lotion,Beauty & Health,2023-02-24,1,808.23,6688,88780,True,2
+Cookware,Home & Living,2023-06-17,3,568.99,6688,88780,False,2
+Dress,Fashion,2023-01-02,2,55.12,5702,60788,True,0
+Sofa,Home & Living,2022-12-24,3,532.32,5702,60788,False,2
+Yoga Mat,Sports & Outdoors,2023-10-09,4,353.96,5702,60788,True,1
+Laptop,Electronics,2023-08-01,3,204.63,9529,39672,True,0
+Headphones,Electronics,2023-08-02,2,536.2,7404,8287,True,0
+Body Lotion,Beauty & Health,2023-04-03,2,936.74,7404,8287,True,2
+Mystery Novel,Books,2023-04-19,4,828.8,7404,8287,False,2
+Biography,Books,2022-12-02,5,780.79,7404,8287,True,1
+Handbag,Fashion,2023-02-02,5,451.66,7404,8287,True,1
+Biography,Books,2023-03-05,2,786.96,4121,49250,True,2
+Tennis Racket,Sports & Outdoors,2022-11-13,4,552.38,4121,49250,True,1
+Tennis Racket,Sports & Outdoors,2023-02-12,4,640.72,4121,49250,False,1
+Camera,Electronics,2023-10-22,4,275.1,6668,72603,False,1
+Yoga Mat,Sports & Outdoors,2023-04-14,4,902.09,5241,6007,False,2
+History,Books,2023-05-02,4,458.5,5241,6007,False,1
+Perfume,Beauty & Health,2023-04-09,3,127.96,5241,6007,False,0
+Shirt,Fashion,2022-11-16,4,881.05,5241,6007,False,2
+Romance Novel,Books,2023-09-12,2,457.48,5241,6007,True,0
+History,Books,2023-03-27,4,16.62,1395,76824,True,1
+Smartwatch,Electronics,2023-02-26,4,756.91,7587,84086,True,1
+Bed,Home & Living,2023-03-16,4,306.39,7587,84086,False,1
+Perfume,Beauty & Health,2023-06-14,1,239.25,7587,84086,True,0
+Shoes,Fashion,2023-10-13,3,692.97,6160,26260,False,2
+Bed,Home & Living,2023-02-18,4,960.26,6160,26260,False,2
+Sofa,Home & Living,2023-01-12,3,481.67,6160,26260,False,0
+Smartwatch,Electronics,2023-07-23,1,541.01,6160,26260,False,0
+Dress,Fashion,2022-12-19,2,343.65,6160,26260,True,0
+History,Books,2023-06-08,5,400.87,6040,28158,False,1
+Smartwatch,Electronics,2023-08-12,5,368.36,6040,28158,False,1
+Tennis Racket,Sports & Outdoors,2023-07-24,5,796.56,6040,28158,False,1
+Bed,Home & Living,2023-02-16,5,560.26,6378,23667,True,1
+Shampoo,Beauty & Health,2023-10-28,2,700.27,6378,23667,True,2
+Camping Tent,Sports & Outdoors,2022-12-15,1,128.25,6378,23667,True,0
+Body Lotion,Beauty & Health,2023-03-25,2,64.91,6378,23667,True,0
+Bed,Home & Living,2023-10-07,5,486.82,6378,23667,False,1
+Lamp,Home & Living,2023-03-28,1,452.82,6876,40337,False,0
+Perfume,Beauty & Health,2023-10-21,1,198.95,6876,40337,True,0
+Dining Table,Home & Living,2023-03-25,2,125.32,6876,40337,False,0
+Body Lotion,Beauty & Health,2023-04-12,2,433.2,6876,40337,True,0
+Basketball,Sports & Outdoors,2023-10-08,2,103.34,6876,40337,False,0
+Smartwatch,Electronics,2023-06-01,3,148.62,7197,60436,False,0
+Smartphone,Electronics,2023-08-07,5,316.87,7197,60436,False,1
+Tennis Racket,Sports & Outdoors,2022-11-14,3,974.26,1283,89832,False,2
+Sunglasses,Fashion,2023-08-19,3,846.79,1283,89832,True,2
+Smartwatch,Electronics,2022-12-18,4,225.0,1283,89832,True,1
+History,Books,2023-09-25,4,696.53,1283,89832,True,1
+Shampoo,Beauty & Health,2023-08-17,3,14.62,1283,89832,False,0
+Mystery Novel,Books,2023-10-28,5,986.94,1613,59577,True,1
+Sunglasses,Fashion,2023-03-21,5,228.78,1613,59577,True,1
+Body Lotion,Beauty & Health,2023-05-13,4,645.5,5978,65998,False,1
+Sofa,Home & Living,2023-05-18,5,426.8,5978,65998,False,1
+Body Lotion,Beauty & Health,2023-05-01,3,723.66,5544,84174,False,2
+Handbag,Fashion,2022-11-16,5,321.11,5544,84174,False,1
+Cookware,Home & Living,2023-08-12,5,470.47,5544,84174,False,1
+Lipstick,Beauty & Health,2023-10-24,5,351.34,5544,84174,False,1
+Cycling Helmet,Sports & Outdoors,2023-06-03,2,773.58,5544,84174,False,2
+Tennis Racket,Sports & Outdoors,2023-03-07,3,884.19,7374,82517,True,2
+Romance Novel,Books,2023-09-29,5,152.22,7374,82517,False,1
+Biography,Books,2023-09-06,1,321.0,7758,77441,True,0
+Basketball,Sports & Outdoors,2023-08-29,4,361.21,7758,77441,True,1
+Tennis Racket,Sports & Outdoors,2023-01-15,5,939.67,8909,74669,True,1
+History,Books,2023-10-14,3,87.84,8909,74669,True,0
+Mystery Novel,Books,2023-05-29,3,835.91,8909,74669,False,2
+Dress,Fashion,2023-05-19,3,79.0,9506,47352,False,0
+Tennis Racket,Sports & Outdoors,2023-06-10,5,566.19,5572,73985,False,1
+Bed,Home & Living,2023-05-10,1,942.25,5572,73985,True,2
+Smartwatch,Electronics,2023-01-15,4,903.88,5572,73985,False,2
+Smartwatch,Electronics,2022-11-16,4,159.1,5572,73985,False,1
+Basketball,Sports & Outdoors,2022-11-03,4,91.72,5572,73985,False,1
+Cycling Helmet,Sports & Outdoors,2022-11-19,1,440.58,3731,65566,False,0
+Biography,Books,2022-11-15,3,212.55,3731,65566,True,0
+Smartwatch,Electronics,2023-04-28,5,729.01,3731,65566,False,1
+Shoes,Fashion,2023-05-25,1,248.74,3731,65566,False,0
+Sofa,Home & Living,2023-10-14,5,531.2,2217,75888,False,1
+Camping Tent,Sports & Outdoors,2023-05-06,5,275.88,2217,75888,False,1
+Lamp,Home & Living,2023-06-12,5,164.91,2733,68704,True,1
+Headphones,Electronics,2023-02-06,3,817.59,2733,68704,False,2
+Camping Tent,Sports & Outdoors,2023-05-22,2,551.68,2733,68704,False,2
+Biography,Books,2023-01-29,1,847.0,2733,68704,False,2
+Biography,Books,2023-09-11,3,13.17,2733,68704,False,0
+Tennis Racket,Sports & Outdoors,2022-11-13,2,905.22,4268,44769,True,2
+Shampoo,Beauty & Health,2022-11-04,1,413.6,7428,64327,True,0
+Science Fiction,Books,2022-11-17,1,990.41,7428,64327,True,2
+Lamp,Home & Living,2022-11-17,2,381.67,7428,64327,False,0
+Dining Table,Home & Living,2023-04-19,3,545.01,7428,64327,True,2
+Biography,Books,2023-06-25,3,906.75,8581,54042,True,2
+Basketball,Sports & Outdoors,2023-08-10,1,174.3,8581,54042,True,0
+Romance Novel,Books,2023-05-15,2,424.22,8581,54042,False,0
+Smartphone,Electronics,2023-03-21,1,77.44,6612,3429,False,0
+Laptop,Electronics,2023-04-25,1,834.55,6612,3429,True,2
+Sofa,Home & Living,2023-08-10,5,988.32,6612,3429,True,1
+Sunglasses,Fashion,2023-02-09,2,316.34,8338,94515,True,0
+Dress,Fashion,2023-09-24,4,963.26,6655,60588,False,2
+Sofa,Home & Living,2023-02-05,1,376.67,6655,60588,False,0
+Basketball,Sports & Outdoors,2023-09-16,3,32.29,6655,60588,True,0
+Laptop,Electronics,2023-06-20,3,863.34,6655,60588,True,2
+Nail Polish,Beauty & Health,2023-05-29,2,936.85,6655,60588,True,2
+Perfume,Beauty & Health,2023-10-03,1,680.93,8999,26323,True,2
+Perfume,Beauty & Health,2023-01-10,1,494.87,8999,26323,True,0
+Mystery Novel,Books,2022-11-14,5,133.36,8999,26323,True,1
+History,Books,2023-02-27,5,199.36,8999,26323,True,1
+Body Lotion,Beauty & Health,2023-05-11,2,448.78,8999,26323,False,0
+Cookware,Home & Living,2023-09-01,4,824.27,8277,28548,True,2
+Shampoo,Beauty & Health,2023-08-07,1,960.08,8277,28548,False,2
+Smartwatch,Electronics,2023-08-10,1,959.74,8277,28548,True,2
+Smartphone,Electronics,2023-03-13,3,699.02,8277,28548,True,2
+Laptop,Electronics,2023-08-30,2,240.32,2215,50585,False,0
+Shoes,Fashion,2023-08-22,2,212.59,2215,50585,False,0
+Biography,Books,2023-08-08,4,145.24,2215,50585,False,1
+Headphones,Electronics,2023-08-18,2,86.23,2215,50585,True,0
+Perfume,Beauty & Health,2023-01-30,2,923.75,2215,50585,True,2
+Mystery Novel,Books,2023-08-28,3,640.93,2570,82067,False,2
+History,Books,2023-10-27,4,736.87,2570,82067,False,1
+Lipstick,Beauty & Health,2022-12-31,5,174.32,2570,82067,False,1
+Smartphone,Electronics,2023-04-15,2,116.68,2570,82067,False,0
+Basketball,Sports & Outdoors,2023-04-12,2,869.74,2570,82067,False,2
+Shirt,Fashion,2023-06-26,5,240.49,4406,6441,False,1
+History,Books,2023-02-16,4,251.37,4406,6441,True,1
+Dress,Fashion,2023-02-09,5,572.47,4406,6441,True,1
+Dress,Fashion,2023-05-17,3,110.34,4406,6441,True,0
+Body Lotion,Beauty & Health,2023-10-29,2,106.44,4406,6441,True,0
+Handbag,Fashion,2023-10-02,2,933.3,7887,97871,False,2
+Dress,Fashion,2023-06-26,1,513.94,7887,97871,False,0
+Handbag,Fashion,2023-09-18,4,880.65,7887,97871,False,2
+Laptop,Electronics,2023-04-30,1,417.13,7887,97871,False,0
+Smartphone,Electronics,2023-09-10,3,756.17,7887,97871,True,2
